@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4842249733679, 
+          25.4905748346993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1078120270020", 
+        "CAPACITY": 6, 
+        "FACILID": 322, 
+        "HURZONE": "D", 
+        "PHONE2": "3052154894", 
+        "HYPERLINK": "mfernandez@sunrisegroup.org", 
+        "LON": -80.48422, 
+        "ZIPCODE": 33030, 
+        "FAX": "3052465474", 
+        "PHONE": "3052455577", 
+        "CONTACT": "Manuel Fernandez", 
+        "POINT_X": 826298.499964755, 
+        "POINT_Y": 420873.187495343, 
+        "CLOSED": "N", 
+        "ADDRESS": "444 NW 22 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.49057, 
+        "NAME": "22 Street Group Home (Sunrise Community, Inc)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43667104937109, 
+          25.513387945308843
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Naranja", 
+        "FOLIO": "3069330000722", 
+        "CAPACITY": 12, 
+        "FACILID": 398, 
+        "HURZONE": "C", 
+        "PHONE2": "3052154894", 
+        "HYPERLINK": "mfernandez@sunrisegroup.org", 
+        "LON": -80.43667, 
+        "ZIPCODE": 33032, 
+        "FAX": "3052450746", 
+        "PHONE": "3052487116", 
+        "CONTACT": "Manuel Fernandez", 
+        "POINT_X": 841949.687494338, 
+        "POINT_Y": 429228.00018201, 
+        "CLOSED": "N", 
+        "ADDRESS": "15190 SW 272 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.51339, 
+        "NAME": "Naranja Group Home"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4557808461272, 
+          25.557738949229513
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3069170000280", 
+        "CAPACITY": 120, 
+        "FACILID": 328, 
+        "HURZONE": "D", 
+        "PHONE2": "3058075017", 
+        "HYPERLINK": "mkalina@sunrisegroup.org", 
+        "LON": -80.45578, 
+        "ZIPCODE": 33170, 
+        "FAX": "3052455986", 
+        "PHONE": "3052456150", 
+        "CONTACT": "MaryEllen Kalina", 
+        "POINT_X": 835581.250100006, 
+        "POINT_Y": 445320.81248451, 
+        "CLOSED": "N", 
+        "ADDRESS": "22300 SW 162 Ave", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.55774, 
+        "NAME": "Sunrise Community, Inc (Main Facility)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41045416786638, 
+          25.656964250707397
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3059110250220", 
+        "CAPACITY": 6, 
+        "FACILID": 18, 
+        "HURZONE": "D", 
+        "PHONE2": "3052154894", 
+        "HYPERLINK": "mfernandez@sunrisegroup", 
+        "LON": -80.41045, 
+        "ZIPCODE": 33186, 
+        "FAX": "3053824252", 
+        "PHONE": "3053824166", 
+        "CONTACT": "Manuel Fernandez", 
+        "POINT_X": 850364.187397588, 
+        "POINT_Y": 481447.843904845, 
+        "CLOSED": "N", 
+        "ADDRESS": "13350 SW 119 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.65696, 
+        "NAME": "Sunrise Community- 119 Street"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35134613552498, 
+          25.623154087324565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3050290170050", 
+        "CAPACITY": 6, 
+        "FACILID": 408, 
+        "HURZONE": "D", 
+        "PHONE2": "3052053481", 
+        "HYPERLINK": "skolmer@sunrisegroup.org", 
+        "LON": -80.35135, 
+        "ZIPCODE": 33157, 
+        "FAX": "3052342000", 
+        "PHONE": "3052385322", 
+        "CONTACT": "Stephen Kolmer", 
+        "POINT_X": 869895.187049419, 
+        "POINT_Y": 469250.562525176, 
+        "CLOSED": "N", 
+        "ADDRESS": "9790 SW 157 Terrace", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.62315, 
+        "NAME": "157 Terrace Group Home (Sunrise Community)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43633242092642, 
+          25.632157396774865
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3059210011620", 
+        "CAPACITY": 6, 
+        "FACILID": 459, 
+        "HURZONE": "D", 
+        "PHONE2": "3052154894", 
+        "HYPERLINK": "mfernandez@sunrisegroup.org", 
+        "LON": -80.43633, 
+        "ZIPCODE": 33196, 
+        "FAX": "3059715132", 
+        "PHONE": "3059714797", 
+        "CONTACT": "Manuel Fernandez", 
+        "POINT_X": 841878.053123172, 
+        "POINT_Y": 472394.675331429, 
+        "CLOSED": "N", 
+        "ADDRESS": "14935 SW 145 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.63216, 
+        "NAME": "145 Street Group Home - Sunrise Community"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43177267578398, 
+          25.668971844001284
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3059100160510", 
+        "CAPACITY": 6, 
+        "FACILID": 375, 
+        "HURZONE": "D", 
+        "PHONE2": "3052053481", 
+        "HYPERLINK": "skolmer@sunrisegroup.org", 
+        "LON": -80.43177, 
+        "ZIPCODE": 33186, 
+        "FAX": "3053850470", 
+        "PHONE": "3053850406", 
+        "CONTACT": "Steve Kolmer", 
+        "POINT_X": 843322.937700588, 
+        "POINT_Y": 485781.28110409505, 
+        "CLOSED": "N", 
+        "ADDRESS": "10521 SW 146 Place", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.66897, 
+        "NAME": "146 Place Group Home (Sunrise Community, Inc)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4335600592558, 
+          25.715009460061143
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049210030530", 
+        "CAPACITY": 6, 
+        "FACILID": 228, 
+        "HURZONE": "E", 
+        "PHONE2": "3052053481", 
+        "HYPERLINK": "skolmer@sunrisegroup.org", 
+        "LON": -80.43356, 
+        "ZIPCODE": 33185, 
+        "FAX": "3055513197", 
+        "PHONE": "3055544814", 
+        "CONTACT": "Stephen Kolmer", 
+        "POINT_X": 842662.499717005, 
+        "POINT_Y": 502511.187604845, 
+        "CLOSED": "N", 
+        "ADDRESS": "5436 SW 148 Crt", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.71501, 
+        "NAME": "148 Court Group Home (Sunrise Community)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4189317229266, 
+          25.737581058241588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049150090050", 
+        "CAPACITY": 6, 
+        "FACILID": 338, 
+        "HURZONE": "E", 
+        "PHONE2": "3052053481", 
+        "HYPERLINK": "www.sunrisegroup.org", 
+        "LON": -80.41893, 
+        "ZIPCODE": 33175, 
+        "FAX": "3052215826", 
+        "PHONE": "3052277430", 
+        "CONTACT": "Stephen Kolmer", 
+        "POINT_X": 847442.749999005, 
+        "POINT_Y": 510735.843727678, 
+        "CLOSED": "N", 
+        "ADDRESS": "3210 SW 138 Crt", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.73758, 
+        "NAME": "138 Court Group Home (Sunrise Community, Inc)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32607403752525, 
+          25.95027944954304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Lakes", 
+        "FOLIO": "3020020041060", 
+        "CAPACITY": 6, 
+        "FACILID": 209, 
+        "HURZONE": null, 
+        "PHONE2": "3057988593", 
+        "HYPERLINK": "kchilds@sunrisegroup.org", 
+        "LON": -80.32607, 
+        "ZIPCODE": 33015, 
+        "FAX": "3058295631", 
+        "PHONE": "3058295602", 
+        "CONTACT": "Kathy Childs", 
+        "POINT_X": 877614.062359672, 
+        "POINT_Y": 588189.3125080911, 
+        "CLOSED": "N", 
+        "ADDRESS": "19420 W Oakmont Dr", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.95028, 
+        "NAME": "Oakmont Group Home (Sunrise Community, Inc.)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30408728701873, 
+          25.953565189177613
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3020010033070", 
+        "CAPACITY": 6, 
+        "FACILID": 195, 
+        "HURZONE": null, 
+        "PHONE2": "3057988593", 
+        "HYPERLINK": "kchilds@sunrisegroup.org", 
+        "LON": -80.30409, 
+        "ZIPCODE": 33015, 
+        "FAX": "3056259622", 
+        "PHONE": "3056259545", 
+        "CONTACT": "Kathy Childs", 
+        "POINT_X": 884832.625022255, 
+        "POINT_Y": 589421.37500459, 
+        "CLOSED": "N", 
+        "ADDRESS": "19963 NW 62 Pl", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.95357, 
+        "NAME": "Sunrise Community 62 nd  Place Group Home"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27856628384347, 
+          25.813709330299197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Springs", 
+        "FOLIO": "0531190131970", 
+        "CAPACITY": 6, 
+        "FACILID": 15140, 
+        "HURZONE": "D", 
+        "PHONE2": "3059039006", 
+        "HYPERLINK": "openarmsgrouphome@gmail.com", 
+        "LON": -80.27857, 
+        "ZIPCODE": 33166, 
+        "FAX": null, 
+        "PHONE": "3059039006", 
+        "CONTACT": "Oscar Garcia", 
+        "POINT_X": 893498.124751587, 
+        "POINT_Y": 538633.687538177, 
+        "CLOSED": "N", 
+        "ADDRESS": "389 De leon dr", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.81371, 
+        "NAME": "Open Arms Group Home"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27856628384347, 
+          25.813709330299197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Springs", 
+        "FOLIO": "0531190131970", 
+        "CAPACITY": 6, 
+        "FACILID": 16200, 
+        "HURZONE": "D", 
+        "PHONE2": "3056132597", 
+        "HYPERLINK": "garciagrouphome1@gmail.com", 
+        "LON": -80.27857, 
+        "ZIPCODE": 33166, 
+        "FAX": null, 
+        "PHONE": "7868990139", 
+        "CONTACT": "Rosa Garcia", 
+        "POINT_X": 893498.124751587, 
+        "POINT_Y": 538633.687538177, 
+        "CLOSED": "N", 
+        "ADDRESS": "389 De Leon Dr", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.81371, 
+        "NAME": "Garcia Group Home, Inc. # 1"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19349470823212, 
+          25.833285648798924
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131130560540", 
+        "CAPACITY": 56, 
+        "FACILID": 663, 
+        "HURZONE": null, 
+        "PHONE2": "3053332287", 
+        "HYPERLINK": "allaf@mactown.org", 
+        "LON": -80.19349, 
+        "ZIPCODE": 33138, 
+        "FAX": "3057598445", 
+        "PHONE": "3057584485", 
+        "CONTACT": "Alla Feldbeyn", 
+        "POINT_X": 921441.75029467, 
+        "POINT_Y": 545911.5843996779, 
+        "CLOSED": "N", 
+        "ADDRESS": "6250 NE 1st Place", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.83329, 
+        "NAME": "MACtown Inc"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32492090327862, 
+          25.943767498434216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Lakes", 
+        "FOLIO": "3020020040470", 
+        "CAPACITY": 6, 
+        "FACILID": 285, 
+        "HURZONE": null, 
+        "PHONE2": "3057988593", 
+        "HYPERLINK": "kchilds@sunrisegroup.org", 
+        "LON": -80.32492, 
+        "ZIPCODE": 33015, 
+        "FAX": "3058295004", 
+        "PHONE": "3058295010", 
+        "CONTACT": "Kathy Childs", 
+        "POINT_X": 878005.1875616721, 
+        "POINT_Y": 585824.374980755, 
+        "CLOSED": "N", 
+        "ADDRESS": "18711 Wentworth Drive", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.94377, 
+        "NAME": "Wentworth Group Home (Sunrise Community)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47795812023203, 
+          25.481284357480927
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1078120010010", 
+        "CAPACITY": 12, 
+        "FACILID": 509, 
+        "HURZONE": "D", 
+        "PHONE2": "3052154894", 
+        "HYPERLINK": "mfernandez@sunrisegroup.org", 
+        "LON": -80.47796, 
+        "ZIPCODE": 33030, 
+        "FAX": "3052453351", 
+        "PHONE": "3052420600", 
+        "CONTACT": "Manuel Fernandez", 
+        "POINT_X": 828378.9374049191, 
+        "POINT_Y": 417504.718838595, 
+        "CLOSED": "N", 
+        "ADDRESS": "1102 N. Krome Ave", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.48128, 
+        "NAME": "Krome Apartments-Sunrise Community Inc"
+      }
+    }
+  ]
+}

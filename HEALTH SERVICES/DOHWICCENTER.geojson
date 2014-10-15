@@ -1,0 +1,481 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41526141261893, 
+          25.522172554779193
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3069270000520", 
+        "NAME": "Naranja Communty Health Center", 
+        "EDIT_DATE": "2012/10/26", 
+        "LON": -80.41526, 
+        "ZIPCODE": 33032, 
+        "FAX": "305-257-0721", 
+        "PHONE": "305-257-0720", 
+        "CONTACT": "D. Fontus", 
+        "POINT_X": 848996.5920513349, 
+        "POINT_Y": 432451.180308357, 
+        "BRANCH": null, 
+        "ADDRESS": "13805 SW 264TH ST", 
+        "LAT": 25.52217, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32355995693683, 
+          25.8175211253323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3530220080010", 
+        "NAME": "WIC Administrative Office", 
+        "EDIT_DATE": "2012/10/26", 
+        "LON": -80.32356, 
+        "ZIPCODE": 33175, 
+        "FAX": "786-336-1313", 
+        "PHONE": "786-336-1333", 
+        "CONTACT": "D. West", 
+        "POINT_X": 878688.9008149881, 
+        "POINT_Y": 539940.49932047, 
+        "BRANCH": null, 
+        "ADDRESS": "7785 NW 48TH ST", 
+        "LAT": 25.81752, 
+        "UNIT": "Suit 300", 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21206515519764, 
+          25.791465080635295
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350030040", 
+        "NAME": "University of Miami UM/JMH-WIC", 
+        "EDIT_DATE": "2010/03/11", 
+        "LON": -80.21207, 
+        "ZIPCODE": 33136, 
+        "FAX": "305-585-7620", 
+        "PHONE": "305-585-7847", 
+        "CONTACT": "M. Rosenblum", 
+        "POINT_X": 915424.356081199, 
+        "POINT_Y": 530674.122607835, 
+        "BRANCH": "Jackson Memorial Hospital JMH", 
+        "ADDRESS": "1611 NW 12TH AVE", 
+        "LAT": 25.79147, 
+        "UNIT": "L-207", 
+        "EDITOR_NAM": "nba"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21014715931504, 
+          25.776181475594772
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141380030690", 
+        "NAME": "Penalver Clinic", 
+        "EDIT_DATE": "2012/10/26", 
+        "LON": -80.21015, 
+        "ZIPCODE": 33128, 
+        "FAX": "305-325-3490", 
+        "PHONE": "305-545-5180", 
+        "CONTACT": "J. Aviles", 
+        "POINT_X": 916088.780273817, 
+        "POINT_Y": 525122.827626668, 
+        "BRANCH": null, 
+        "ADDRESS": "971 NW 2ND ST", 
+        "LAT": 25.77618, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29328430286836, 
+          25.70897454711777
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "SOUTH MIAMI", 
+        "FOLIO": "0940250630030", 
+        "NAME": "South Miami WIC Center", 
+        "EDIT_DATE": "2012/10/26", 
+        "LON": -80.29328, 
+        "ZIPCODE": 33143, 
+        "FAX": "305-669-6997", 
+        "PHONE": "305-669-6922", 
+        "CONTACT": "D. Arencibia", 
+        "POINT_X": 888860.237016458, 
+        "POINT_Y": 500540.407379776, 
+        "BRANCH": "Rosie Lee Clinic", 
+        "ADDRESS": "6601 SW 62ND AVE", 
+        "LAT": 25.70897, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29380934233109, 
+          25.869335310659476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430010130570", 
+        "NAME": "Hialeah West WIC Center", 
+        "EDIT_DATE": "2012/10/26", 
+        "LON": -80.29381, 
+        "ZIPCODE": 33012, 
+        "FAX": "305-364-3122", 
+        "PHONE": "305-364-3119", 
+        "CONTACT": "V. Amor-Martines", 
+        "POINT_X": 888374.800088007, 
+        "POINT_Y": 558824.5699940551, 
+        "BRANCH": null, 
+        "ADDRESS": "551 W 51 PL", 
+        "LAT": 25.86934, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35764860356103, 
+          25.565555738099256
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3060170030010", 
+        "NAME": "Goulds WIC Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.35765, 
+        "ZIPCODE": 33190, 
+        "FAX": "305-254-4901", 
+        "PHONE": "305-252-4459", 
+        "CONTACT": "S. Budyszewick", 
+        "POINT_X": 867919.889092956, 
+        "POINT_Y": 448306.341667123, 
+        "BRANCH": "CHI Clinic", 
+        "ADDRESS": "10300 SW 216TH ST", 
+        "LAT": 25.56556, 
+        "UNIT": null, 
+        "EDITOR_NAM": "emilym"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35563663981033, 
+          25.59967141263994
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3050320610020", 
+        "NAME": "West Perrine WIC Center", 
+        "EDIT_DATE": "2012/10/26", 
+        "LON": -80.35564, 
+        "ZIPCODE": 33157, 
+        "FAX": "305-234-9656", 
+        "PHONE": "305-278-1090", 
+        "CONTACT": "I. Martin", 
+        "POINT_X": 868522.9401015191, 
+        "POINT_Y": 460708.870958678, 
+        "BRANCH": null, 
+        "ADDRESS": "18255 HOMESTEAD AVE", 
+        "LAT": 25.59967, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48823911459569, 
+          25.447132414568074
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "FOLIO": "1678250000365", 
+        "NAME": "Homestead/Fla City WIC Center", 
+        "EDIT_DATE": "2012/10/26", 
+        "LON": -80.48824, 
+        "ZIPCODE": 33034, 
+        "FAX": "305-242-2460", 
+        "PHONE": "305-242-2459", 
+        "CONTACT": "A. Pastrana", 
+        "POINT_X": 825035.030685019, 
+        "POINT_Y": 405079.440122865, 
+        "BRANCH": "Homestead/Fla City WIC Office", 
+        "ADDRESS": "753 W PALM DR", 
+        "LAT": 25.44713, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2133123213902, 
+          25.90437792789441
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3021230130011", 
+        "NAME": "North Miami WIC Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.21331, 
+        "ZIPCODE": 33168, 
+        "FAX": "305-694-2940", 
+        "PHONE": "305-694-2935", 
+        "CONTACT": "N. Ashley", 
+        "POINT_X": 914768.2884965871, 
+        "POINT_Y": 571712.024470054, 
+        "BRANCH": null, 
+        "ADDRESS": "14101 NW 8TH AVE", 
+        "LAT": 25.90438, 
+        "UNIT": null, 
+        "EDITOR_NAM": "emilym"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24231502591847, 
+          25.846402118152564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3031090000120", 
+        "NAME": "Juanita Mann Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.24232, 
+        "ZIPCODE": 33147, 
+        "FAX": "305-694-2940", 
+        "PHONE": "305-694-2935", 
+        "CONTACT": "P. Scott", 
+        "POINT_X": 905355.726311821, 
+        "POINT_Y": 550583.469186381, 
+        "BRANCH": "North Miami Shopping Center", 
+        "ADDRESS": "7900 NW 27TH AVE", 
+        "LAT": 25.8464, 
+        "UNIT": null, 
+        "EDITOR_NAM": "emilym"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2787536750244, 
+          25.940445579833845
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3021060180010", 
+        "NAME": "Carol City WIC Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.27875, 
+        "ZIPCODE": 33055, 
+        "FAX": "305-628-7298", 
+        "PHONE": "305-628-7294", 
+        "CONTACT": "S. Wade", 
+        "POINT_X": 893183.385308485, 
+        "POINT_Y": 584697.837474152, 
+        "BRANCH": "Las Villas Plaza", 
+        "ADDRESS": "4737 NW 183RD ST", 
+        "LAT": 25.94045, 
+        "UNIT": null, 
+        "EDITOR_NAM": "emilym"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19326229065852, 
+          25.85093718609059
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131120080450", 
+        "NAME": "Little River WIC Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.19326, 
+        "ZIPCODE": 33138, 
+        "FAX": "305-795-2012", 
+        "PHONE": "305-795-2010", 
+        "CONTACT": "TBA", 
+        "POINT_X": 921478.8205988371, 
+        "POINT_Y": 552327.860100001, 
+        "BRANCH": null, 
+        "ADDRESS": "8260 NE 2ND AVE", 
+        "LAT": 25.85094, 
+        "UNIT": null, 
+        "EDITOR_NAM": "emilym"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38989256009661, 
+          25.746744779232145
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3049120680020", 
+        "NAME": "West Dade WIC Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.38989, 
+        "ZIPCODE": 33175, 
+        "FAX": "305-225-5937", 
+        "PHONE": "305-255-5921", 
+        "CONTACT": "S. Ruiz", 
+        "POINT_X": 856986.679994773, 
+        "POINT_Y": 514109.60163240903, 
+        "BRANCH": null, 
+        "ADDRESS": "11865 SW 26TH ST", 
+        "LAT": 25.74674, 
+        "UNIT": "Unit G-4", 
+        "EDITOR_NAM": "emilym"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18041701846484, 
+          25.927753229638743
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0722170130080", 
+        "NAME": "North Miami Beach WIC Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.18042, 
+        "ZIPCODE": 33162, 
+        "FAX": "305-787-0509", 
+        "PHONE": "305-787-0511", 
+        "CONTACT": "L. Strickland", 
+        "POINT_X": 925529.03039461, 
+        "POINT_Y": 580274.576286033, 
+        "BRANCH": null, 
+        "ADDRESS": "995 N MIAMI BEACH BLVD", 
+        "LAT": 25.92775, 
+        "UNIT": null, 
+        "EDITOR_NAM": "emilym"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23993234868705, 
+          25.78786750067554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131330630010", 
+        "NAME": "Unity WIC Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.23993, 
+        "ZIPCODE": 33125, 
+        "FAX": "305-637-2295", 
+        "PHONE": "305-637-2294", 
+        "CONTACT": "A. Chiaro", 
+        "POINT_X": 906262.2945046651, 
+        "POINT_Y": 529312.628846571, 
+        "BRANCH": null, 
+        "ADDRESS": "1490 NW 27TH AVE", 
+        "LAT": 25.78787, 
+        "UNIT": null, 
+        "EDITOR_NAM": "emilym"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3664504725042, 
+          25.75348148070094
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3040080000120", 
+        "NAME": "University WIC Center", 
+        "EDIT_DATE": "2013/06/10", 
+        "LON": -80.36645, 
+        "ZIPCODE": 33174, 
+        "FAX": "305-225-5964", 
+        "PHONE": "305-225-5963", 
+        "CONTACT": "V. Arenas", 
+        "POINT_X": 864691.1948179491, 
+        "POINT_Y": 516594.48227472603, 
+        "BRANCH": "University Clinic", 
+        "ADDRESS": "1621 SW 107th AVE", 
+        "LAT": 25.75348, 
+        "UNIT": null, 
+        "EDITOR_NAM": "emilym"
+      }
+    }
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20249338467809, 
+          25.93101982405378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "AIDS Health Care Foundation Men's Wellness Clinic", 
+        "LON": -80.20249, 
+        "ZIPCODE": 33136, 
+        "PHONE": null, 
+        "POINT_X": 918265.9374205881, 
+        "POINT_Y": 581417.124937005, 
+        "ADDRESS": "100 NW 170 ST, Suite 200", 
+        "LAT": 25.93102
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21474457782105, 
+          25.860230702806327
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "JT-North Wellness Center", 
+        "LON": -80.21474, 
+        "ZIPCODE": 33150, 
+        "PHONE": null, 
+        "POINT_X": 914393.461569753, 
+        "POINT_Y": 555662.969752505, 
+        "ADDRESS": "1190 NW 95th St Suite 304", 
+        "LAT": 25.86023
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13201888854927, 
+          25.854691650631757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "MB-Beverly Press/Behavioral Health", 
+        "LON": -80.13202, 
+        "ZIPCODE": 33141, 
+        "PHONE": null, 
+        "POINT_X": 941611.874980588, 
+        "POINT_Y": 553820.875011511, 
+        "ADDRESS": "1221 71 St", 
+        "LAT": 25.85469
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40989006141943, 
+          25.477393025189425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "CHI-South Dade", 
+        "LON": -80.40989, 
+        "ZIPCODE": 33033, 
+        "PHONE": null, 
+        "POINT_X": 850840.1126268359, 
+        "POINT_Y": 416184.20737201, 
+        "ADDRESS": "13600 SW 312th St", 
+        "LAT": 25.47739
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40989006141943, 
+          25.477393025189425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "CHI-South Dade", 
+        "LON": -80.40989, 
+        "ZIPCODE": 33033, 
+        "PHONE": null, 
+        "POINT_X": 850840.1126268359, 
+        "POINT_Y": 416184.20737201, 
+        "ADDRESS": "13600 SW 312th St", 
+        "LAT": 25.47739
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21144301401941, 
+          25.788194909149375
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "University of Miami OB-GYN", 
+        "LON": -80.21144, 
+        "ZIPCODE": 33136, 
+        "PHONE": null, 
+        "POINT_X": 915636.187758837, 
+        "POINT_Y": 529486.750123426, 
+        "ADDRESS": "1400 NW 10th Ave", 
+        "LAT": 25.78819
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21447883161198, 
+          25.791210913549843
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "University of Miami Adolescent Medicine Counseling and Testing", 
+        "LON": -80.21448, 
+        "ZIPCODE": 33136, 
+        "PHONE": null, 
+        "POINT_X": 914630.6933787541, 
+        "POINT_Y": 530576.9963025079, 
+        "ADDRESS": "1601 NW 12th Ave", 
+        "LAT": 25.79121
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21207163881739, 
+          25.79111965163565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "SFAN - Jackson Memorial Hospital", 
+        "LON": -80.21207, 
+        "ZIPCODE": 33136, 
+        "PHONE": null, 
+        "POINT_X": 915422.973946422, 
+        "POINT_Y": 530548.558039173, 
+        "ADDRESS": "1611 NW 12th Ave", 
+        "LAT": 25.79112
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16249112616232, 
+          25.93119092600143
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "PROVIDER": "Women and Teens Health Care Center", 
+        "LON": -80.16249, 
+        "ZIPCODE": 33162, 
+        "PHONE": null, 
+        "POINT_X": 931412.78645492, 
+        "POINT_Y": 581561.352010757, 
+        "ADDRESS": "16876 NE 19 Ave", 
+        "LAT": 25.93119
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14770966788372, 
+          25.94189054675315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Aventura", 
+        "PROVIDER": "King David Foundation", 
+        "LON": -80.14771, 
+        "ZIPCODE": 33160, 
+        "PHONE": null, 
+        "POINT_X": 936245.608482171, 
+        "POINT_Y": 585481.751650259, 
+        "ADDRESS": "17971 Biscayne Blvd", 
+        "LAT": 25.94189
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21141673746615, 
+          25.793323366342243
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "University of Miami AIDS Clinical Research Unit", 
+        "LON": -80.21142, 
+        "ZIPCODE": 33136, 
+        "PHONE": null, 
+        "POINT_X": 915633.6710315871, 
+        "POINT_Y": 531350.8248073381, 
+        "ADDRESS": "1800 NW 10TH Ave", 
+        "LAT": 25.79332
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35553455535829, 
+          25.599861145134437
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Miami-Dade County Health Department Women\u00bfs Health Program", 
+        "LON": -80.35553, 
+        "ZIPCODE": 33034, 
+        "PHONE": null, 
+        "POINT_X": 868556.248782422, 
+        "POINT_Y": 460777.992856175, 
+        "ADDRESS": "18255 Homestead Ave", 
+        "LAT": 25.59986
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2060367081578, 
+          25.943590898977572
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "More Than Conquerors Outreach Ministries", 
+        "LON": -80.20604, 
+        "ZIPCODE": 33136, 
+        "PHONE": null, 
+        "POINT_X": 917073.687180422, 
+        "POINT_Y": 585979.312334925, 
+        "ADDRESS": "18350 NW 2nd Ave Suite 616", 
+        "LAT": 25.94359
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47706391762682, 
+          25.472427039435825
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "New World Health Centers, Inc", 
+        "LON": -80.47706, 
+        "ZIPCODE": 33033, 
+        "PHONE": null, 
+        "POINT_X": 828686.562445838, 
+        "POINT_Y": 414286.78104876, 
+        "ADDRESS": "239 N. Krome Ave", 
+        "LAT": 25.47243
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18967043984053, 
+          25.80450155544533
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "AIDS Healthcare oundation/Out of the Closet", 
+        "LON": -80.18967, 
+        "ZIPCODE": 33137, 
+        "PHONE": null, 
+        "POINT_X": 922764.125274587, 
+        "POINT_Y": 535457.187657595, 
+        "ADDRESS": "2900 Biscayne Blvd", 
+        "LAT": 25.8045
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18967043984053, 
+          25.80450155544533
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "AIDS Healthcare Foundation", 
+        "LON": -80.18967, 
+        "ZIPCODE": 33137, 
+        "PHONE": null, 
+        "POINT_X": 922764.125274587, 
+        "POINT_Y": 535457.187657595, 
+        "ADDRESS": "2900 Biscayne Blvd", 
+        "LAT": 25.8045
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45258254725601, 
+          25.492396941447847
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Sembrado Flores", 
+        "LON": -80.45258, 
+        "ZIPCODE": 33033, 
+        "PHONE": null, 
+        "POINT_X": 836733.437756255, 
+        "POINT_Y": 421577.09356784105, 
+        "ADDRESS": "29355 South Federal Highway", 
+        "LAT": 25.4924
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.279711437796, 
+          25.824833359723748
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Family AIDS Coalition, Inc", 
+        "LON": -80.27971, 
+        "ZIPCODE": 33101, 
+        "PHONE": null, 
+        "POINT_X": 893099.250221252, 
+        "POINT_Y": 542674.812658012, 
+        "ADDRESS": "300 East 1st Ave, Suite 112", 
+        "LAT": 25.82483
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19072200581617, 
+          25.848772643011447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami-Dade County Health Department Little Haiti Health Center", 
+        "LON": -80.19072, 
+        "ZIPCODE": 33138, 
+        "PHONE": null, 
+        "POINT_X": 922319.125180338, 
+        "POINT_Y": 551546.24996759, 
+        "ADDRESS": "300 NE 80 Terrace", 
+        "LAT": 25.84877
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13099076451232, 
+          25.790451175999554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "South Beach AIDS Project", 
+        "LON": -80.13099, 
+        "ZIPCODE": 33139, 
+        "PHONE": null, 
+        "POINT_X": 942104.274258252, 
+        "POINT_Y": 530473.44565659, 
+        "ADDRESS": "306 Lincoln Road", 
+        "LAT": 25.79045
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2544931676254, 
+          25.73431055915011
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "H. B. Bentley Family Health Center", 
+        "LON": -80.25449, 
+        "ZIPCODE": 33133, 
+        "PHONE": null, 
+        "POINT_X": 901581.062653922, 
+        "POINT_Y": 509819.28125634, 
+        "ADDRESS": "3090 SW 37th Ave", 
+        "LAT": 25.73431
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20067161082025, 
+          25.778403455883257
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Camillus Health Concern", 
+        "LON": -80.20067, 
+        "ZIPCODE": 33128, 
+        "PHONE": null, 
+        "POINT_X": 919202.1878446711, 
+        "POINT_Y": 525949.249980591, 
+        "ADDRESS": "336 NW 5th St", 
+        "LAT": 25.7784
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1899715576389, 
+          25.80963813328997
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Community AIDS Resource", 
+        "LON": -80.18997, 
+        "ZIPCODE": 33137, 
+        "PHONE": null, 
+        "POINT_X": 922653.5621755051, 
+        "POINT_Y": 537323.562533759, 
+        "ADDRESS": "3510 Biscayne Blvd", 
+        "LAT": 25.80964
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1899715576389, 
+          25.80963813328997
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Care Resource", 
+        "LON": -80.18997, 
+        "ZIPCODE": 33137, 
+        "PHONE": null, 
+        "POINT_X": 922653.5621755051, 
+        "POINT_Y": 537323.562533759, 
+        "ADDRESS": "3510 Biscayne Blvd", 
+        "LAT": 25.80964
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19061860269456, 
+          25.810908965179223
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Borinquen Health Care Center", 
+        "LON": -80.19062, 
+        "ZIPCODE": 33137, 
+        "PHONE": null, 
+        "POINT_X": 922437.844103005, 
+        "POINT_Y": 537784.160365842, 
+        "ADDRESS": "3601 Federal Hwy", 
+        "LAT": 25.81091
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2520786403245, 
+          25.72745099972604
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Thelma Gibson Health Initiative", 
+        "LON": -80.25208, 
+        "ZIPCODE": 33133, 
+        "PHONE": null, 
+        "POINT_X": 902390.0626763371, 
+        "POINT_Y": 507330.593648426, 
+        "ADDRESS": "3634 Grand Ave", 
+        "LAT": 25.72745
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21489304885368, 
+          25.742107678778286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Mercy Hospital -Special Immunology", 
+        "LON": -80.21489, 
+        "ZIPCODE": 33133, 
+        "PHONE": null, 
+        "POINT_X": 914600.713123754, 
+        "POINT_Y": 512728.864019841, 
+        "ADDRESS": "3663 South Miami", 
+        "LAT": 25.74211
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32163993420697, 
+          25.85975732308005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Citrus Heath Network", 
+        "LON": -80.32164, 
+        "ZIPCODE": 33012, 
+        "PHONE": null, 
+        "POINT_X": 879241.312386002, 
+        "POINT_Y": 555295.0626799241, 
+        "ADDRESS": "4175 W 20th Ave", 
+        "LAT": 25.85976
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48271721905694, 
+          25.45597049756283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Farmworker Association of Florida/HIV Confidential Testing", 
+        "LON": -80.48272, 
+        "ZIPCODE": 33034, 
+        "PHONE": null, 
+        "POINT_X": 826844.687192589, 
+        "POINT_Y": 408298.562710255, 
+        "ADDRESS": "450 Davis Parkway", 
+        "LAT": 25.45597
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2407861887904, 
+          25.817173863483703
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Teen Pregnancy Prevention Center", 
+        "LON": -80.24079, 
+        "ZIPCODE": 33142, 
+        "PHONE": null, 
+        "POINT_X": 905919.893215086, 
+        "POINT_Y": 539962.863357507, 
+        "ADDRESS": "4638 NW 27th Ave", 
+        "LAT": 25.81717
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23224849512033, 
+          25.823780877639226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "JT-Jesse Trice", 
+        "LON": -80.23225, 
+        "ZIPCODE": 33142, 
+        "PHONE": null, 
+        "POINT_X": 908714.5664315041, 
+        "POINT_Y": 542380.595070593, 
+        "ADDRESS": "5361 NW 22nd Ave", 
+        "LAT": 25.82378
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23192201173103, 
+          25.83109540159197
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Belafonte Talcolcy Center, Inc", 
+        "LON": -80.23192, 
+        "ZIPCODE": 33142, 
+        "PHONE": null, 
+        "POINT_X": 908806.4376388381, 
+        "POINT_Y": 545039.812521175, 
+        "ADDRESS": "6161 NW 22nd Ave", 
+        "LAT": 25.8311
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1412146011639, 
+          25.777219009481385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "MB-Stanley C. Meyers", 
+        "LON": -80.14121, 
+        "ZIPCODE": 33139, 
+        "PHONE": null, 
+        "POINT_X": 938771.437420003, 
+        "POINT_Y": 525641.87526726, 
+        "ADDRESS": "710 Alton Rd", 
+        "LAT": 25.77722
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1412146011639, 
+          25.777219009481385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "Miami Beach Community Health Center Stanley C. Myers Building", 
+        "LON": -80.14121, 
+        "ZIPCODE": 33139, 
+        "PHONE": null, 
+        "POINT_X": 938771.437420003, 
+        "POINT_Y": 525641.87526726, 
+        "ADDRESS": "710 Alton Rd", 
+        "LAT": 25.77722
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23016353348017, 
+          25.78002840805535
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Union Positiva", 
+        "LON": -80.23016, 
+        "ZIPCODE": 33125, 
+        "PHONE": null, 
+        "POINT_X": 909493.437249087, 
+        "POINT_Y": 526482.0625632551, 
+        "ADDRESS": "721 NW 21st CT", 
+        "LAT": 25.78003
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1932721452376, 
+          25.850944848210727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Center for Haitian Studies", 
+        "LON": -80.19327, 
+        "ZIPCODE": 33138, 
+        "PHONE": null, 
+        "POINT_X": 921475.5625630021, 
+        "POINT_Y": 552330.625039257, 
+        "ADDRESS": "8260 NE 2nd Ave", 
+        "LAT": 25.85094
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23334951150748, 
+          25.85031697361717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Empower-u Incorporated", 
+        "LON": -80.23335, 
+        "ZIPCODE": 33147, 
+        "PHONE": null, 
+        "POINT_X": 908296.131572839, 
+        "POINT_Y": 552023.496388428, 
+        "ADDRESS": "8309 NW 22 Ave", 
+        "LAT": 25.85032
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21033510888046, 
+          25.776148407517137
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Dr. Rafael Penalver", 
+        "LON": -80.21034, 
+        "ZIPCODE": 33128, 
+        "PHONE": null, 
+        "POINT_X": 916026.999969337, 
+        "POINT_Y": 525110.4376818391, 
+        "ADDRESS": "971 NW 2nd St", 
+        "LAT": 25.77615
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2434471207202, 
+          25.728046031185478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Condom USA", 
+        "LON": -80.24345, 
+        "ZIPCODE": 33133, 
+        "PHONE": null, 
+        "POINT_X": 905230.510735586, 
+        "POINT_Y": 507563.06103126, 
+        "ADDRESS": "3066 Grand Ave", 
+        "LAT": 25.72805
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16595636850705, 
+          25.882669292793377
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "PROVIDER": "MB-North Miami", 
+        "LON": -80.16596, 
+        "ZIPCODE": 33181, 
+        "PHONE": null, 
+        "POINT_X": 930386.065083172, 
+        "POINT_Y": 563917.692744345, 
+        "ADDRESS": "11645 Biscayne Blvd Suite 103, 104", 
+        "LAT": 25.88267
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.190539249525, 
+          25.77702196298013
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Switchboard of Miami", 
+        "LON": -80.19054, 
+        "ZIPCODE": 33132, 
+        "PHONE": null, 
+        "POINT_X": 922539.673951838, 
+        "POINT_Y": 525467.4825714229, 
+        "ADDRESS": "190 NE 3rd St", 
+        "LAT": 25.77702
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25810579345602, 
+          25.771552981442127
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Behavioral Health Center", 
+        "LON": -80.25811, 
+        "ZIPCODE": 33126, 
+        "PHONE": null, 
+        "POINT_X": 900315.616365921, 
+        "POINT_Y": 523348.79389542306, 
+        "ADDRESS": "3850 West Flagler St.", 
+        "LAT": 25.77155
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18856673420645, 
+          25.8064044432469
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "The Village South, Inc", 
+        "LON": -80.18857, 
+        "ZIPCODE": 33138, 
+        "PHONE": null, 
+        "POINT_X": 923122.993979421, 
+        "POINT_Y": 536151.064878762, 
+        "ADDRESS": "401 NE 31 St", 
+        "LAT": 25.8064
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48900974940321, 
+          25.466069805265196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "AMOS Project, Inc.", 
+        "LON": -80.48901, 
+        "ZIPCODE": 33030, 
+        "PHONE": null, 
+        "POINT_X": 824754.351806339, 
+        "POINT_Y": 411961.02520158904, 
+        "ADDRESS": "951 SW 4th St", 
+        "LAT": 25.46607
+      }
+    }
+  ]
+}

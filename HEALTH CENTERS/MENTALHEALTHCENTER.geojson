@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32163993420697, 
+          25.85975732308005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Citrus Health Network Inc", 
+        "LON": -80.32164, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 879241.312386002, 
+        "POINT_Y": 555295.0626799241, 
+        "ADDRESS": "4175 W 20th Ave", 
+        "LAT": 25.85976
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24323865790923, 
+          25.911458257709178
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa Locka", 
+        "PROVIDER": "Jackson North CMHC", 
+        "LON": -80.24324, 
+        "ZIPCODE": 33054, 
+        "POINT_X": 904915.624882422, 
+        "POINT_Y": 574227.624880344, 
+        "ADDRESS": "15055 NW 27 Ave", 
+        "LAT": 25.91146
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25786512787614, 
+          25.771556362133488
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Behavioral Health Center", 
+        "LON": -80.25787, 
+        "ZIPCODE": 33134, 
+        "POINT_X": 900394.8127298361, 
+        "POINT_Y": 523350.468760841, 
+        "ADDRESS": "3850 W Flagler St", 
+        "LAT": 25.77156
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21186177094441, 
+          25.85868013455368
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Bayview MHCC", 
+        "LON": -80.21186, 
+        "ZIPCODE": 33150, 
+        "POINT_X": 915344.875021253, 
+        "POINT_Y": 555105.06273184, 
+        "ADDRESS": "9198 NW 8th Ave", 
+        "LAT": 25.85868
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35806015666515, 
+          25.5657662017056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Cutler Bay", 
+        "PROVIDER": "CHI South Dade CMHC", 
+        "LON": -80.35806, 
+        "ZIPCODE": 33190, 
+        "POINT_X": 867783.84579967, 
+        "POINT_Y": 448382.178080924, 
+        "ADDRESS": "10300 SW 216th St", 
+        "LAT": 25.56577
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13566458951834, 
+          25.790957031540202
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "Douglas Gardens MHCC", 
+        "LON": -80.13566, 
+        "ZIPCODE": 33139, 
+        "POINT_X": 940565.125105586, 
+        "POINT_Y": 530647.187435091, 
+        "ADDRESS": "701 Lincoln Road", 
+        "LAT": 25.79096
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18844591278298, 
+          25.818942082773415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "LockTowns CMHC Jackson", 
+        "LON": -80.18845, 
+        "ZIPCODE": 33137, 
+        "POINT_X": 923134.637328837, 
+        "POINT_Y": 540708.353008255, 
+        "ADDRESS": "4770 Biscayne Blvd", 
+        "LAT": 25.81894
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1883855870891, 
+          25.797940173551908
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "INNER REFLECTION CMHC, INC.", 
+        "LON": -80.18839, 
+        "ZIPCODE": 33137, 
+        "POINT_X": 923201.562719919, 
+        "POINT_Y": 533074.937500842, 
+        "ADDRESS": "2125 Biscayne Boulevard", 
+        "LAT": 25.79794
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36417726534148, 
+          25.59561164516503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "MEMBERSHIP THERAPY CENTER, CMHC", 
+        "LON": -80.36418, 
+        "ZIPCODE": 33157, 
+        "POINT_X": 865715.2944905871, 
+        "POINT_Y": 459219.762704924, 
+        "ADDRESS": "10680 SW 186 St", 
+        "LAT": 25.59561
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2536919943959, 
+          25.78761528344807
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "New Horizons Community Mental Health Center, Inc.", 
+        "LON": -80.25369, 
+        "ZIPCODE": 33125, 
+        "POINT_X": 901735.124681752, 
+        "POINT_Y": 529195.062058508, 
+        "ADDRESS": "1469 NW 36th Ave", 
+        "LAT": 25.78762
+      }
+    }
+  ]
+}

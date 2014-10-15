@@ -1,0 +1,465 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19056352080558, 
+          25.810977515380664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Borinquen Health Care Center", 
+        "LON": -80.19056, 
+        "ZIPCODE": 33137, 
+        "POINT_X": 922455.812571004, 
+        "POINT_Y": 537809.18754676, 
+        "ADDRESS": "3601 Federal Hwy", 
+        "LAT": 25.81098
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36657097103664, 
+          25.760018379644624
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Borinquen West Dade", 
+        "LON": -80.36657, 
+        "ZIPCODE": 33174, 
+        "POINT_X": 864640.118819419, 
+        "POINT_Y": 518970.17535609, 
+        "ADDRESS": "10528 SW 8th St", 
+        "LAT": 25.76002
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20067161082025, 
+          25.778403455883257
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Camillus Health Concern", 
+        "LON": -80.20067, 
+        "ZIPCODE": 33128, 
+        "POINT_X": 919202.1878446711, 
+        "POINT_Y": 525949.249980591, 
+        "ADDRESS": "336 NW 5th St", 
+        "LAT": 25.7784
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20966441477727, 
+          25.802165494033005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Better Way", 
+        "LON": -80.20966, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 916190.965520669, 
+        "POINT_Y": 534568.104133926, 
+        "ADDRESS": "800 NW 28th Street", 
+        "LAT": 25.80217
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22993365186029, 
+          25.811555083360187
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Salvation Army", 
+        "LON": -80.22993, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 909502.0625599211, 
+        "POINT_Y": 537941.374946423, 
+        "ADDRESS": "1907 NW 38th Street", 
+        "LAT": 25.81156
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4109527790378, 
+          25.47762778215977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "CHI-South Dade", 
+        "LON": -80.41095, 
+        "ZIPCODE": 33033, 
+        "POINT_X": 850489.143840589, 
+        "POINT_Y": 416267.97590526205, 
+        "ADDRESS": "13600 SW 312th Street", 
+        "LAT": 25.47763
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35553455535451, 
+          25.599861145838787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Perrine", 
+        "PROVIDER": "CHI-West Perrine", 
+        "LON": -80.35553, 
+        "ZIPCODE": 33157, 
+        "POINT_X": 868556.248782422, 
+        "POINT_Y": 460777.992856175, 
+        "ADDRESS": "18255 Homestead Ave", 
+        "LAT": 25.59986
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35806015666515, 
+          25.5657662017056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "CHI-Doris Ison", 
+        "LON": -80.35806, 
+        "ZIPCODE": 33190, 
+        "POINT_X": 867783.84579967, 
+        "POINT_Y": 448382.178080924, 
+        "ADDRESS": "10300 SW 216th St", 
+        "LAT": 25.56577
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.50241199520762, 
+          25.41951926027772
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "CHI-Everglades", 
+        "LON": -80.50241, 
+        "ZIPCODE": 33034, 
+        "POINT_X": 820395.687295336, 
+        "POINT_Y": 395026.125016339, 
+        "ADDRESS": "19300 SW 376th St", 
+        "LAT": 25.41952
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48747953427893, 
+          25.46921856352149
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "CHI-MLK Jr.", 
+        "LON": -80.48748, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 825254.812419586, 
+        "POINT_Y": 413107.343447007, 
+        "ADDRESS": "810 W Mowry Drive", 
+        "LAT": 25.46922
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41491635795812, 
+          25.521474305236083
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "CHI-Naranja", 
+        "LON": -80.41492, 
+        "ZIPCODE": 33032, 
+        "POINT_X": 849111.500270419, 
+        "POINT_Y": 432197.90631567704, 
+        "ADDRESS": "13805 SW 264th St", 
+        "LAT": 25.52147
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48834044362049, 
+          25.470046587934874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "CHI-Children's Health Center", 
+        "LON": -80.48834, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 824969.624997836, 
+        "POINT_Y": 413407.18733550597, 
+        "ADDRESS": "840 West Mowry Drive", 
+        "LAT": 25.47005
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32163993498541, 
+          25.859757323083684
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Citrus Heath Network", 
+        "LON": -80.32164, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 879241.312386002, 
+        "POINT_Y": 555295.0626799241, 
+        "ADDRESS": "4175 W 20th Ave", 
+        "LAT": 25.85976
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29382587148618, 
+          25.869298055980888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Citrus Maternal & Child Health Center", 
+        "LON": -80.29383, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 888369.4375024211, 
+        "POINT_Y": 558810.999873757, 
+        "ADDRESS": "555 West 51st Place", 
+        "LAT": 25.8693
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26046185737509, 
+          25.83242085238792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "JT-Flamingo", 
+        "LON": -80.26046, 
+        "ZIPCODE": 33010, 
+        "POINT_X": 899415.937719088, 
+        "POINT_Y": 545467.749985509, 
+        "ADDRESS": "901 East 10th Avenue", 
+        "LAT": 25.83242
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23206308697706, 
+          25.823749200562855
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "JT-Jesse Trice", 
+        "LON": -80.23206, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 908775.625036422, 
+        "POINT_Y": 542369.437612593, 
+        "ADDRESS": "5361 NW 22nd Ave", 
+        "LAT": 25.82375
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21484786304839, 
+          25.943268546413524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "JT-Norland", 
+        "LON": -80.21485, 
+        "ZIPCODE": 33169, 
+        "POINT_X": 914178.8123927531, 
+        "POINT_Y": 585844.687604174, 
+        "ADDRESS": "18360 NW 7th Ave", 
+        "LAT": 25.94327
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2142971053323, 
+          25.85956548325588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "JT-North/Women's/Children's Centers", 
+        "LON": -80.2143, 
+        "ZIPCODE": 33150, 
+        "POINT_X": 914542.062322419, 
+        "POINT_Y": 555422.0624259261, 
+        "ADDRESS": "1190 NW 95th St", 
+        "LAT": 25.85957
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23953765794421, 
+          25.826336194656946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "JT-27th Ave", 
+        "LON": -80.23954, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 906311.375043672, 
+        "POINT_Y": 543295.437401012, 
+        "ADDRESS": "5559 NW 27th Ave", 
+        "LAT": 25.82634
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2544931676254, 
+          25.73431055915011
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "H. B. Bentley Family Health Center", 
+        "LON": -80.25449, 
+        "ZIPCODE": 33133, 
+        "POINT_X": 901581.062653922, 
+        "POINT_Y": 509819.28125634, 
+        "ADDRESS": "3090 SW 37th Ave", 
+        "LAT": 25.73431
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17616429620243, 
+          25.89035556920921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "PROVIDER": "MB-North Miami", 
+        "LON": -80.17616, 
+        "ZIPCODE": 33161, 
+        "POINT_X": 927012.187316503, 
+        "POINT_Y": 566690.250191346, 
+        "ADDRESS": "1100 NE 125th Street", 
+        "LAT": 25.89036
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14121460116897, 
+          25.77721900877708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "MB-Stanley C. Meyers", 
+        "LON": -80.14121, 
+        "ZIPCODE": 33139, 
+        "POINT_X": 938771.437420003, 
+        "POINT_Y": 525641.87526726, 
+        "ADDRESS": "710 Alton Rd", 
+        "LAT": 25.77722
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13201888854927, 
+          25.854691650631757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "MB-Beverly Press", 
+        "LON": -80.13202, 
+        "ZIPCODE": 33141, 
+        "POINT_X": 941611.874980588, 
+        "POINT_Y": 553820.875011511, 
+        "ADDRESS": "1221 71 Street", 
+        "LAT": 25.85469
+      }
+    }
+  ]
+}

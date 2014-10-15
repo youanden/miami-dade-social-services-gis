@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24052766263351, 
+          25.806378886698965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Juvenile Detention Center", 
+        "LON": -80.24053, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 906027.5885377531, 
+        "POINT_Y": 536039.746531844, 
+        "ADDRESS": "3300 NW 27th Avenue", 
+        "LAT": 25.80638
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4182190873461, 
+          25.80999990207626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Metro West Detention Center", 
+        "LON": -80.41822, 
+        "ZIPCODE": 33178, 
+        "POINT_X": 847561.124762256, 
+        "POINT_Y": 537057.937736928, 
+        "ADDRESS": "13850 NW 41st Stree", 
+        "LAT": 25.81
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23973045882153, 
+          25.83153264803192
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "North Dade Detention", 
+        "LON": -80.23973, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 906237.033328839, 
+        "POINT_Y": 545183.8099365911, 
+        "ADDRESS": "2525 NW 62nd St", 
+        "LAT": 25.83153
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21666853848527, 
+          25.786506394923205
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Pre-trial Detention Center (Main Jail)", 
+        "LON": -80.21667, 
+        "ZIPCODE": 33125, 
+        "POINT_X": 913920.346046172, 
+        "POINT_Y": 528862.770400256, 
+        "ADDRESS": "1321 NW 13th St", 
+        "LAT": 25.78651
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30988926837773, 
+          25.811397541539534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Training and Treatment Center (The Stockade)", 
+        "LON": -80.30989, 
+        "ZIPCODE": 33166, 
+        "POINT_X": 883197.8297354211, 
+        "POINT_Y": 537738.162754424, 
+        "ADDRESS": "6950 NW 41st St", 
+        "LAT": 25.8114
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31078008121274, 
+          25.811146721010154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Turner Gilford Knight Correctional Center", 
+        "LON": -80.31078, 
+        "ZIPCODE": 33166, 
+        "POINT_X": 882905.240753669, 
+        "POINT_Y": 537645.462808594, 
+        "ADDRESS": "7000 NW 41st St", 
+        "LAT": 25.81115
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20659144967036, 
+          25.788110809619422
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Women's Detention Center", 
+        "LON": -80.20659, 
+        "ZIPCODE": 33136, 
+        "POINT_X": 917232.8108779191, 
+        "POINT_Y": 529465.771490842, 
+        "ADDRESS": "1401 NW 7th Avenue", 
+        "LAT": 25.78811
+      }
+    }
+  ]
+}

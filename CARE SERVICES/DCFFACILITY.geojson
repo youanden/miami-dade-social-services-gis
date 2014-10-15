@@ -1,0 +1,212 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25806606356446, 
+          25.82641237560016
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0431170000110", 
+        "NAME": "Hialeah", 
+        "ZIPAREA": "33010,33013,33178,33166", 
+        "LON": -80.25807, 
+        "ZIPCODE": 33010, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 900216.312758755, 
+        "POINT_Y": 543288.3124152571, 
+        "ADDRESS": "5700 Nw 37th Ave", 
+        "LAT": 25.82641
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25435323516905, 
+          25.73166487625134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141200130010", 
+        "NAME": "Coconut Grove", 
+        "ZIPAREA": "33129,33133,33143,33144,33145,33146,33149,33155", 
+        "LON": -80.25435, 
+        "ZIPCODE": 33133, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 901632.5625509211, 
+        "POINT_Y": 508857.93770659, 
+        "ADDRESS": "3750 S Dixie Hwy", 
+        "LAT": 25.73166
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2521224400759, 
+          25.903332094216424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa-locka", 
+        "FOLIO": "0821210040880", 
+        "NAME": "Opa Locka", 
+        "ZIPAREA": "33054,33055,33056,33160,33161,33162,33167,33168,33169,33179,33180,33181", 
+        "LON": -80.25212, 
+        "ZIPCODE": 33054, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 902012.249783673, 
+        "POINT_Y": 571257.250243679, 
+        "ADDRESS": "200 Opa-locka Blvd, South Bldg", 
+        "LAT": 25.90333
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2399672925879, 
+          25.787770346057755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131330630010", 
+        "NAME": "Central", 
+        "ZIPAREA": "33109,33122,33125,33126,33128,33130,33131,33132,33134,33135,33136,33137", 
+        "LON": -80.23997, 
+        "ZIPCODE": 33125, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 906250.9998363369, 
+        "POINT_Y": 529277.250214346, 
+        "ADDRESS": "1490 NW 27th Ave", 
+        "LAT": 25.78777
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13368341178035, 
+          25.780280874707735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0242030090150", 
+        "NAME": "Miami Beach", 
+        "ZIPAREA": "33139,33140,33141,33154", 
+        "LON": -80.13368, 
+        "ZIPCODE": 33139, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 941242.562399004, 
+        "POINT_Y": 526770.999977507, 
+        "ADDRESS": "945 Pennsylvania Ave", 
+        "LAT": 25.78028
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23335811307352, 
+          25.82483677593558
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami-Dade County", 
+        "FOLIO": "3031150000310", 
+        "NAME": "Caleb", 
+        "ZIPAREA": "33127,33138,33142,33147,33150", 
+        "LON": -80.23336, 
+        "ZIPCODE": 33142, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 908347.3125728371, 
+        "POINT_Y": 542762.250147179, 
+        "ADDRESS": "5400 NW 22nd Ave", 
+        "LAT": 25.82484
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39115775346234, 
+          25.581498234697992
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3069010310750", 
+        "NAME": "Quail Roost", 
+        "ZIPAREA": "33031,33032,33156,33157,33158,33170,33176,33177,33186,33189,33190,33196", 
+        "LON": -80.39116, 
+        "ZIPCODE": 33177, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 856846.639655754, 
+        "POINT_Y": 454048.54470092803, 
+        "ADDRESS": "12340 Quail Roost Dr", 
+        "LAT": 25.5815
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48825178770721, 
+          25.447111618889092
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "FOLIO": "1678240000600", 
+        "NAME": "Florida City", 
+        "ZIPAREA": "33030,33033,33034,33035", 
+        "LON": -80.48825, 
+        "ZIPCODE": 33034, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 825030.877828088, 
+        "POINT_Y": 405071.866079673, 
+        "ADDRESS": "755 W Palm Dr", 
+        "LAT": 25.44711
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3531135385375, 
+          25.745700150178113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami-Dade County", 
+        "FOLIO": "3040170000031", 
+        "NAME": "Coral 97 Plaza", 
+        "ZIPAREA": "33126,33165,33172,33173,33174,33175,33182,33183,33184,33185,33192,33193,33194", 
+        "LON": -80.35311, 
+        "ZIPCODE": 33165, 
+        "PHONE": "(866)-762-2237", 
+        "POINT_X": 869094.860249, 
+        "POINT_Y": 513787.612574, 
+        "ADDRESS": "9766 SW 24Th St, Suite 35", 
+        "LAT": 25.7457
+      }
+    }
+  ]
+}

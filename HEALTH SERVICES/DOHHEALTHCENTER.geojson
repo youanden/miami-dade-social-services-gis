@@ -1,0 +1,572 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48782245867896, 
+          25.469064558824066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1078130550060", 
+        "NAME": "Community Health of South Dade, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.48782, 
+        "ZIPCODE": 33030, 
+        "PHONE": "305-248-4334", 
+        "POINT_X": 825141.889693119, 
+        "POINT_Y": 413050.9370903, 
+        "BRANCH": "Martin  Luther King Jr / Clinica Campesina", 
+        "ADDRESS": "810 W  Mowry  St", 
+        "LAT": 25.46906, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3555808975083, 
+          25.599705815921755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3050320610020", 
+        "NAME": "Community Health of South Dade, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.35558, 
+        "ZIPCODE": 33157, 
+        "PHONE": "305-234-7676", 
+        "POINT_X": 868541.250245541, 
+        "POINT_Y": 460721.464110687, 
+        "BRANCH": "West Perrine Health Center", 
+        "ADDRESS": "18255 Homestead Ave", 
+        "LAT": 25.59971, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19056126963926, 
+          25.81099171893436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0132190430010", 
+        "NAME": "Borinquen Health Care Center Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.19056, 
+        "ZIPCODE": 33137, 
+        "PHONE": "305 -576-6611", 
+        "POINT_X": 922456.521463752, 
+        "POINT_Y": 537814.35480649, 
+        "BRANCH": null, 
+        "ADDRESS": "3601 N Federal Hwy", 
+        "LAT": 25.81099, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3576606389843, 
+          25.565583323108417
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3060170030010", 
+        "NAME": "Community Health of South Dade, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.35766, 
+        "ZIPCODE": 33190, 
+        "PHONE": "305-253-5100", 
+        "POINT_X": 867915.872964952, 
+        "POINT_Y": 448316.34819514304, 
+        "BRANCH": "Doris Ison South Dade Health Center", 
+        "ADDRESS": "10300 SW 216th St", 
+        "LAT": 25.56558, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.50362455957618, 
+          25.41784764578429
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3088020010020", 
+        "NAME": "Community Health of South Dade, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.50362, 
+        "ZIPCODE": 33034, 
+        "PHONE": "305-246-4607", 
+        "POINT_X": 819997.733016331, 
+        "POINT_Y": 394417.111024939, 
+        "BRANCH": "Everglades Health Center", 
+        "ADDRESS": "19300 SW 376th St", 
+        "LAT": 25.41785, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23210375897999, 
+          25.823753895009183
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031150160480", 
+        "NAME": "Jessie Trice Community Health Center, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.2321, 
+        "ZIPCODE": 33142, 
+        "PHONE": "305-637-6400", 
+        "POINT_X": 908762.2356269989, 
+        "POINT_Y": 542371.0657227411, 
+        "BRANCH": "Jesse Trice Center for Community Health", 
+        "ADDRESS": "5361 NE 22nd Ave", 
+        "LAT": 25.82375, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2545043166616, 
+          25.734320769948685
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141170031820", 
+        "NAME": "Helen B. Bentley Family Health Center", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.2545, 
+        "ZIPCODE": 33133, 
+        "PHONE": "305-447-4950", 
+        "POINT_X": 901577.371364303, 
+        "POINT_Y": 509822.97174042504, 
+        "BRANCH": null, 
+        "ADDRESS": "3090 SW 37th Ave", 
+        "LAT": 25.73432, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13201922404312, 
+          25.8546913307659
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0232100131520", 
+        "NAME": "Miami Beach Community Health Center", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.13202, 
+        "ZIPCODE": 33141, 
+        "PHONE": "305-538-8835", 
+        "POINT_X": 941611.765513588, 
+        "POINT_Y": 553820.757893406, 
+        "BRANCH": "Beverly Press Building", 
+        "ADDRESS": "1221 71st St", 
+        "LAT": 25.85469, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1412157298465, 
+          25.777219557062462
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0242030010270", 
+        "NAME": "Miami Beach Community Health Center", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.14122, 
+        "ZIPCODE": 33139, 
+        "PHONE": "305-538-8835", 
+        "POINT_X": 938771.064582944, 
+        "POINT_Y": 525642.07191515, 
+        "BRANCH": "Stanley C. Myers Building", 
+        "ADDRESS": "710 Alton Rd", 
+        "LAT": 25.77722, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32191621472461, 
+          25.859255816416358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0430021990010", 
+        "NAME": "Citrus Health Network, Inc", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.32192, 
+        "ZIPCODE": 33012, 
+        "PHONE": "305-825-0300", 
+        "POINT_X": 879151.397583421, 
+        "POINT_Y": 555112.313734599, 
+        "BRANCH": null, 
+        "ADDRESS": "4125 W 20th Ave", 
+        "LAT": 25.85926, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24100876474108, 
+          25.9250379529829
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "FOLIO": "3421150000010", 
+        "NAME": "Jackson Memorial Hospital - North Dade Health", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.24101, 
+        "ZIPCODE": 33054, 
+        "PHONE": "786-466-1500", 
+        "POINT_X": 905620.041448068, 
+        "POINT_Y": 579167.691421002, 
+        "BRANCH": null, 
+        "ADDRESS": "16555 NW 25 AVE", 
+        "LAT": 25.92504, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21481905987862, 
+          25.860126601804104
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031020310010", 
+        "NAME": "Jessie Trice Community Health Center, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.21482, 
+        "ZIPCODE": 33150, 
+        "PHONE": "305-835-6980", 
+        "POINT_X": 914369.1937122161, 
+        "POINT_Y": 555624.985735074, 
+        "BRANCH": "Children\u0092s Wellness Center", 
+        "ADDRESS": "1190 NW 95TH ST", 
+        "LAT": 25.86013, 
+        "SRVCNOTE": null, 
+        "UNIT": "Suite 304", 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21466171371118, 
+          25.859940334988693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031020310010", 
+        "NAME": "Jessie Trice Community Health Center, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.21466, 
+        "ZIPCODE": 33150, 
+        "PHONE": "305-637-6400", 
+        "POINT_X": 914421.3429602679, 
+        "POINT_Y": 555557.592711009, 
+        "BRANCH": "Women's Center", 
+        "ADDRESS": "1190 NW 95TH ST", 
+        "LAT": 25.85994, 
+        "SRVCNOTE": null, 
+        "UNIT": "Suite 110", 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21463398489958, 
+          25.85970620832792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031020310010", 
+        "NAME": "Jessie Trice Community Health Center, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.21463, 
+        "ZIPCODE": 33150, 
+        "PHONE": "305-694-6900", 
+        "POINT_X": 914430.970608279, 
+        "POINT_Y": 555472.5492549391, 
+        "BRANCH": "North Center", 
+        "ADDRESS": "1190 NW 95TH ST", 
+        "LAT": 25.85971, 
+        "SRVCNOTE": null, 
+        "UNIT": "Suite 110", 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29376122670136, 
+          25.869256846659027
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0430010130570", 
+        "NAME": "Citrus Health Network Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.29376, 
+        "ZIPCODE": 33012, 
+        "PHONE": "305-817-6560", 
+        "POINT_X": 888390.775199216, 
+        "POINT_Y": 558796.136046931, 
+        "BRANCH": "Maternal and Child Health Center", 
+        "ADDRESS": "551 W 51ST PL", 
+        "LAT": 25.86926, 
+        "SRVCNOTE": "Prenatal care, family planning, diagnostic services", 
+        "UNIT": "2nd Floor", 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2597970266718, 
+          25.83263674293495
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0431170000160", 
+        "NAME": "Jessie Trice Community Health Center, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.2598, 
+        "ZIPCODE": 33010, 
+        "PHONE": "305-887-0004", 
+        "POINT_X": 899634.179939304, 
+        "POINT_Y": 545547.449576832, 
+        "BRANCH": "Flamingo Medical Center", 
+        "ADDRESS": "901 E 10th Ave", 
+        "LAT": 25.83264, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20044732484763, 
+          25.77850826450447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0101070401040", 
+        "NAME": "Camillus Health Concern. Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.20045, 
+        "ZIPCODE": 33128, 
+        "PHONE": "305-577-4840", 
+        "POINT_X": 919275.765555978, 
+        "POINT_Y": 525987.792206667, 
+        "BRANCH": null, 
+        "ADDRESS": "336 NW 5th St", 
+        "LAT": 25.77851, 
+        "SRVCNOTE": "Health Care for  homeless", 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41526818622526, 
+          25.52218541125983
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3069270000520", 
+        "NAME": "Community Health of South Dade, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.41527, 
+        "ZIPCODE": 33032, 
+        "PHONE": "305-258-6813", 
+        "POINT_X": 848994.3375957051, 
+        "POINT_Y": 432455.84304262, 
+        "BRANCH": "Naranja Health Center", 
+        "ADDRESS": "13805 SW 264th St", 
+        "LAT": 25.52219, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16527102329219, 
+          25.882847874597875
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "FOLIO": "3022320420010", 
+        "NAME": "Miami Beach Community Health Center-North", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.16527, 
+        "ZIPCODE": 33181, 
+        "PHONE": "305-538-8835", 
+        "POINT_X": 930610.992127344, 
+        "POINT_Y": 563984.035214871, 
+        "BRANCH": null, 
+        "ADDRESS": "11645 BISCAYNE BLVD", 
+        "LAT": 25.88285, 
+        "SRVCNOTE": null, 
+        "UNIT": "Suite 103", 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21081746784768, 
+          25.77609140706893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141380030690", 
+        "NAME": "Dr Rafael A. Penalver Clinic", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.21082, 
+        "ZIPCODE": 33128, 
+        "PHONE": "305-545-5180", 
+        "POINT_X": 915868.3846834151, 
+        "POINT_Y": 525088.768828042, 
+        "BRANCH": null, 
+        "ADDRESS": "971 NW 2nd St", 
+        "LAT": 25.77609, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41000330876766, 
+          25.477421635237356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1079140010040", 
+        "NAME": "Community Health of South Dade, Inc.", 
+        "EDIT_DATE": "2011/10/07", 
+        "LON": -80.41, 
+        "ZIPCODE": 33033, 
+        "PHONE": "305-242-6069", 
+        "POINT_X": 850802.7061608881, 
+        "POINT_Y": 416194.43987176596, 
+        "BRANCH": "South Dade Health  Center", 
+        "ADDRESS": "13600 SW 312th St", 
+        "LAT": 25.47742, 
+        "SRVCNOTE": null, 
+        "UNIT": null, 
+        "EDITOR_NAM": "amesa"
+      }
+    }
+  ]
+}

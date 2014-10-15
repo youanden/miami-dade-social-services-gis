@@ -1,0 +1,2609 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3531211650488, 
+          25.745874540118216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040170000031", 
+        "CAPACITY": 0, 
+        "FACILID": 13940, 
+        "HURZONE": "D", 
+        "PHONE2": "3052440537", 
+        "HYPERLINK": "stjudeadultdaycare@hotmail.com", 
+        "LON": -80.35312, 
+        "ZIPCODE": 33165, 
+        "FAX": "3052230750", 
+        "PHONE": "3052440537", 
+        "CONTACT": "Francisco  Garcia", 
+        "POINT_X": 869092.039049421, 
+        "POINT_Y": 513850.98382284504, 
+        "CLOSED": "N", 
+        "ADDRESS": "9740 Coral Way Section C.", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74587, 
+        "NAME": "St. Jude Adult Day Care LLC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35311979088102, 
+          25.74593531205782
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040170000031", 
+        "CAPACITY": 8, 
+        "FACILID": 340, 
+        "HURZONE": "D", 
+        "PHONE2": "7863266947", 
+        "HYPERLINK": null, 
+        "LON": -80.35312, 
+        "ZIPCODE": 33165, 
+        "FAX": "7863266947", 
+        "PHONE": "3052250974", 
+        "CONTACT": "Anthony Ferro", 
+        "POINT_X": 869092.383208837, 
+        "POINT_Y": 513873.074001759, 
+        "CLOSED": "N", 
+        "ADDRESS": "9734 Coral Way", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74594, 
+        "NAME": "United Adult Day Care, Inc"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38989992850813, 
+          25.746747454260564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049120680020", 
+        "CAPACITY": 0, 
+        "FACILID": 16021, 
+        "HURZONE": "E", 
+        "PHONE2": "3059657726", 
+        "HYPERLINK": "www.nanasadultdaycare.com", 
+        "LON": -80.3899, 
+        "ZIPCODE": 33175, 
+        "FAX": "3056405570", 
+        "PHONE": "3054859141", 
+        "CONTACT": "Chenny Lago", 
+        "POINT_X": 856984.249944836, 
+        "POINT_Y": 514110.562700011, 
+        "CLOSED": "N", 
+        "ADDRESS": "11865 SW 26 ST # G5", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74675, 
+        "NAME": "Nana's Adult Day Care & Recreation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22944262543552, 
+          25.75037125471103
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141150120680", 
+        "CAPACITY": 50, 
+        "FACILID": 14960, 
+        "HURZONE": "A", 
+        "PHONE2": "3058495777", 
+        "HYPERLINK": null, 
+        "LON": -80.22944, 
+        "ZIPCODE": 33145, 
+        "FAX": null, 
+        "PHONE": "7863780909", 
+        "CONTACT": "JORGE  Dominguez", 
+        "POINT_X": 909793.691569839, 
+        "POINT_Y": 515704.130379006, 
+        "CLOSED": "N", 
+        "ADDRESS": "2150 SW 22 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.75037, 
+        "NAME": "LONE STAR ADULT DAY TRAINNING"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21889944737362, 
+          25.751260973127824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141110020020", 
+        "CAPACITY": 0, 
+        "FACILID": 11820, 
+        "HURZONE": "E", 
+        "PHONE2": "7862471719", 
+        "HYPERLINK": "hdadultdaycare@aol.com", 
+        "LON": -80.2189, 
+        "ZIPCODE": 33145, 
+        "FAX": null, 
+        "PHONE": "7862471719", 
+        "CONTACT": "Odalys Diaz", 
+        "POINT_X": 913262.170525253, 
+        "POINT_Y": 516047.928247839, 
+        "CLOSED": "N", 
+        "ADDRESS": "1409 SW 22ND STREET", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.75126, 
+        "NAME": "HAPPY DAYS ADULT DAY CARE, LLC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21889944737362, 
+          25.751260973127824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141110020020", 
+        "CAPACITY": 50, 
+        "FACILID": 15380, 
+        "HURZONE": "E", 
+        "PHONE2": "3053166258", 
+        "HYPERLINK": null, 
+        "LON": -80.2189, 
+        "ZIPCODE": 33145, 
+        "FAX": "3052859071", 
+        "PHONE": "3053166258", 
+        "CONTACT": "SABRINA LOPEZ", 
+        "POINT_X": 913262.170525253, 
+        "POINT_Y": 516047.928247839, 
+        "CLOSED": "N", 
+        "ADDRESS": "1409 SW 22 STREET", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.75126, 
+        "NAME": "THE FAMILY ADULT DAY CARE #2"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4193114990698, 
+          25.75959368415523
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049030060010", 
+        "CAPACITY": 0, 
+        "FACILID": 14460, 
+        "HURZONE": null, 
+        "PHONE2": "7865125042", 
+        "HYPERLINK": "sunrisegroup.org", 
+        "LON": -80.41931, 
+        "ZIPCODE": 33184, 
+        "FAX": "3052280423", 
+        "PHONE": "7865125042", 
+        "CONTACT": "Iviana Rico' Arango", 
+        "POINT_X": 847282.505896922, 
+        "POINT_Y": 518735.884814173, 
+        "CLOSED": "N", 
+        "ADDRESS": "13776 SW 8th Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.75959, 
+        "NAME": "Sunrise Community Miami West ADC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39214081223164, 
+          25.7596968366152
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049010250001", 
+        "CAPACITY": 15, 
+        "FACILID": 13180, 
+        "HURZONE": null, 
+        "PHONE2": "3059514797", 
+        "HYPERLINK": "libertadadultdc@aol.com", 
+        "LON": -80.39214, 
+        "ZIPCODE": 33184, 
+        "FAX": "7865369125", 
+        "PHONE": "3059514797", 
+        "CONTACT": "Mayda Silva", 
+        "POINT_X": 856224.9381432531, 
+        "POINT_Y": 518813.687808178, 
+        "CLOSED": "N", 
+        "ADDRESS": "925 SW 122 Ave.", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.7597, 
+        "NAME": "Libertad Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29104876386275, 
+          25.763084077437895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "1540120140120", 
+        "CAPACITY": 51, 
+        "FACILID": 12680, 
+        "HURZONE": "E", 
+        "PHONE2": "7862631674", 
+        "HYPERLINK": "www.miedaddeoro.com", 
+        "LON": -80.29105, 
+        "ZIPCODE": 33144, 
+        "FAX": "3052620189", 
+        "PHONE": "7862754628", 
+        "CONTACT": "Maidelin Lugo", 
+        "POINT_X": 889490.662950255, 
+        "POINT_Y": 520210.991115928, 
+        "CLOSED": "N", 
+        "ADDRESS": "5870 SW 8 ST", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76308, 
+        "NAME": "LA EDAD DE ORO ADULT DAY CARE, LLC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30122694649305, 
+          25.763456792406753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0140010056440", 
+        "CAPACITY": 0, 
+        "FACILID": 1326, 
+        "HURZONE": "D", 
+        "PHONE2": "7862188515", 
+        "HYPERLINK": "familydaycare64@yahoo.com", 
+        "LON": -80.30123, 
+        "ZIPCODE": 33144, 
+        "FAX": "3052620851", 
+        "PHONE": "3052620850", 
+        "CONTACT": "Sabrina Lopez", 
+        "POINT_X": 886140.083037254, 
+        "POINT_Y": 520328.570605174, 
+        "CLOSED": "N", 
+        "ADDRESS": "6429 SW 8 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76346, 
+        "NAME": "The Family Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29888366732413, 
+          25.763485053126555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0140010057470", 
+        "CAPACITY": 0, 
+        "FACILID": 14760, 
+        "HURZONE": "D", 
+        "PHONE2": "7863678073", 
+        "HYPERLINK": null, 
+        "LON": -80.29888, 
+        "ZIPCODE": 33144, 
+        "FAX": null, 
+        "PHONE": "7863678073", 
+        "CONTACT": "Odalys Cordero", 
+        "POINT_X": 886911.249802005, 
+        "POINT_Y": 520342.937702425, 
+        "CLOSED": "N", 
+        "ADDRESS": "6355 SW 8 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76349, 
+        "NAME": "Crystal Paradise Adult Day Care, Inc."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27816452159811, 
+          25.764065375900746
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "FOLIO": "0141060430180", 
+        "CAPACITY": 50, 
+        "FACILID": 1342, 
+        "HURZONE": "E", 
+        "PHONE2": "3054566365", 
+        "HYPERLINK": null, 
+        "LON": -80.27816, 
+        "ZIPCODE": 33134, 
+        "FAX": null, 
+        "PHONE": "3054566365", 
+        "CONTACT": "Liany Ortiz", 
+        "POINT_X": 893729.201061089, 
+        "POINT_Y": 520590.67014659196, 
+        "CLOSED": "N", 
+        "ADDRESS": "5149 SW 8 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76407, 
+        "NAME": "Unique Adult Day Care Center INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20598563899664, 
+          25.765778844155907
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0102060301010", 
+        "CAPACITY": 0, 
+        "FACILID": 157, 
+        "HURZONE": "B", 
+        "PHONE2": "3057531623", 
+        "HYPERLINK": null, 
+        "LON": -80.20599, 
+        "ZIPCODE": 33130, 
+        "FAX": "3052857852", 
+        "PHONE": "7864703005", 
+        "CONTACT": "Ramon Perez-Dorrbecker", 
+        "POINT_X": 917481.076785587, 
+        "POINT_Y": 521350.057407342, 
+        "CLOSED": "N", 
+        "ADDRESS": "700 SW 8 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76578, 
+        "NAME": "Rafael Villaverde Adult Day Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.208505292901, 
+          25.766292867913673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141380032310", 
+        "CAPACITY": 0, 
+        "FACILID": 1409, 
+        "HURZONE": "B", 
+        "PHONE2": "3053008315", 
+        "HYPERLINK": null, 
+        "LON": -80.20851, 
+        "ZIPCODE": 33130, 
+        "FAX": "3058579802", 
+        "PHONE": "3058579800", 
+        "CONTACT": "Ernesto Rodriguez", 
+        "POINT_X": 916650.68999492, 
+        "POINT_Y": 521531.89956334204, 
+        "CLOSED": "N", 
+        "ADDRESS": "861 SW 8TH Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76629, 
+        "NAME": "New Life Medical Institute, INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3703563405331, 
+          25.76989267068433
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040060270010", 
+        "CAPACITY": 0, 
+        "FACILID": 13880, 
+        "HURZONE": "E", 
+        "PHONE2": "3052189632", 
+        "HYPERLINK": null, 
+        "LON": -80.37036, 
+        "ZIPCODE": 33174, 
+        "FAX": null, 
+        "PHONE": "3056312616", 
+        "CONTACT": "Janett Morales", 
+        "POINT_X": 863377.106253587, 
+        "POINT_Y": 522553.092402846, 
+        "CLOSED": "N", 
+        "ADDRESS": "10739 West Flagler Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76989, 
+        "NAME": "Celebration Adult Day Care, Inc."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29097979291757, 
+          25.770525409848496
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0140010010640", 
+        "CAPACITY": 0, 
+        "FACILID": 1426, 
+        "HURZONE": "D", 
+        "PHONE2": "7868974801", 
+        "HYPERLINK": "myhomeeldercarellc@yahoo.com", 
+        "LON": -80.29098, 
+        "ZIPCODE": 33144, 
+        "FAX": "3052644408", 
+        "PHONE": "3052644412", 
+        "CONTACT": "Maria Caro", 
+        "POINT_X": 889498.8125402561, 
+        "POINT_Y": 522915.749814011, 
+        "CLOSED": "N", 
+        "ADDRESS": "5856 West Flagler Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.77053, 
+        "NAME": "My Elder Care, LLC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32573590699813, 
+          25.77289414446801
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3040030280010", 
+        "CAPACITY": 45, 
+        "FACILID": 15700, 
+        "HURZONE": "E", 
+        "PHONE2": "2393211002", 
+        "HYPERLINK": "www.vistaadultdaycare.com", 
+        "LON": -80.32574, 
+        "ZIPCODE": 33126, 
+        "FAX": "3052667854", 
+        "PHONE": "3052667853", 
+        "CONTACT": "ANNABELLYS  LUIS", 
+        "POINT_X": 878056.144808836, 
+        "POINT_Y": 523716.65569251, 
+        "CLOSED": "N", 
+        "ADDRESS": "7941-43 NW 2ND STREET", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.77289, 
+        "NAME": "VISTA ADULT  CARE"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37155420650629, 
+          25.891402740915236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah Gardens", 
+        "FOLIO": "2720290070040", 
+        "CAPACITY": 36, 
+        "FACILID": 1312, 
+        "HURZONE": null, 
+        "PHONE2": null, 
+        "HYPERLINK": "Suite#3", 
+        "LON": -80.37155, 
+        "ZIPCODE": 33018, 
+        "FAX": "3058200806", 
+        "PHONE": "3058200805", 
+        "CONTACT": "Yeny Lara", 
+        "POINT_X": 862771.815797504, 
+        "POINT_Y": 566715.348894425, 
+        "CLOSED": "N", 
+        "ADDRESS": "12975 W Okeechobee Rd", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.8914, 
+        "NAME": "Xclusive Senior Day Care Center INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3303543848276, 
+          25.777898752640404
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3030531160001", 
+        "CAPACITY": 0, 
+        "FACILID": 14420, 
+        "HURZONE": "E", 
+        "PHONE2": null, 
+        "HYPERLINK": null, 
+        "LON": -80.33035, 
+        "ZIPCODE": 33126, 
+        "FAX": null, 
+        "PHONE": "3052222222", 
+        "CONTACT": null, 
+        "POINT_X": 876526.989402588, 
+        "POINT_Y": 525527.879104175, 
+        "CLOSED": "N", 
+        "ADDRESS": "8320 NW 8th Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.7779, 
+        "NAME": "Test"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40900822600996, 
+          25.78156286073179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3039520260140", 
+        "CAPACITY": 6, 
+        "FACILID": 1437, 
+        "HURZONE": null, 
+        "PHONE2": "3057429030", 
+        "HYPERLINK": "francimesa@hotmail.com", 
+        "LON": -80.40901, 
+        "ZIPCODE": 33182, 
+        "FAX": null, 
+        "PHONE": "3052276706", 
+        "CONTACT": "Francisca Horruitiner", 
+        "POINT_X": 850637.777729671, 
+        "POINT_Y": 526735.787121423, 
+        "CLOSED": "N", 
+        "ADDRESS": "1103 NW 132 CT", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.78156, 
+        "NAME": "Nice Days Group Home, Inc."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1343823866973, 
+          25.78678022120711
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0242040070070", 
+        "CAPACITY": 0, 
+        "FACILID": 1000, 
+        "HURZONE": "B", 
+        "PHONE2": "3053325660", 
+        "HYPERLINK": "ncepero@jcsfl.org", 
+        "LON": -80.13438, 
+        "ZIPCODE": 33139, 
+        "FAX": "3056732522", 
+        "PHONE": "3056736060", 
+        "CONTACT": "Nayla Cepero", 
+        "POINT_X": 940997.016958337, 
+        "POINT_Y": 529131.8095603441, 
+        "CLOSED": "N", 
+        "ADDRESS": "610 Espanola Way", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.78678, 
+        "NAME": "Miami Beach Senior Center and Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21816231390244, 
+          25.788927165211977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350000155", 
+        "CAPACITY": 0, 
+        "FACILID": 1050, 
+        "HURZONE": "B", 
+        "PHONE2": "3057934584", 
+        "HYPERLINK": "www.southflorida.easterseals.com", 
+        "LON": -80.21816, 
+        "ZIPCODE": 33125, 
+        "FAX": "3053250578", 
+        "PHONE": "3053250470", 
+        "CONTACT": "Angela Aracena", 
+        "POINT_X": 913423.579651255, 
+        "POINT_Y": 529739.717465259, 
+        "CLOSED": "N", 
+        "ADDRESS": "1475 NW 14 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.78893, 
+        "NAME": "Therapeutic Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32831686023522, 
+          25.79144471220237
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Doral", 
+        "FOLIO": "3530340340020", 
+        "CAPACITY": 0, 
+        "FACILID": 13780, 
+        "HURZONE": "E", 
+        "PHONE2": "3057856785", 
+        "HYPERLINK": null, 
+        "LON": -80.32832, 
+        "ZIPCODE": 33126, 
+        "FAX": null, 
+        "PHONE": "7862600160", 
+        "CONTACT": "Vince Carrodeguas", 
+        "POINT_X": 877172.389358506, 
+        "POINT_Y": 530454.712098256, 
+        "CLOSED": "N", 
+        "ADDRESS": "1905 NW 82nd Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.79144, 
+        "NAME": "Miami Behavioral Health Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22120152707491, 
+          25.80936686456625
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131260380680", 
+        "CAPACITY": 6, 
+        "FACILID": 1420, 
+        "HURZONE": "E", 
+        "PHONE2": "3056359767", 
+        "HYPERLINK": "wwreph@aol.com", 
+        "LON": -80.2212, 
+        "ZIPCODE": 33142, 
+        "FAX": "3056359767", 
+        "PHONE": "3056359933", 
+        "CONTACT": "Ana Piloto", 
+        "POINT_X": 912379.562382337, 
+        "POINT_Y": 537162.937526926, 
+        "CLOSED": "N", 
+        "ADDRESS": "1470 NW 36TH ST", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.80937, 
+        "NAME": "Active Adult Day Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22121475268375, 
+          25.809834559567058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131230340010", 
+        "CAPACITY": 16, 
+        "FACILID": 567, 
+        "HURZONE": null, 
+        "PHONE2": "3058079459", 
+        "HYPERLINK": "http://nhcmhc.org", 
+        "LON": -80.22121, 
+        "ZIPCODE": 33142, 
+        "FAX": "3056357444", 
+        "PHONE": "3056357444", 
+        "CONTACT": "Juan D Oms, MD", 
+        "POINT_X": 912374.205437671, 
+        "POINT_Y": 537332.903394341, 
+        "CLOSED": "N", 
+        "ADDRESS": "1469 NW 36TH Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.80983, 
+        "NAME": "New Horizons Community Mental Health Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1837862459672, 
+          25.852029652482905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0132070031330", 
+        "CAPACITY": 0, 
+        "FACILID": 14580, 
+        "HURZONE": "B", 
+        "PHONE2": "3057981678", 
+        "HYPERLINK": "seraphiminc@bellsouth.net", 
+        "LON": -80.18379, 
+        "ZIPCODE": 33138, 
+        "FAX": "3057575222", 
+        "PHONE": "3057579777", 
+        "CONTACT": "Juliette Payen", 
+        "POINT_X": 924592.875226002, 
+        "POINT_Y": 552744.1875323431, 
+        "CLOSED": "N", 
+        "ADDRESS": "638 NE 83rd Terrace", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.85203, 
+        "NAME": "Seraphim Therapeutic Adult Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29110045294048, 
+          25.89458022578256
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0421300280010", 
+        "CAPACITY": 76, 
+        "FACILID": 10480, 
+        "HURZONE": null, 
+        "PHONE2": "7869424903", 
+        "HYPERLINK": "Alegriadaycare@hotmail.com", 
+        "LON": -80.2911, 
+        "ZIPCODE": 33014, 
+        "FAX": "3053641113", 
+        "PHONE": "3053641115", 
+        "CONTACT": "Osmary Reguera", 
+        "POINT_X": 889216.000113755, 
+        "POINT_Y": 568005.0625223441, 
+        "CLOSED": "N", 
+        "ADDRESS": "345 West 78 Road", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.89458, 
+        "NAME": "Alegria Adult daycare Inc."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28341992332476, 
+          25.820931605989067
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Springs", 
+        "FOLIO": "0530240071480", 
+        "CAPACITY": 76, 
+        "FACILID": 12524, 
+        "HURZONE": "D", 
+        "PHONE2": "7863404888", 
+        "HYPERLINK": null, 
+        "LON": -80.28342, 
+        "ZIPCODE": 33166, 
+        "FAX": "3058885014", 
+        "PHONE": "3058885003", 
+        "CONTACT": "Miami Springs Entertainment", 
+        "POINT_X": 891887.062685005, 
+        "POINT_Y": 541249.999890842, 
+        "CLOSED": "N", 
+        "ADDRESS": "100 Westward Dr.", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.82093, 
+        "NAME": "Miami Springs Entertainment Nutrition"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.278700225724, 
+          25.82186227154099
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0431190060180", 
+        "CAPACITY": 0, 
+        "FACILID": 15720, 
+        "HURZONE": "D", 
+        "PHONE2": "2392656058", 
+        "HYPERLINK": null, 
+        "LON": -80.2787, 
+        "ZIPCODE": 33010, 
+        "FAX": "7864761203", 
+        "PHONE": "7864761200", 
+        "CONTACT": "Ada Garcia", 
+        "POINT_X": 893437.8125362551, 
+        "POINT_Y": 541596.749853507, 
+        "CLOSED": "N", 
+        "ADDRESS": "50 Lindsey Court # 102-106", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.82186, 
+        "NAME": "Loving Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28037773081611, 
+          25.824083836237524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0431180010641", 
+        "CAPACITY": 0, 
+        "FACILID": 1467, 
+        "HURZONE": "D", 
+        "PHONE2": "7864572383", 
+        "HYPERLINK": "www.miamijewishhealthsystems.org", 
+        "LON": -80.28038, 
+        "ZIPCODE": 33010, 
+        "FAX": "7863472050", 
+        "PHONE": "7863472040", 
+        "CONTACT": "Miriam C. Pastor", 
+        "POINT_X": 892881.562336419, 
+        "POINT_Y": 542401.1875490921, 
+        "CLOSED": "N", 
+        "ADDRESS": "60 E 3RD ST", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.82408, 
+        "NAME": "Florida Pace Centers, INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28243938385724, 
+          25.843491185907098
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431070030750", 
+        "CAPACITY": 126, 
+        "FACILID": 15100, 
+        "HURZONE": "E", 
+        "PHONE2": "7865128383", 
+        "HYPERLINK": "WWW.HIALEAHSENIORCLUB.COM", 
+        "LON": -80.28244, 
+        "ZIPCODE": 33010, 
+        "FAX": "3058855113", 
+        "PHONE": "3058855115", 
+        "CONTACT": "ARLEEN GONZALEZ", 
+        "POINT_X": 892164.875121504, 
+        "POINT_Y": 549451.374892257, 
+        "CLOSED": "N", 
+        "ADDRESS": "2380-90 Palm Ave.", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.84349, 
+        "NAME": "HIALEAH SENIOR CLUB"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1999608311728, 
+          25.846911711028856
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131121030010", 
+        "CAPACITY": 0, 
+        "FACILID": 678, 
+        "HURZONE": "D", 
+        "PHONE2": "3053084930", 
+        "HYPERLINK": "s5861@miamidade.gov", 
+        "LON": -80.19996, 
+        "ZIPCODE": 33150, 
+        "FAX": "3057592763", 
+        "PHONE": "3057514342", 
+        "CONTACT": "Sherri Johnson", 
+        "POINT_X": 919284.687351588, 
+        "POINT_Y": 550851.250045262, 
+        "CLOSED": "N", 
+        "ADDRESS": "150 NW 79 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.84691, 
+        "NAME": "Edison Little River ADC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28332445066394, 
+          25.84800990478342
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0431070040730", 
+        "CAPACITY": 0, 
+        "FACILID": 370, 
+        "HURZONE": "E", 
+        "PHONE2": null, 
+        "HYPERLINK": "nelsyofelia@hotmail.com", 
+        "LON": -80.28332, 
+        "ZIPCODE": 33012, 
+        "FAX": "3058050999", 
+        "PHONE": "3058051040", 
+        "CONTACT": "Nelsy Sanchez", 
+        "POINT_X": 891864.8202754221, 
+        "POINT_Y": 551092.185587011, 
+        "CLOSED": "N", 
+        "ADDRESS": "50 W 29TH ST STE A", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.84801, 
+        "NAME": "Happy Times Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13242970302052, 
+          25.854606641107136
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0232100131560", 
+        "CAPACITY": 0, 
+        "FACILID": 14700, 
+        "HURZONE": "B", 
+        "PHONE2": "7864933290", 
+        "HYPERLINK": null, 
+        "LON": -80.13243, 
+        "ZIPCODE": 33141, 
+        "FAX": "3057638557", 
+        "PHONE": "3057638548", 
+        "CONTACT": "Lisandra Leoncio", 
+        "POINT_X": 941476.971707087, 
+        "POINT_Y": 553789.083736509, 
+        "CLOSED": "N", 
+        "ADDRESS": "1245 71st Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.85461, 
+        "NAME": "Adult Day Care of Miami Beach Inc."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30676662441164, 
+          25.856568266882725
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "0430021000020", 
+        "CAPACITY": 0, 
+        "FACILID": 13060, 
+        "HURZONE": null, 
+        "PHONE2": "7864330910", 
+        "HYPERLINK": null, 
+        "LON": -80.30677, 
+        "ZIPCODE": 33012, 
+        "FAX": null, 
+        "PHONE": "7864330910", 
+        "CONTACT": "Felix Castillo", 
+        "POINT_X": 884138.5755573361, 
+        "POINT_Y": 554161.4888315949, 
+        "CLOSED": "N", 
+        "ADDRESS": "3800 West 12 Avenue Suite 2", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.85657, 
+        "NAME": "Copacabana Adult Day Care, Inc"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30784086539528, 
+          25.859482618638438
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0430021020010", 
+        "CAPACITY": 43, 
+        "FACILID": 1200, 
+        "HURZONE": null, 
+        "PHONE2": "7868738079", 
+        "HYPERLINK": null, 
+        "LON": -80.30784, 
+        "ZIPCODE": 33012, 
+        "FAX": "3058225973", 
+        "PHONE": "3058225956", 
+        "CONTACT": "Yune Yener Carrazana", 
+        "POINT_X": 883779.7160388379, 
+        "POINT_Y": 555218.890588172, 
+        "CLOSED": "N", 
+        "ADDRESS": "4160 W 12 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.85948, 
+        "NAME": "United Help Community Services INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3087142377819, 
+          25.926669329930426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3020130060010", 
+        "CAPACITY": 0, 
+        "FACILID": 15860, 
+        "HURZONE": null, 
+        "PHONE2": "3058171643", 
+        "HYPERLINK": null, 
+        "LON": -80.30871, 
+        "ZIPCODE": 33015, 
+        "FAX": null, 
+        "PHONE": "3059894292", 
+        "CONTACT": "Sunset Nogueras Rofes", 
+        "POINT_X": 883363.83235617, 
+        "POINT_Y": 579637.508745596, 
+        "CLOSED": "N", 
+        "ADDRESS": "16879 NW 67 Ave", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.92667, 
+        "NAME": "Senior's Adult Day Care Inc."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34456451075266, 
+          25.92745767986776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "3220160012220", 
+        "CAPACITY": 6, 
+        "FACILID": 417, 
+        "HURZONE": "D", 
+        "PHONE2": "3053032980", 
+        "HYPERLINK": "americanlifeadul@bellsouth.net", 
+        "LON": -80.34456, 
+        "ZIPCODE": 33018, 
+        "FAX": "3055589452", 
+        "PHONE": "3058273100", 
+        "CONTACT": "Vivian Padron", 
+        "POINT_X": 871579.562289588, 
+        "POINT_Y": 579863.500091508, 
+        "CLOSED": "N", 
+        "ADDRESS": "8849 NW 169 TERR", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.92746, 
+        "NAME": "American Life Adult Care Center INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19909135031672, 
+          25.92696603918966
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3021130074060", 
+        "CAPACITY": 0, 
+        "FACILID": 1021, 
+        "HURZONE": "D", 
+        "PHONE2": null, 
+        "HYPERLINK": null, 
+        "LON": -80.19909, 
+        "ZIPCODE": 33162, 
+        "FAX": "3059447953", 
+        "PHONE": "3059400075", 
+        "CONTACT": "Clara Urrutia", 
+        "POINT_X": 919393.0624629221, 
+        "POINT_Y": 579950.4999175069, 
+        "CLOSED": "N", 
+        "ADDRESS": "60 NE 166 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.92697, 
+        "NAME": "North Dade Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21595830911224, 
+          25.941282720290765
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAI GARDENS", 
+        "FOLIO": "3421110031133", 
+        "CAPACITY": 0, 
+        "FACILID": 11580, 
+        "HURZONE": null, 
+        "PHONE2": "7862770426", 
+        "HYPERLINK": "WWW.MGADC.COM", 
+        "LON": -80.21596, 
+        "ZIPCODE": 33169, 
+        "FAX": "3052497117", 
+        "PHONE": "7862770426", 
+        "CONTACT": "LINDA  MAYS", 
+        "POINT_X": 913818.211079836, 
+        "POINT_Y": 585120.705784425, 
+        "CLOSED": "N", 
+        "ADDRESS": "838 NW 183 STREET SUITE 101", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.94128, 
+        "NAME": "MIAMI GARDENS ADULT DAY CARE"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31559716524814, 
+          25.8615721601626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0430020900030", 
+        "CAPACITY": 0, 
+        "FACILID": 163, 
+        "HURZONE": null, 
+        "PHONE2": "3057531623", 
+        "HYPERLINK": null, 
+        "LON": -80.3156, 
+        "ZIPCODE": 33012, 
+        "FAX": "3058199892", 
+        "PHONE": "3055582570", 
+        "CONTACT": "Ramon Perez-Dorrbecker", 
+        "POINT_X": 881225.062683586, 
+        "POINT_Y": 555964.99998834, 
+        "CLOSED": "N", 
+        "ADDRESS": "4410 W 16 Ave Suite 28 C", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86157, 
+        "NAME": "Hialeah Adult Day Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28268847173307, 
+          25.86535467246728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0431060570070", 
+        "CAPACITY": 24, 
+        "FACILID": 14860, 
+        "HURZONE": null, 
+        "PHONE2": "7868383032", 
+        "HYPERLINK": null, 
+        "LON": -80.28269, 
+        "ZIPCODE": 33012, 
+        "FAX": null, 
+        "PHONE": "7868383032", 
+        "CONTACT": "Belkis Valdes", 
+        "POINT_X": 892039.562708087, 
+        "POINT_Y": 557397.562411927, 
+        "CLOSED": "N", 
+        "ADDRESS": "4719 Palm Ave", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86535, 
+        "NAME": "Double Nine Seniors Club Inc."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2945373653051, 
+          25.867493974757206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0430010010010", 
+        "CAPACITY": 30, 
+        "FACILID": 14060, 
+        "HURZONE": null, 
+        "PHONE2": "3055826690", 
+        "HYPERLINK": "www.proadc.com", 
+        "LON": -80.29454, 
+        "ZIPCODE": 33012, 
+        "FAX": null, 
+        "PHONE": "7863993971", 
+        "CONTACT": "Luis cabrera", 
+        "POINT_X": 888139.000955422, 
+        "POINT_Y": 558154.019888505, 
+        "CLOSED": "N", 
+        "ADDRESS": "4967 W 6th ave", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86749, 
+        "NAME": "Professional Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27165670018326, 
+          25.867525523788142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0421320170160", 
+        "CAPACITY": 44, 
+        "FACILID": 1265, 
+        "HURZONE": null, 
+        "PHONE2": null, 
+        "HYPERLINK": "www.facebook.com/lccadultdaycare", 
+        "LON": -80.27166, 
+        "ZIPCODE": 33013, 
+        "FAX": "3054569285", 
+        "PHONE": "3056873800", 
+        "CONTACT": "JOHANNA PERDOMO", 
+        "POINT_X": 895662.875015255, 
+        "POINT_Y": 558206.562434345, 
+        "CLOSED": "N", 
+        "ADDRESS": "551 East 49 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86753, 
+        "NAME": "LCC Adult Day Care, LLC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27165670018326, 
+          25.867525523788142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0421320170160", 
+        "CAPACITY": 44, 
+        "FACILID": 15040, 
+        "HURZONE": null, 
+        "PHONE2": "3058983608", 
+        "HYPERLINK": null, 
+        "LON": -80.27166, 
+        "ZIPCODE": 33013, 
+        "FAX": "3054569285", 
+        "PHONE": "3056873800", 
+        "CONTACT": "JOHANNA PERDOMO", 
+        "POINT_X": 895662.875015255, 
+        "POINT_Y": 558206.562434345, 
+        "CLOSED": "N", 
+        "ADDRESS": "551 EAST 49TH STREET, #12-13", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86753, 
+        "NAME": "LCC ADULT DAY CARE, LLC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31577118213181, 
+          25.876775956859017
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0420350570010", 
+        "CAPACITY": 0, 
+        "FACILID": 13420, 
+        "HURZONE": null, 
+        "PHONE2": "7865478219", 
+        "HYPERLINK": "yisfernandez@hotmail.com", 
+        "LON": -80.31577, 
+        "ZIPCODE": 33012, 
+        "FAX": null, 
+        "PHONE": "7865478219", 
+        "CONTACT": "Victoria Chang", 
+        "POINT_X": 881139.042186338, 
+        "POINT_Y": 561490.752388261, 
+        "CLOSED": "N", 
+        "ADDRESS": "5972 W 16TH AVE", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.87678, 
+        "NAME": "Ideal Adult Daycare Center Inc"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27927758999223, 
+          25.924420475304217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "3421180330001", 
+        "CAPACITY": 30, 
+        "FACILID": 1465, 
+        "HURZONE": null, 
+        "PHONE2": "7864395798", 
+        "HYPERLINK": "www.magikadultdaycare.com", 
+        "LON": -80.27928, 
+        "ZIPCODE": 33014, 
+        "FAX": "3056256236", 
+        "PHONE": "3056256237", 
+        "CONTACT": "Sarah Lantz", 
+        "POINT_X": 893043.252629839, 
+        "POINT_Y": 578872.244200006, 
+        "CLOSED": "N", 
+        "ADDRESS": "4830 NW 167TH ST", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.92442, 
+        "NAME": "Magik Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4866220439681, 
+          25.466337930205516
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1078130000551", 
+        "CAPACITY": 0, 
+        "FACILID": 676, 
+        "HURZONE": "D", 
+        "PHONE2": "3052522550", 
+        "HYPERLINK": "mprospe@miamidade.gov", 
+        "LON": -80.48662, 
+        "ZIPCODE": 33030, 
+        "FAX": "3052427678", 
+        "PHONE": "3052427676", 
+        "CONTACT": "Marie Prospere", 
+        "POINT_X": 825541.749837838, 
+        "POINT_Y": 412061.500066258, 
+        "CLOSED": "N", 
+        "ADDRESS": "653 SW 4 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.46634, 
+        "NAME": "Homestead Adult Day Care Ctr"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47714912409533, 
+          25.470506763696037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1079180060030", 
+        "CAPACITY": 0, 
+        "FACILID": 11560, 
+        "HURZONE": "C", 
+        "PHONE2": "7862866163", 
+        "HYPERLINK": "serjak2001@gmail.com", 
+        "LON": -80.47715, 
+        "ZIPCODE": 33030, 
+        "FAX": "3052458420", 
+        "PHONE": "7862866163", 
+        "CONTACT": "Sergio Muller", 
+        "POINT_X": 828661.1907774211, 
+        "POINT_Y": 413588.768009089, 
+        "CLOSED": "N", 
+        "ADDRESS": "31 North Krome Ave", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.47051, 
+        "NAME": "Brisa del Mar Adult Daycare Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48883798198379, 
+          25.47258554676858
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1078130241225", 
+        "CAPACITY": 0, 
+        "FACILID": 14140, 
+        "HURZONE": "D", 
+        "PHONE2": "7865567488", 
+        "HYPERLINK": null, 
+        "LON": -80.48884, 
+        "ZIPCODE": 33030, 
+        "FAX": null, 
+        "PHONE": "7865567488", 
+        "CONTACT": "Silvia Collado", 
+        "POINT_X": 824801.937669169, 
+        "POINT_Y": 414329.312459759, 
+        "CLOSED": "N", 
+        "ADDRESS": "248 N.W. 9 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.47259, 
+        "NAME": "ABC-Alsy Adult Day Care Centers LLC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46792382617751, 
+          25.479265776822775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1079070190090", 
+        "CAPACITY": 99, 
+        "FACILID": 1029, 
+        "HURZONE": "D", 
+        "PHONE2": "3052150614", 
+        "HYPERLINK": "HBCCMHC@AOL.COM", 
+        "LON": -80.46792, 
+        "ZIPCODE": 33030, 
+        "FAX": "3052486558", 
+        "PHONE": "3052483488", 
+        "CONTACT": "Aidelyn Lopez", 
+        "POINT_X": 831692.062340338, 
+        "POINT_Y": 416784.187471256, 
+        "CLOSED": "N", 
+        "ADDRESS": "654 NE 9 PL", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.47927, 
+        "NAME": "Homestead Behavioral  Clinic, Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42146299340027, 
+          25.524367257355205
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "3069270160030", 
+        "CAPACITY": 30, 
+        "FACILID": 15060, 
+        "HURZONE": "C", 
+        "PHONE2": "7862178042", 
+        "HYPERLINK": null, 
+        "LON": -80.42146, 
+        "ZIPCODE": 33032, 
+        "FAX": null, 
+        "PHONE": "7862178042", 
+        "CONTACT": "Olga  Montoya", 
+        "POINT_X": 846947.974741839, 
+        "POINT_Y": 433239.88520284, 
+        "CLOSED": "N", 
+        "ADDRESS": "26063 South Dixie HWY", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.52437, 
+        "NAME": "Miami-Dade Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37370302785064, 
+          25.76764768005131
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "2540060011053", 
+        "CAPACITY": 0, 
+        "FACILID": 11920, 
+        "HURZONE": "E", 
+        "PHONE2": "3057938849", 
+        "HYPERLINK": null, 
+        "LON": -80.3737, 
+        "ZIPCODE": 33174, 
+        "FAX": "3052251289", 
+        "PHONE": "3057938849", 
+        "CONTACT": "GLADYS NEGRIN", 
+        "POINT_X": 862279.589747839, 
+        "POINT_Y": 521731.885055758, 
+        "CLOSED": "N", 
+        "ADDRESS": "10910 W FLAGLER ST  SUITE 109-110", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76765, 
+        "NAME": "ABIS ADULT DAY CARE"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43884358658863, 
+          25.64000724435649
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3059210230010", 
+        "CAPACITY": 35, 
+        "FACILID": 1321, 
+        "HURZONE": "D", 
+        "PHONE2": "7867188846", 
+        "HYPERLINK": "joylifecenter.com", 
+        "LON": -80.43884, 
+        "ZIPCODE": 33196, 
+        "FAX": "7862933320", 
+        "PHONE": "7862933310", 
+        "CONTACT": "Vivianne Vinas", 
+        "POINT_X": 841038.593516003, 
+        "POINT_Y": 475244.175866008, 
+        "CLOSED": "N", 
+        "ADDRESS": "15190 SW 136TH ST", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.64001, 
+        "NAME": "The Joy of Life Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36089532051552, 
+          25.700437865498085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "miami", 
+        "FOLIO": "3040320010050", 
+        "CAPACITY": 50, 
+        "FACILID": 15400, 
+        "HURZONE": "D", 
+        "PHONE2": "7865549485", 
+        "HYPERLINK": null, 
+        "LON": -80.3609, 
+        "ZIPCODE": 33173, 
+        "FAX": null, 
+        "PHONE": "7865549485", 
+        "CONTACT": "LISSETTE  LIMA", 
+        "POINT_X": 866613.000044253, 
+        "POINT_Y": 497324.28164009, 
+        "CLOSED": "N", 
+        "ADDRESS": "10300 sw 72 street ste.412", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.70044, 
+        "NAME": "Sweet Life Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32615926944196, 
+          25.586432760656127
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3660030010222", 
+        "CAPACITY": 60, 
+        "FACILID": 1061, 
+        "HURZONE": "A", 
+        "PHONE2": "3053897141", 
+        "HYPERLINK": "ljuarab@miamidade.gov", 
+        "LON": -80.32616, 
+        "ZIPCODE": 33157, 
+        "FAX": "3052326295", 
+        "PHONE": "3052551433", 
+        "CONTACT": "Lillian Juarbe", 
+        "POINT_X": 878262.2191998359, 
+        "POINT_Y": 455945.557639174, 
+        "CLOSED": "N", 
+        "ADDRESS": "19590 Old Cutler Road", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.58643, 
+        "NAME": "South Dade Adult Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47893541908728, 
+          25.587626116848366
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3068010000061", 
+        "CAPACITY": 0, 
+        "FACILID": 13960, 
+        "HURZONE": "D", 
+        "PHONE2": "3052332222", 
+        "HYPERLINK": null, 
+        "LON": -80.47894, 
+        "ZIPCODE": 33187, 
+        "FAX": null, 
+        "PHONE": "3055628500", 
+        "CONTACT": "Greidys Mojena", 
+        "POINT_X": 827905.025295004, 
+        "POINT_Y": 456152.499154426, 
+        "CLOSED": "N", 
+        "ADDRESS": "19110 S.W. 177 Ave., Unit #C", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.58763, 
+        "NAME": "Adult Day Care Centers Corp"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36207227048514, 
+          25.590237019885347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Cutler Bay", 
+        "FOLIO": "3060051000001", 
+        "CAPACITY": 0, 
+        "FACILID": 1362, 
+        "HURZONE": "B", 
+        "PHONE2": "7864064440", 
+        "HYPERLINK": null, 
+        "LON": -80.36207, 
+        "ZIPCODE": 33157, 
+        "FAX": null, 
+        "PHONE": "3052427060", 
+        "CONTACT": "Milagros Morales", 
+        "POINT_X": 866418.4528611711, 
+        "POINT_Y": 457269.689833425, 
+        "CLOSED": "N", 
+        "ADDRESS": "18901 SW 106TH AVE STE 145", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.59024, 
+        "NAME": "Galata Adult Daycare Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36207227048514, 
+          25.590237019885347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3060051000001", 
+        "CAPACITY": 42, 
+        "FACILID": 14920, 
+        "HURZONE": "B", 
+        "PHONE2": "3054847057", 
+        "HYPERLINK": "landsyd@gmail.com", 
+        "LON": -80.36207, 
+        "ZIPCODE": 33157, 
+        "FAX": "3053578182", 
+        "PHONE": "3054847057", 
+        "CONTACT": "Marie  Dessalines", 
+        "POINT_X": 866418.4528611711, 
+        "POINT_Y": 457269.689833425, 
+        "CLOSED": "N", 
+        "ADDRESS": "18901 SW 106th Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.59024, 
+        "NAME": "Dessalines"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36991086727639, 
+          25.59671949838638
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3060060620001", 
+        "CAPACITY": 0, 
+        "FACILID": 14281, 
+        "HURZONE": "C", 
+        "PHONE2": "7863551394", 
+        "HYPERLINK": null, 
+        "LON": -80.36991, 
+        "ZIPCODE": 33157, 
+        "FAX": null, 
+        "PHONE": "7863551394", 
+        "CONTACT": "Diana Rego", 
+        "POINT_X": 863823.7050979211, 
+        "POINT_Y": 459613.392167009, 
+        "CLOSED": "N", 
+        "ADDRESS": "10989 S.W. 186 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.59672, 
+        "NAME": "Diamar Adult Daycare Center Corp."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36871018077193, 
+          25.597721200583127
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Cutler Bay", 
+        "FOLIO": "3060060530030", 
+        "CAPACITY": 53, 
+        "FACILID": 1444, 
+        "HURZONE": "C", 
+        "PHONE2": "7862944949", 
+        "HYPERLINK": null, 
+        "LON": -80.36871, 
+        "ZIPCODE": 33157, 
+        "FAX": "3052788264", 
+        "PHONE": "3052788264", 
+        "CONTACT": "Mayet Gutierrez", 
+        "POINT_X": 864217.689546172, 
+        "POINT_Y": 459979.342222512, 
+        "CLOSED": "N", 
+        "ADDRESS": "10900 SW 184TH Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.59772, 
+        "NAME": "Jesus Es Mi Roca INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3517438003673, 
+          25.59916895136654
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PALMETTO BAY", 
+        "FOLIO": "3350320470020", 
+        "CAPACITY": 20, 
+        "FACILID": 15760, 
+        "HURZONE": "D", 
+        "PHONE2": "3059752797", 
+        "HYPERLINK": null, 
+        "LON": -80.35174, 
+        "ZIPCODE": 33157, 
+        "FAX": null, 
+        "PHONE": "3059752797", 
+        "CONTACT": "ELAINE ORTIZ", 
+        "POINT_X": 869806.790900756, 
+        "POINT_Y": 460532.504502006, 
+        "CLOSED": "N", 
+        "ADDRESS": "9855 SW 184 STREET", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.59917, 
+        "NAME": "ADULT DAY CENTER OF SOUTH OF FLORIDA"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35010915191843, 
+          25.60616256069598
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PALMETTO BAY", 
+        "FOLIO": "3350320042660", 
+        "CAPACITY": 25, 
+        "FACILID": 15241, 
+        "HURZONE": "D", 
+        "PHONE2": "7863060262", 
+        "HYPERLINK": "yassielcabre@gmail.com", 
+        "LON": -80.35011, 
+        "ZIPCODE": 33157, 
+        "FAX": null, 
+        "PHONE": "7863060262", 
+        "CONTACT": "YASSIEL  CABRE", 
+        "POINT_X": 870333.062814087, 
+        "POINT_Y": 463076.97218209505, 
+        "CLOSED": "N", 
+        "ADDRESS": "9861 E FERN. STREET", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.60616, 
+        "NAME": "ADULT DAY CARE INC."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41300890636012, 
+          25.6240507589633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3059260070020", 
+        "CAPACITY": 0, 
+        "FACILID": 11060, 
+        "HURZONE": "D", 
+        "PHONE2": "7864876204", 
+        "HYPERLINK": null, 
+        "LON": -80.41301, 
+        "ZIPCODE": 33177, 
+        "FAX": null, 
+        "PHONE": "7864876204", 
+        "CONTACT": "Jose Pena", 
+        "POINT_X": 849575.666993003, 
+        "POINT_Y": 469481.707404092, 
+        "CLOSED": "N", 
+        "ADDRESS": "15435 SW 137 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.62405, 
+        "NAME": "Abuelo's Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43838538070403, 
+          25.729799499195575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049160220010", 
+        "CAPACITY": 60, 
+        "FACILID": 1474, 
+        "HURZONE": "E", 
+        "PHONE2": "7865461671", 
+        "HYPERLINK": null, 
+        "LON": -80.43839, 
+        "ZIPCODE": 33185, 
+        "FAX": "3052216366", 
+        "PHONE": "7865461671", 
+        "CONTACT": "Maria Del Carmen Daniel", 
+        "POINT_X": 841050.900249921, 
+        "POINT_Y": 507879.879951425, 
+        "CLOSED": "N", 
+        "ADDRESS": "4057 SW 152ND AVE", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.7298, 
+        "NAME": "Blue Angel Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33417746162867, 
+          25.748120856682167
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040100000020", 
+        "CAPACITY": 0, 
+        "FACILID": 15000, 
+        "HURZONE": "E", 
+        "PHONE2": "3058158367", 
+        "HYPERLINK": "Lizcedo@gmail.com", 
+        "LON": -80.33418, 
+        "ZIPCODE": 33155, 
+        "FAX": null, 
+        "PHONE": "3058158367", 
+        "CONTACT": "Lissette  Gancedo", 
+        "POINT_X": 875323.563331753, 
+        "POINT_Y": 514698.456209257, 
+        "CLOSED": "N", 
+        "ADDRESS": "8655 SW 24th Street # C", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74812, 
+        "NAME": "Azucar Adult Day CAre"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30393937043898, 
+          25.748549124485603
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040110000031", 
+        "CAPACITY": 0, 
+        "FACILID": 1471, 
+        "HURZONE": "D", 
+        "PHONE2": "3052164434", 
+        "HYPERLINK": "www.miamiadultdaycare.com", 
+        "LON": -80.30394, 
+        "ZIPCODE": 33155, 
+        "FAX": "3052663840", 
+        "PHONE": "3052164434", 
+        "CONTACT": "Jacinto Abdala", 
+        "POINT_X": 885275.9738730859, 
+        "POINT_Y": 514905.504023507, 
+        "CLOSED": "N", 
+        "ADDRESS": "2370 SW 67TH AVE", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74855, 
+        "NAME": "Coral West Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32721412883302, 
+          25.73379023962905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040150000331", 
+        "CAPACITY": 0, 
+        "FACILID": 11081, 
+        "HURZONE": "D", 
+        "PHONE2": "7865974846", 
+        "HYPERLINK": "martarangel2004@yahoo.com", 
+        "LON": -80.32721, 
+        "ZIPCODE": 33155, 
+        "FAX": null, 
+        "PHONE": "7865974846", 
+        "CONTACT": "Marta  Rangel", 
+        "POINT_X": 877642.188287672, 
+        "POINT_Y": 509501.506301343, 
+        "CLOSED": "N", 
+        "ADDRESS": "3925 SW 82 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.73379, 
+        "NAME": "Senior Center Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45575835429234, 
+          25.684884800112876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049320140010", 
+        "CAPACITY": 0, 
+        "FACILID": 10880, 
+        "HURZONE": "E", 
+        "PHONE2": "8134514417", 
+        "HYPERLINK": "wltgran@aol.com", 
+        "LON": -80.45576, 
+        "ZIPCODE": 33196, 
+        "FAX": null, 
+        "PHONE": "8134514417", 
+        "CONTACT": "Barbara Granda", 
+        "POINT_X": 835398.849546172, 
+        "POINT_Y": 491531.61638817197, 
+        "CLOSED": "N", 
+        "ADDRESS": "16267 SW 88 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.68488, 
+        "NAME": "Granda's Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30828211580595, 
+          25.740158491786293
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040140210010", 
+        "CAPACITY": 0, 
+        "FACILID": 1022, 
+        "HURZONE": "C", 
+        "PHONE2": "7862298458", 
+        "HYPERLINK": null, 
+        "LON": -80.30828, 
+        "ZIPCODE": 33155, 
+        "FAX": "3052676364", 
+        "PHONE": "3052676372", 
+        "CONTACT": "Maggie Novoa", 
+        "POINT_X": 883862.502290588, 
+        "POINT_Y": 511848.329035506, 
+        "CLOSED": "N", 
+        "ADDRESS": "6950 N. Waterway Drive", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74016, 
+        "NAME": "West Dade Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42342578722402, 
+          25.742159438519778
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049150590020", 
+        "CAPACITY": 41, 
+        "FACILID": 14840, 
+        "HURZONE": "E", 
+        "PHONE2": "3059055208", 
+        "HYPERLINK": "morningstaradultcare@yahoo.com", 
+        "LON": -80.42343, 
+        "ZIPCODE": 33175, 
+        "FAX": "3054854003", 
+        "PHONE": "3054854002", 
+        "CONTACT": "PAULA MARIA  RODRIGUEZ", 
+        "POINT_X": 845956.089586504, 
+        "POINT_Y": 512393.38437584, 
+        "CLOSED": "N", 
+        "ADDRESS": "2741 - 45 SW 142 Ave", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74216, 
+        "NAME": "Morning Star Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38988183728557, 
+          25.76046500354315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049010000310", 
+        "CAPACITY": 0, 
+        "FACILID": 11080, 
+        "HURZONE": null, 
+        "PHONE2": "3059103138", 
+        "HYPERLINK": "goldentimeadc@att.net", 
+        "LON": -80.38988, 
+        "ZIPCODE": 33184, 
+        "FAX": "3055526174", 
+        "PHONE": "3059103138", 
+        "CONTACT": "Andro Delgado", 
+        "POINT_X": 856967.13613392, 
+        "POINT_Y": 519096.317492262, 
+        "CLOSED": "N", 
+        "ADDRESS": "11980 SW 8 Street Suite # 15", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76047, 
+        "NAME": "Golden Time Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32507726084764, 
+          25.761529751176212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040100050030", 
+        "CAPACITY": 0, 
+        "FACILID": 1014, 
+        "HURZONE": "E", 
+        "PHONE2": "7862367329", 
+        "HYPERLINK": "cadcinc1@bellsouth.net", 
+        "LON": -80.32508, 
+        "ZIPCODE": 33144, 
+        "FAX": "3052696847", 
+        "PHONE": "3052696845", 
+        "CONTACT": "Luis Ibanez", 
+        "POINT_X": 878294.0534537551, 
+        "POINT_Y": 519587.26631350804, 
+        "CLOSED": "N", 
+        "ADDRESS": "7944 SW 8 ST", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76153, 
+        "NAME": "C.A.D.C"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44570711454895, 
+          25.698135670157694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049331100010", 
+        "CAPACITY": 0, 
+        "FACILID": 90, 
+        "HURZONE": "E", 
+        "PHONE2": "3054313520", 
+        "HYPERLINK": "sanjudasadc1@yahoo.com", 
+        "LON": -80.44571, 
+        "ZIPCODE": 33193, 
+        "FAX": "3054087737", 
+        "PHONE": "3054080077", 
+        "CONTACT": "Betty Drago", 
+        "POINT_X": 838688.8354202551, 
+        "POINT_Y": 496361.410206258, 
+        "CLOSED": "N", 
+        "ADDRESS": "15628 SW 72 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.69814, 
+        "NAME": "San Judas Community Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41081117027268, 
+          25.729813118912872
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049140020250", 
+        "CAPACITY": 0, 
+        "FACILID": 350, 
+        "HURZONE": "D", 
+        "PHONE2": null, 
+        "HYPERLINK": null, 
+        "LON": -80.41081, 
+        "ZIPCODE": 33175, 
+        "FAX": "3052279295", 
+        "PHONE": "3052279500", 
+        "CONTACT": "Erica Ruiz", 
+        "POINT_X": 850128.53859067, 
+        "POINT_Y": 507924.40807759, 
+        "CLOSED": "N", 
+        "ADDRESS": "13359 SW 42 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.72981, 
+        "NAME": "Santovenia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3148472402316, 
+          25.73253052535097
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040230120080", 
+        "CAPACITY": 0, 
+        "FACILID": 1290, 
+        "HURZONE": "D", 
+        "PHONE2": "3053704578", 
+        "HYPERLINK": "elyjrod@hotmail.com", 
+        "LON": -80.31485, 
+        "ZIPCODE": 33155, 
+        "FAX": "3057778855", 
+        "PHONE": "7863887673", 
+        "CONTACT": "Elaine J. Rodriguez", 
+        "POINT_X": 881715.763473839, 
+        "POINT_Y": 509064.601007178, 
+        "CLOSED": "N", 
+        "ADDRESS": "7392 SW 40TH St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.73253, 
+        "NAME": "Roseland Adult Daycare INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33955552253282, 
+          25.73267320554385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040210000271", 
+        "CAPACITY": 37, 
+        "FACILID": 1442, 
+        "HURZONE": "D", 
+        "PHONE2": "3059897909", 
+        "HYPERLINK": "nonnasdaycare@aol.com", 
+        "LON": -80.33956, 
+        "ZIPCODE": 33165, 
+        "FAX": null, 
+        "PHONE": "3059897909", 
+        "CONTACT": "Rosa Maria Suarez", 
+        "POINT_X": 873581.422131006, 
+        "POINT_Y": 509074.98746934504, 
+        "CLOSED": "N", 
+        "ADDRESS": "8870 SW 40TH ST STE 5", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.73267, 
+        "NAME": "Nonna's Adult Day Care Facility, INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30536906732652, 
+          25.732703062184047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040230720010", 
+        "CAPACITY": 0, 
+        "FACILID": 13640, 
+        "HURZONE": "D", 
+        "PHONE2": "3052060861", 
+        "HYPERLINK": "www.centroaxis.com", 
+        "LON": -80.30537, 
+        "ZIPCODE": 33155, 
+        "FAX": "3056680635", 
+        "PHONE": "3056680634", 
+        "CONTACT": "Loriana Novoa", 
+        "POINT_X": 884835.698835004, 
+        "POINT_Y": 509143.624143094, 
+        "CLOSED": "N", 
+        "ADDRESS": "6840 SW 40 St., Suite 206", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.7327, 
+        "NAME": "Axis Behavioral Health"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35391706455871, 
+          25.733698207310834
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3040170000290", 
+        "CAPACITY": 35, 
+        "FACILID": 14100, 
+        "HURZONE": "D", 
+        "PHONE2": "7868381422", 
+        "HYPERLINK": "LVARGAS@CENTROLAEDADDEORO.COM", 
+        "LON": -80.35392, 
+        "ZIPCODE": 33165, 
+        "FAX": "3052231533", 
+        "PHONE": "7867975603", 
+        "CONTACT": "LISBET  VARGAS", 
+        "POINT_X": 868851.7288345019, 
+        "POINT_Y": 509424.125878677, 
+        "CLOSED": "N", 
+        "ADDRESS": "9815 SW 40 STREET", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.7337, 
+        "NAME": "CENTRO LA EDAD DE ORO ADULT DAY CARE"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41706598323424, 
+          25.742832045050932
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3049150011190", 
+        "CAPACITY": 38, 
+        "FACILID": 15800, 
+        "HURZONE": "E", 
+        "PHONE2": "3055193895", 
+        "HYPERLINK": "dominguezvila00@hotmail.com", 
+        "LON": -80.41707, 
+        "ZIPCODE": 33175, 
+        "FAX": null, 
+        "PHONE": "3054569905", 
+        "CONTACT": "Ernesto Dominguez", 
+        "POINT_X": 848048.494194336, 
+        "POINT_Y": 512647.04692626, 
+        "CLOSED": "N", 
+        "ADDRESS": "2668-72 SW 137 AVE", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74283, 
+        "NAME": "THE SENIOR CLUB"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41767836045015, 
+          25.742857838062797
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "3049150690010", 
+        "CAPACITY": 0, 
+        "FACILID": 12440, 
+        "HURZONE": "E", 
+        "PHONE2": "7863449819", 
+        "HYPERLINK": null, 
+        "LON": -80.41768, 
+        "ZIPCODE": 33175, 
+        "FAX": null, 
+        "PHONE": "7863449819", 
+        "CONTACT": "ORQUIDEA SANTOS", 
+        "POINT_X": 847846.875175003, 
+        "POINT_Y": 512655.531161256, 
+        "CLOSED": "N", 
+        "ADDRESS": "13780 SW 26 ST SUITE # 208", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74286, 
+        "NAME": "SANTO ACTIVITY CENTER, INC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4154758529334, 
+          25.745171449461044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3049110020040", 
+        "CAPACITY": 6, 
+        "FACILID": 1396, 
+        "HURZONE": "E", 
+        "PHONE2": "7862716745", 
+        "HYPERLINK": null, 
+        "LON": -80.41548, 
+        "ZIPCODE": 33175, 
+        "FAX": "7862871674", 
+        "PHONE": "3052235599", 
+        "CONTACT": "Liliana Santos", 
+        "POINT_X": 848568.1539161691, 
+        "POINT_Y": 513499.630522929, 
+        "CLOSED": "N", 
+        "ADDRESS": "13655 SW 26TH ST", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74517, 
+        "NAME": "Santo's Adult Day Care"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35212742040655, 
+          25.745691099138877
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040170000031", 
+        "CAPACITY": 0, 
+        "FACILID": 12060, 
+        "HURZONE": "D", 
+        "PHONE2": "3052158773", 
+        "HYPERLINK": "Anthonyferropuig@yahoo.com", 
+        "LON": -80.35213, 
+        "ZIPCODE": 33165, 
+        "FAX": "3052251192", 
+        "PHONE": "3052158773", 
+        "CONTACT": "Anthony  Ferro", 
+        "POINT_X": 869419.474418171, 
+        "POINT_Y": 513785.91636767203, 
+        "CLOSED": "N", 
+        "ADDRESS": "9782 SW 24 St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74569, 
+        "NAME": "United Adult Day Day"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3682643286891, 
+          25.745826534751195
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040180000017", 
+        "CAPACITY": 31, 
+        "FACILID": 14821, 
+        "HURZONE": "D", 
+        "PHONE2": "7862290064", 
+        "HYPERLINK": "careangelscenter@att.net", 
+        "LON": -80.36826, 
+        "ZIPCODE": 33165, 
+        "FAX": "3055534525", 
+        "PHONE": "3055534545", 
+        "CONTACT": "Luis  Rodriguez", 
+        "POINT_X": 864107.500134002, 
+        "POINT_Y": 513809.374982178, 
+        "CLOSED": "N", 
+        "ADDRESS": "2500 SW 107 Ave.ste.27", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74583, 
+        "NAME": "Care Angels Adult Center Inc."
+      }
+    }
+  ]
+}

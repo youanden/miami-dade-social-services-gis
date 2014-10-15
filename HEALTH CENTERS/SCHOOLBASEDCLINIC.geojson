@@ -1,0 +1,2605 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40127799330928, 
+          25.515656556741543
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Air Base Elementary School", 
+        "LON": -80.401277993, 
+        "ZIPCODE": 33032, 
+        "POINT_X": 853618.68712, 
+        "POINT_Y": 430103.49974, 
+        "ADDRESS": "12829 SW 272Nd St", 
+        "LAT": 25.515656557
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21813425453088, 
+          25.81833710863355
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Lenora Braynon Smith Elementary School", 
+        "LON": -80.218134255, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 913369.3127, 
+        "POINT_Y": 540429.31256, 
+        "ADDRESS": "4700 NW 12Th Ave", 
+        "LAT": 25.818337108
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22677332020169, 
+          25.80530819777587
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Maya Angelou Elementary School", 
+        "LON": -80.22677332, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 910555.12476, 
+        "POINT_Y": 535676.93755, 
+        "ADDRESS": "1850 NW 32Nd St", 
+        "LAT": 25.805308198
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46622079414611, 
+          25.494713140390044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Avocado Elementary School", 
+        "LON": -80.466220794, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 832231.37491, 
+        "POINT_Y": 422400.62473, 
+        "ADDRESS": "16969 SW 294Th St", 
+        "LAT": 25.494713141
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42020969245003, 
+          25.721311733751005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Bent Tree Elementary School", 
+        "LON": -80.420209693, 
+        "ZIPCODE": 33175, 
+        "POINT_X": 847048.03589, 
+        "POINT_Y": 504820.84703, 
+        "ADDRESS": "4861 SW 140Th Ave", 
+        "LAT": 25.721311734
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12666968419435, 
+          25.86135622226537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "BiscayNE Elementary School", 
+        "LON": -80.126669684, 
+        "ZIPCODE": 33141, 
+        "POINT_X": 943354.99978, 
+        "POINT_Y": 556254.9374, 
+        "ADDRESS": "800 77Th St", 
+        "LAT": 25.861356222
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20879719741134, 
+          25.91277874267787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "BiscayNE Gardens Elementary School", 
+        "LON": -80.208797197, 
+        "ZIPCODE": 33169, 
+        "POINT_X": 916234.14326, 
+        "POINT_Y": 574774.41939, 
+        "ADDRESS": "560 NW 151St St", 
+        "LAT": 25.912778743
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34421765745435, 
+          25.718173830444876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Blue Lakes Elementary School", 
+        "LON": -80.344217657, 
+        "ZIPCODE": 33165, 
+        "POINT_X": 872072.81262, 
+        "POINT_Y": 503797.43733, 
+        "ADDRESS": "9250 SW 52Nd Terr", 
+        "LAT": 25.718173831
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4412903281752, 
+          25.703935177009978
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Doolin/Ashe K-8 Academy", 
+        "LON": -80.441290328, 
+        "ZIPCODE": 33193, 
+        "POINT_X": 840134.34631, 
+        "POINT_Y": 498475.37514, 
+        "ADDRESS": "6601 SW 152Nd Ave", 
+        "LAT": 25.703935177
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25271334420667, 
+          25.949163579083052
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "PROVIDER": "Brentwood Elementary School", 
+        "LON": -80.252713344, 
+        "ZIPCODE": 33056, 
+        "POINT_X": 901722.99971, 
+        "POINT_Y": 587914.5624, 
+        "ADDRESS": "3101 NW 191St St", 
+        "LAT": 25.949163579
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30324990292083, 
+          25.84481391193025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "James H. Bright Elementary School", 
+        "LON": -80.303249903, 
+        "ZIPCODE": 33010, 
+        "POINT_X": 885317.75004, 
+        "POINT_Y": 549895.31232, 
+        "ADDRESS": "2530 W 10Th Ave", 
+        "LAT": 25.844813912
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25359082184914, 
+          25.84976512610401
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Broadmoor Elementary School", 
+        "LON": -80.253590822, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 901640.24331, 
+        "POINT_Y": 551784.58971, 
+        "ADDRESS": "3401 NW 83Rd St", 
+        "LAT": 25.849765126
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23333386626858, 
+          25.920793641279058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "PROVIDER": "Bunche Park Elementary School", 
+        "LON": -80.233333866, 
+        "ZIPCODE": 33054, 
+        "POINT_X": 908151.62497, 
+        "POINT_Y": 577639.68728, 
+        "ADDRESS": "16001 Bunche Park Dr", 
+        "LAT": 25.920793641
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44584315903705, 
+          25.481526840886072
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Campbell Drive K-8 Center", 
+        "LON": -80.445843159, 
+        "ZIPCODE": 33033, 
+        "POINT_X": 838972.92508, 
+        "POINT_Y": 417635.65427, 
+        "ADDRESS": "15790 SW 307Th St", 
+        "LAT": 25.481526841
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3858742995148, 
+          25.580402112806738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Caribbean Elementary School", 
+        "LON": -80.3858743, 
+        "ZIPCODE": 33177, 
+        "POINT_X": 858590.00001, 
+        "POINT_Y": 453658.18721, 
+        "ADDRESS": "11990 SW 200Th St", 
+        "LAT": 25.580402113
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27109353659336, 
+          25.932849985950416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "PROVIDER": "Carol City Elementary School", 
+        "LON": -80.271093537, 
+        "ZIPCODE": 33055, 
+        "POINT_X": 895716.11441, 
+        "POINT_Y": 581950.99821, 
+        "ADDRESS": "4375 NW 173Rd Dr", 
+        "LAT": 25.932849986
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13232783812533, 
+          25.78619222221736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "Fienberg/Fisher K-8 Center", 
+        "LON": -80.132327838, 
+        "ZIPCODE": 33139, 
+        "POINT_X": 941674.50379, 
+        "POINT_Y": 528922.538, 
+        "ADDRESS": "1420 Washington Ave", 
+        "LAT": 25.786192222
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41751790578301, 
+          25.514642091792044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "William A. Chapman Elementary School", 
+        "LON": -80.417517906, 
+        "ZIPCODE": 33032, 
+        "POINT_X": 848264.43635, 
+        "POINT_Y": 429711.01726, 
+        "ADDRESS": "27190 SW 140Th Ave", 
+        "LAT": 25.514642092
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24310649574922, 
+          25.72910825272695
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coconut Grove", 
+        "PROVIDER": "Coconut Grove Elementary School", 
+        "LON": -80.243106496, 
+        "ZIPCODE": 33133, 
+        "POINT_X": 905340.43735, 
+        "POINT_Y": 507949.78106, 
+        "ADDRESS": "3351 Matilda St", 
+        "LAT": 25.729108253
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36693497328514, 
+          25.621247057488954
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Colonial Drive Elementary School", 
+        "LON": -80.366934973, 
+        "ZIPCODE": 33157, 
+        "POINT_X": 864761.91385, 
+        "POINT_Y": 468532.60464, 
+        "ADDRESS": "10755 SW 160Th St", 
+        "LAT": 25.621247057
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3059174140146, 
+          25.748812106894782
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Coral Terrace Elementary School", 
+        "LON": -80.305917414, 
+        "ZIPCODE": 33155, 
+        "POINT_X": 884624.37511, 
+        "POINT_Y": 514997.65607, 
+        "ADDRESS": "6801 SW 24Th St", 
+        "LAT": 25.748812107
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2006913616296, 
+          25.78543154556028
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Frederick Douglass Elementary School", 
+        "LON": -80.200691361, 
+        "ZIPCODE": 33136, 
+        "POINT_X": 919180.18723, 
+        "POINT_Y": 528503.68746, 
+        "ADDRESS": "314 NW 12Th St", 
+        "LAT": 25.785431545
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38945019130524, 
+          25.766968272327933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Marjory StoNEman Douglas Elementary School", 
+        "LON": -80.389450191, 
+        "ZIPCODE": 33184, 
+        "POINT_X": 857098.25333, 
+        "POINT_Y": 521460.63166, 
+        "ADDRESS": "11901 SW 2Nd St", 
+        "LAT": 25.766968272
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22710451125825, 
+          25.83081673692304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Charles R. Drew Elementary School", 
+        "LON": -80.227104511, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 910391.68742, 
+        "POINT_Y": 544947.81238, 
+        "ADDRESS": "1775 NW 60Th St", 
+        "LAT": 25.830816737
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20341353896885, 
+          25.796424505315997
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Paul Laurence Dunbar Elementary School", 
+        "LON": -80.203413539, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 918260.24386, 
+        "POINT_Y": 532493.83925, 
+        "ADDRESS": "505 NW 20Th St", 
+        "LAT": 25.796424505
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30614589945542, 
+          25.87605270408675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "John G. Dupuis Elementary School", 
+        "LON": -80.3061459, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 884305.29143, 
+        "POINT_Y": 561244.48648, 
+        "ADDRESS": "1150 W 59Th Pl", 
+        "LAT": 25.876052704
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23341425087851, 
+          25.817476188781313
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Earlington Heights Elementary School", 
+        "LON": -80.233414251, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 908344.43758, 
+        "POINT_Y": 540086.81258, 
+        "ADDRESS": "4750 NW 22Nd Ave", 
+        "LAT": 25.817476189
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22835891923165, 
+          25.84435210658322
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Lillie C. Evans K-8 Center", 
+        "LON": -80.228358919, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 909950.18732, 
+        "POINT_Y": 549865.06271, 
+        "ADDRESS": "1895 NW 75Th St", 
+        "LAT": 25.844352106
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31863117172558, 
+          25.760563363413496
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Flagami Elementary School", 
+        "LON": -80.318631172, 
+        "ZIPCODE": 33144, 
+        "POINT_X": 880417.43766, 
+        "POINT_Y": 519246.9376, 
+        "ADDRESS": "920 SW 76Th Ave", 
+        "LAT": 25.760563363
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26813867237207, 
+          25.852945521376306
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Flamingo Elementary School", 
+        "LON": -80.268138672, 
+        "ZIPCODE": 33013, 
+        "POINT_X": 896849.25027, 
+        "POINT_Y": 552913.64389, 
+        "ADDRESS": "701 E 33Rd St", 
+        "LAT": 25.852945521
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48564868675439, 
+          25.451948721943012
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "PROVIDER": "Florida City Elementary School", 
+        "LON": -80.485648687, 
+        "ZIPCODE": 33034, 
+        "POINT_X": 825883.06937, 
+        "POINT_Y": 406833.15521, 
+        "ADDRESS": "364 NW 6Th Ave", 
+        "LAT": 25.451948722
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16426840743088, 
+          25.924454591718156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "PROVIDER": "Fulford Elementary School", 
+        "LON": -80.164268408, 
+        "ZIPCODE": 33162, 
+        "POINT_X": 930844.27644, 
+        "POINT_Y": 579109.12627, 
+        "ADDRESS": "16140 NE 18Th Ave", 
+        "LAT": 25.924454592
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35698294938909, 
+          25.891039226433552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah Gardens", 
+        "PROVIDER": "Hialeah Gardens Elementary School", 
+        "LON": -80.35698295, 
+        "ZIPCODE": 33018, 
+        "POINT_X": 867562.97124, 
+        "POINT_Y": 566606.43573, 
+        "ADDRESS": "9702 NW 130Th St", 
+        "LAT": 25.891039226
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19800217649548, 
+          25.88506622634292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Gratigny Elementary School", 
+        "LON": -80.198002177, 
+        "ZIPCODE": 33168, 
+        "POINT_X": 919844.18558, 
+        "POINT_Y": 564723.23838, 
+        "ADDRESS": "11905 N Miami Ave", 
+        "LAT": 25.885066227
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16961647378639, 
+          25.939496127582736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "PROVIDER": "Greynolds Park Elementary School", 
+        "LON": -80.169616474, 
+        "ZIPCODE": 33162, 
+        "POINT_X": 929051.8125, 
+        "POINT_Y": 584565.18754, 
+        "ADDRESS": "1536 NE 179Th St", 
+        "LAT": 25.939496128
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33286461668526, 
+          25.775256942877654
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Charles R. Hadley Elementary School", 
+        "LON": -80.332864617, 
+        "ZIPCODE": 33126, 
+        "POINT_X": 875705.78599, 
+        "POINT_Y": 524563.49619, 
+        "ADDRESS": "8400 NW 7Th St", 
+        "LAT": 25.775256943
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21644825489093, 
+          25.836187357592536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Holmes Elementary School", 
+        "LON": -80.216448255, 
+        "ZIPCODE": 33150, 
+        "POINT_X": 913885.30379, 
+        "POINT_Y": 546920.60928, 
+        "ADDRESS": "1175 NW 67Th St", 
+        "LAT": 25.836187357
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43380374168822, 
+          25.49856857335335
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Leisure City K-8 Center", 
+        "LON": -80.433803742, 
+        "ZIPCODE": 33033, 
+        "POINT_X": 842918.24986, 
+        "POINT_Y": 423846.03096, 
+        "ADDRESS": "14950 SW 288Th St", 
+        "LAT": 25.498568574
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48430067076039, 
+          25.462727800392457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Laura C. Saunders Elementary School", 
+        "LON": -80.48430067, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 826312.7145, 
+        "POINT_Y": 410752.39868, 
+        "ADDRESS": "505 SW 8Th St", 
+        "LAT": 25.462727801
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20547577234154, 
+          25.844484078868977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Jesse J. McCrary Jr. Elementary School", 
+        "LON": -80.205475772, 
+        "ZIPCODE": 33150, 
+        "POINT_X": 917476.18736, 
+        "POINT_Y": 549957.87519, 
+        "ADDRESS": "514 NW 77Th St", 
+        "LAT": 25.844484079
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24777436608632, 
+          25.821063237623783
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Lorah Park Elementary School", 
+        "LON": -80.247774366, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 903612.87486, 
+        "POINT_Y": 541363.31266, 
+        "ADDRESS": "5160 NW 31St Ave", 
+        "LAT": 25.821063237
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19388547439705, 
+          25.829459704728986
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Toussaint L'Ouverture Elementary School", 
+        "LON": -80.193885474, 
+        "ZIPCODE": 33137, 
+        "POINT_X": 921321.74004, 
+        "POINT_Y": 544520.182, 
+        "ADDRESS": "120 NE 59Th St", 
+        "LAT": 25.829459705
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30066990215275, 
+          25.70293286614072
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "South Miami", 
+        "PROVIDER": "Ludlam Elementary School", 
+        "LON": -80.300669902, 
+        "ZIPCODE": 33143, 
+        "POINT_X": 886440.00074, 
+        "POINT_Y": 498331.56604, 
+        "ADDRESS": "6639 SW 74Th St", 
+        "LAT": 25.702932866
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3959352089121, 
+          25.751328909954996
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Wesley Matthews Elementary School", 
+        "LON": -80.395935209, 
+        "ZIPCODE": 33175, 
+        "POINT_X": 854990.03313, 
+        "POINT_Y": 515766.57481, 
+        "ADDRESS": "12345 SW 18Th Terrace", 
+        "LAT": 25.75132891
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24526234188274, 
+          25.807179759476487
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Melrose Elementary School", 
+        "LON": -80.245262342, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 904468.18746, 
+        "POINT_Y": 536321.8749, 
+        "ADDRESS": "3050 NW 35Th St", 
+        "LAT": 25.80717976
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23542084103632, 
+          25.869208140279444
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Park Elementary School", 
+        "LON": -80.235420841, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 907574.93748, 
+        "POINT_Y": 558885.87505, 
+        "ADDRESS": "2225 NW 103Rd St", 
+        "LAT": 25.86920814
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31615101011562, 
+          25.87850675630383
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "M.A. Milam K-8 Center", 
+        "LON": -80.31615101, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 881010.87512, 
+        "POINT_Y": 562119.18748, 
+        "ADDRESS": "6020 W 16Th Ave", 
+        "LAT": 25.878506756
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35598964987912, 
+          25.6018517508411
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Robert Russa Moton Elementary School", 
+        "LON": -80.35598965, 
+        "ZIPCODE": 33157, 
+        "POINT_X": 868402.75007, 
+        "POINT_Y": 461500.74994, 
+        "ADDRESS": "18050 Homestead Ave", 
+        "LAT": 25.601851751
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16542497678856, 
+          25.90550948435017
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "PROVIDER": "Natural Bridge Elementary School", 
+        "LON": -80.165424977, 
+        "ZIPCODE": 33181, 
+        "POINT_X": 930507.97265, 
+        "POINT_Y": 572220.62529, 
+        "ADDRESS": "1650 NE 141St St", 
+        "LAT": 25.905509484
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21685493431428, 
+          25.95200759821196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Norland Elementary School", 
+        "LON": -80.216854934, 
+        "ZIPCODE": 33169, 
+        "POINT_X": 913500.23665, 
+        "POINT_Y": 589017.15665, 
+        "ADDRESS": "19340 NW 8Th Court", 
+        "LAT": 25.952007598
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25514435793222, 
+          25.963437500061453
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "PROVIDER": "North County K-8 Center", 
+        "LON": -80.255144358, 
+        "ZIPCODE": 33056, 
+        "POINT_X": 900894.62505, 
+        "POINT_Y": 593098.18753, 
+        "ADDRESS": "3250 NW 207Th St", 
+        "LAT": 25.9634375
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18412268836947, 
+          25.918796404012422
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "PROVIDER": "Oak Grove Elementary School", 
+        "LON": -80.184122688, 
+        "ZIPCODE": 33162, 
+        "POINT_X": 924331.3495, 
+        "POINT_Y": 577011.39654, 
+        "ADDRESS": "15640 NE 8Th Ave", 
+        "LAT": 25.918796404
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23168518919854, 
+          25.82548566836578
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Olinda Elementary School", 
+        "LON": -80.231685189, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 908896.25012, 
+        "POINT_Y": 543001.31266, 
+        "ADDRESS": "5536 NW 21St Ave", 
+        "LAT": 25.825485668
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35339079956552, 
+          25.733279584881362
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Olympia Heights Elementary School", 
+        "LON": -80.3533908, 
+        "ZIPCODE": 33165, 
+        "POINT_X": 869025.72094, 
+        "POINT_Y": 509272.82336, 
+        "ADDRESS": "9797 SW 40Th St", 
+        "LAT": 25.733279585
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24790500530311, 
+          25.904194638111044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa-Locka", 
+        "PROVIDER": "Dr. Robert B. Ingram Elementary School", 
+        "LON": -80.247905005, 
+        "ZIPCODE": 33054, 
+        "POINT_X": 903396.87497, 
+        "POINT_Y": 571578.68759, 
+        "ADDRESS": "600 Ahmad St", 
+        "LAT": 25.904194638
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21904675148629, 
+          25.82777813819213
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Orchard Villa Elementary School", 
+        "LON": -80.219046752, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 913048.751, 
+        "POINT_Y": 543859.03962, 
+        "ADDRESS": "5720 NW 13Th Ave", 
+        "LAT": 25.827778138
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31689854970575, 
+          25.89037745118214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Palm Lakes Elementary School", 
+        "LON": -80.31689855, 
+        "ZIPCODE": 33014, 
+        "POINT_X": 880742.625, 
+        "POINT_Y": 566432.50005, 
+        "ADDRESS": "7450 W 16Th Ave", 
+        "LAT": 25.890377451
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33585997097926, 
+          25.615373397310996
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "PerriNE", 
+        "PROVIDER": "PerriNE Elementary School", 
+        "LON": -80.335859971, 
+        "ZIPCODE": 33157, 
+        "POINT_X": 875012.12498, 
+        "POINT_Y": 466447.93755, 
+        "ADDRESS": "8851 SW 168Th St", 
+        "LAT": 25.615373397
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23425783754352, 
+          25.83619071733995
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Poinciana Park Elementary School", 
+        "LON": -80.234257837, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 908027.31223, 
+        "POINT_Y": 546887.31276, 
+        "ADDRESS": "6745 NW 23Rd Ave", 
+        "LAT": 25.836190717
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49133405550364, 
+          25.483794510010085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Redondo Elementary School", 
+        "LON": -80.491334056, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 823962.8967, 
+        "POINT_Y": 418399.9303, 
+        "ADDRESS": "18480 SW 304Th St", 
+        "LAT": 25.48379451
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21372448664958, 
+          25.771094212295917
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Riverside Elementary School", 
+        "LON": -80.213724487, 
+        "ZIPCODE": 33130, 
+        "POINT_X": 914922.55303, 
+        "POINT_Y": 523266.74025, 
+        "ADDRESS": "1190 SW 2Nd St", 
+        "LAT": 25.771094212
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43320448772388, 
+          25.716501314638727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "JaNE S. Roberts K-8 Center", 
+        "LON": -80.433204487, 
+        "ZIPCODE": 33185, 
+        "POINT_X": 842777.24391, 
+        "POINT_Y": 503053.9083, 
+        "ADDRESS": "14850 CottoNWood Circle", 
+        "LAT": 25.716501315
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40550814801735, 
+          25.722298551881206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Royal Green Elementary School", 
+        "LON": -80.405508148, 
+        "ZIPCODE": 33175, 
+        "POINT_X": 851886.64203, 
+        "POINT_Y": 505201.03688, 
+        "ADDRESS": "13047 SW 47Th St", 
+        "LAT": 25.722298552
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18545204844554, 
+          25.93349346217057
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "PROVIDER": "Gertrude K. Edelman/Sabal Palm Elementary School", 
+        "LON": -80.185452048, 
+        "ZIPCODE": 33162, 
+        "POINT_X": 923861.18738, 
+        "POINT_Y": 582350.6877, 
+        "ADDRESS": "17101 NE 7Th Ave", 
+        "LAT": 25.933493462
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19881366705906, 
+          25.821169900324037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Shadowlawn Elementary School", 
+        "LON": -80.198813667, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 919719.00013, 
+        "POINT_Y": 541497.18739, 
+        "ADDRESS": "149 NW 49Th St", 
+        "LAT": 25.8211699
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3488622430594, 
+          25.887902978750652
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "ErNEst R. Graham K-8 Center", 
+        "LON": -80.348862243, 
+        "ZIPCODE": 33018, 
+        "POINT_X": 870238.43768, 
+        "POINT_Y": 565479.68732, 
+        "ADDRESS": "7330 West 32Nd Ave", 
+        "LAT": 25.887902979
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35458528644278, 
+          25.771754333168712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "E.W.F. Stirrup Elementary School", 
+        "LON": -80.354585286, 
+        "ZIPCODE": 33172, 
+        "POINT_X": 868564.04962, 
+        "POINT_Y": 523254.8387, 
+        "ADDRESS": "330 NW 97Th Ave", 
+        "LAT": 25.771754333
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27586114740326, 
+          25.703985376932565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "South Miami", 
+        "PROVIDER": "Sunset Elementary School", 
+        "LON": -80.275861148, 
+        "ZIPCODE": 33143, 
+        "POINT_X": 894607.12516, 
+        "POINT_Y": 498758.1249, 
+        "ADDRESS": "5120 SW 72Nd St", 
+        "LAT": 25.703985377
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29249106368155, 
+          25.75710858636796
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Sylvania Heights Elementary School", 
+        "LON": -80.292491064, 
+        "ZIPCODE": 33155, 
+        "POINT_X": 889027.62647, 
+        "POINT_Y": 518036.58339, 
+        "ADDRESS": "5901 SW 16Th St", 
+        "LAT": 25.757108587
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36294586870072, 
+          25.72416003583269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Tropical Elementary School", 
+        "LON": -80.362945868, 
+        "ZIPCODE": 33165, 
+        "POINT_X": 865896.17897, 
+        "POINT_Y": 505942.96814, 
+        "ADDRESS": "4545 SW 104Th Ave", 
+        "LAT": 25.724160036
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.254455445369, 
+          25.72625938357345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Frances S. Tucker Elementary School", 
+        "LON": -80.254455445, 
+        "ZIPCODE": 33133, 
+        "POINT_X": 901610.01273, 
+        "POINT_Y": 506893.06007, 
+        "ADDRESS": "3500 Douglas Rd", 
+        "LAT": 25.726259383
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29534309468157, 
+          25.851235980811193
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Mae M. Walters Elementary School", 
+        "LON": -80.295343095, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 887905.75011, 
+        "POINT_Y": 552243.37489, 
+        "ADDRESS": "650 W 33Rd St", 
+        "LAT": 25.851235981
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49534073226502, 
+          25.46396657809445
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "West Homestead Elementary School", 
+        "LON": -80.495340733, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 822668.47212, 
+        "POINT_Y": 411188.67242, 
+        "ADDRESS": "1550 SW 6Th St", 
+        "LAT": 25.463966578
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23784494385578, 
+          25.85033239450627
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Dr. Henry W. Mack/West Little River K-8 Center", 
+        "LON": -80.237844944, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 906817.62502, 
+        "POINT_Y": 552020.50033, 
+        "ADDRESS": "2450 NW 84Th St", 
+        "LAT": 25.850332394
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19804721488015, 
+          25.793549945789174
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Phillis Wheatley Elementary School", 
+        "LON": -80.198047215, 
+        "ZIPCODE": 33136, 
+        "POINT_X": 920032.3125, 
+        "POINT_Y": 531459.74979, 
+        "ADDRESS": "1801 NW 1St Place", 
+        "LAT": 25.793549946
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23995056262866, 
+          25.903961225091038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa-Locka", 
+        "PROVIDER": "Nathan B. Young Elementary School", 
+        "LON": -80.239950562, 
+        "ZIPCODE": 33054, 
+        "POINT_X": 906012.26245, 
+        "POINT_Y": 571508.92428, 
+        "ADDRESS": "14120 NW 24Th Ave", 
+        "LAT": 25.903961225
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42223011977569, 
+          25.60089931713118
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Herbert A. Ammons Middle School", 
+        "LON": -80.42223012, 
+        "ZIPCODE": 33177, 
+        "POINT_X": 846573.96368, 
+        "POINT_Y": 461054.00936, 
+        "ADDRESS": "17990 SW 142Nd Ave", 
+        "LAT": 25.600899317
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21882142105859, 
+          25.817637847939782
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Allapattah Middle School", 
+        "LON": -80.218821421, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 913144.76295, 
+        "POINT_Y": 540173.8111, 
+        "ADDRESS": "1331 NW 46Th St", 
+        "LAT": 25.817637848
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23554506971725, 
+          25.81955448652813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Brownsville Middle School", 
+        "LON": -80.23554507, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 907639.06268, 
+        "POINT_Y": 540838.12539, 
+        "ADDRESS": "4899 NW 24Th Ave", 
+        "LAT": 25.819554486
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26235366152336, 
+          25.94529769171432
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "PROVIDER": "Carol City Middle School", 
+        "LON": -80.262353661, 
+        "ZIPCODE": 33055, 
+        "POINT_X": 898563.0244, 
+        "POINT_Y": 586491.45829, 
+        "ADDRESS": "3737 NW 188Th St", 
+        "LAT": 25.945297692
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25896313383426, 
+          25.725899566613425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "PROVIDER": "George Washington Carver Middle School", 
+        "LON": -80.258963134, 
+        "ZIPCODE": 33133, 
+        "POINT_X": 900126.7027, 
+        "POINT_Y": 506753.92354, 
+        "ADDRESS": "4901 Lincoln Dr", 
+        "LAT": 25.725899567
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3544034400251, 
+          25.769824204555448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Ruben Dario Middle School", 
+        "LON": -80.35440344, 
+        "ZIPCODE": 33172, 
+        "POINT_X": 868627.33132, 
+        "POINT_Y": 522553.61012, 
+        "ADDRESS": "350 NW 97Th Ave", 
+        "LAT": 25.769824205
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44133134917985, 
+          25.705050337591054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Howard A. Doolin Middle School", 
+        "LON": -80.441331349, 
+        "ZIPCODE": 33193, 
+        "POINT_X": 840119.12488, 
+        "POINT_Y": 498880.62498, 
+        "ADDRESS": "6401 SW 152Nd Ave", 
+        "LAT": 25.705050338
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22752829169113, 
+          25.830225391137517
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Charles R. Drew Middle School", 
+        "LON": -80.227528292, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 910253.55253, 
+        "POINT_Y": 544732.05822, 
+        "ADDRESS": "1801 NW 60Th St", 
+        "LAT": 25.830225391
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29330633643329, 
+          25.850038212087096
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Henry H. Filer Middle School", 
+        "LON": -80.293306336, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 888577.93741, 
+        "POINT_Y": 551811.62509, 
+        "ADDRESS": "531 W 29Th St", 
+        "LAT": 25.850038212
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26848044667021, 
+          25.877611839801776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Hialeah Middle School", 
+        "LON": -80.268480447, 
+        "ZIPCODE": 33013, 
+        "POINT_X": 896686.91037, 
+        "POINT_Y": 561878.41762, 
+        "ADDRESS": "6027 E 7Th Ave", 
+        "LAT": 25.87761184
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48254689764956, 
+          25.4763044157551
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Homestead Middle School", 
+        "LON": -80.482546898, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 826872.18747, 
+        "POINT_Y": 415688.9062, 
+        "ADDRESS": "650 NW 2Nd Ave", 
+        "LAT": 25.476304416
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20880917256605, 
+          25.90987964612497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Thomas Jefferson Middle School", 
+        "LON": -80.208809172, 
+        "ZIPCODE": 33168, 
+        "POINT_X": 916236.56582, 
+        "POINT_Y": 573720.65313, 
+        "ADDRESS": "525 NW 147Th St", 
+        "LAT": 25.909879646
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17824015618393, 
+          25.93005790536915
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "PROVIDER": "John F. KenNEdy Middle School", 
+        "LON": -80.178240156, 
+        "ZIPCODE": 33162, 
+        "POINT_X": 926239.24989, 
+        "POINT_Y": 581116.74988, 
+        "ADDRESS": "1075 NE 167Th St", 
+        "LAT": 25.930057905
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28224158242428, 
+          25.941151569297052
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Carol City", 
+        "PROVIDER": "Lake Stevens Middle School", 
+        "LON": -80.282241583, 
+        "ZIPCODE": 33055, 
+        "POINT_X": 892035.74185, 
+        "POINT_Y": 584948.14675, 
+        "ADDRESS": "18484 NW 48Th Pl", 
+        "LAT": 25.941151569
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20437562996591, 
+          25.8056399441977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Jose De Diego Middle School", 
+        "LON": -80.20437563, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 917923.43745, 
+        "POINT_Y": 535841.43755, 
+        "ADDRESS": "3100 NW 5Th Ave", 
+        "LAT": 25.805639944
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25345862065585, 
+          25.85205048546768
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Madison Middle School", 
+        "LON": -80.253458621, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 901679.00275, 
+        "POINT_Y": 552615.49028, 
+        "ADDRESS": "3400 NW 87Th St", 
+        "LAT": 25.852050486
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20187992210808, 
+          25.85680657940824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Horace Mann Middle School", 
+        "LON": -80.201879922, 
+        "ZIPCODE": 33150, 
+        "POINT_X": 918631.66175, 
+        "POINT_Y": 554443.90132, 
+        "ADDRESS": "8950 NW 2Nd Ave", 
+        "LAT": 25.856806579
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4058700238398, 
+          25.71242648043876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Howard D. McMillan Middle School", 
+        "LON": -80.405870024, 
+        "ZIPCODE": 33183, 
+        "POINT_X": 851783.64749, 
+        "POINT_Y": 501612.45974, 
+        "ADDRESS": "13100 SW 59Th St", 
+        "LAT": 25.71242648
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19978677450871, 
+          25.831741500219508
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Edison Middle School", 
+        "LON": -80.199786775, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 919375.50016, 
+        "POINT_Y": 545337.68758, 
+        "ADDRESS": "6101 NW 2Nd Ave", 
+        "LAT": 25.8317415
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30713094158523, 
+          25.91975450355378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Lakes", 
+        "PROVIDER": "Miami Lakes Middle School", 
+        "LON": -80.307130941, 
+        "ZIPCODE": 33014, 
+        "POINT_X": 883897.49992, 
+        "POINT_Y": 577126.93732, 
+        "ADDRESS": "6425 Miami Lakeway North", 
+        "LAT": 25.919754504
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1341034946186, 
+          25.81516057617337
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "Nautilus Middle School", 
+        "LON": -80.134103495, 
+        "ZIPCODE": 33140, 
+        "POINT_X": 941020.93226, 
+        "POINT_Y": 539447.86439, 
+        "ADDRESS": "4301 N Michigan Ave", 
+        "LAT": 25.815160576
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2230303243433, 
+          25.951712348384316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Norland Middle School", 
+        "LON": -80.223030324, 
+        "ZIPCODE": 33169, 
+        "POINT_X": 911471.62489, 
+        "POINT_Y": 588897.75007, 
+        "ADDRESS": "1235 NW 192Nd Terr", 
+        "LAT": 25.951712348
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18428564421987, 
+          25.896893005365285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "PROVIDER": "North Miami Middle School", 
+        "LON": -80.184285645, 
+        "ZIPCODE": 33161, 
+        "POINT_X": 924327.31277, 
+        "POINT_Y": 569049.75007, 
+        "ADDRESS": "13105 NE 7Th Ave", 
+        "LAT": 25.896893005
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30520867387797, 
+          25.87382321709544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Palm Springs Middle School", 
+        "LON": -80.305208674, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 884617.74848, 
+        "POINT_Y": 560435.77386, 
+        "ADDRESS": "1025 W 56Th St", 
+        "LAT": 25.873823217
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27183374903537, 
+          25.71648012576506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "PROVIDER": "Ponce De Leon Middle School", 
+        "LON": -80.271833749, 
+        "ZIPCODE": 33146, 
+        "POINT_X": 895908.25018, 
+        "POINT_Y": 503306.74999, 
+        "ADDRESS": "5801 Augusto St", 
+        "LAT": 25.716480126
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35959921299593, 
+          25.629683922141794
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Richmond Heights Middle School", 
+        "LON": -80.359599213, 
+        "ZIPCODE": 33176, 
+        "POINT_X": 867164.29028, 
+        "POINT_Y": 471610.60931, 
+        "ADDRESS": "15015 SW 103Rd Ave", 
+        "LAT": 25.629683922
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36244228759705, 
+          25.72326834342058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Riviera Middle School", 
+        "LON": -80.362442288, 
+        "ZIPCODE": 33165, 
+        "POINT_X": 866063.53625, 
+        "POINT_Y": 505619.67778, 
+        "ADDRESS": "10301 SW 48Th St", 
+        "LAT": 25.723268343
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34767662622075, 
+          25.742472749639283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Rockway Middle School", 
+        "LON": -80.347676626, 
+        "ZIPCODE": 33165, 
+        "POINT_X": 870890.31564, 
+        "POINT_Y": 512623.40393, 
+        "ADDRESS": "9393 SW 29Th Terr", 
+        "LAT": 25.74247275
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32207146029815, 
+          25.61952208995489
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Southwood Middle School", 
+        "LON": -80.322071461, 
+        "ZIPCODE": 33157, 
+        "POINT_X": 879548.09228, 
+        "POINT_Y": 467978.79735, 
+        "ADDRESS": "16301 SW 80Th Ave", 
+        "LAT": 25.61952209
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30354247692335, 
+          25.713256605124947
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "South Miami Middle School", 
+        "LON": -80.303542477, 
+        "ZIPCODE": 33143, 
+        "POINT_X": 885474.31239, 
+        "POINT_Y": 502078.81249, 
+        "ADDRESS": "6750 SW 60Th St", 
+        "LAT": 25.713256605
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40653703558066, 
+          25.746364460031945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "W. R. Thomas Middle School", 
+        "LON": -80.406537035, 
+        "ZIPCODE": 33175, 
+        "POINT_X": 851508.56241, 
+        "POINT_Y": 513946.37504, 
+        "ADDRESS": "13001 SW 26Th St", 
+        "LAT": 25.74636446
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31831892822235, 
+          25.748898544506076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "West Miami Middle School", 
+        "LON": -80.318318928, 
+        "ZIPCODE": 33155, 
+        "POINT_X": 880542.12475, 
+        "POINT_Y": 515007.78105, 
+        "ADDRESS": "7525 SW 24Th St", 
+        "LAT": 25.748898545
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2319530154777, 
+          25.890620065289625
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Westview Middle School", 
+        "LON": -80.231953015, 
+        "ZIPCODE": 33167, 
+        "POINT_X": 908669.72827, 
+        "POINT_Y": 566675.11997, 
+        "ADDRESS": "1901 NW 127Th St", 
+        "LAT": 25.890620065
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42990455506985, 
+          25.734922212762342
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "G. Holmes Braddock Senior High School", 
+        "LON": -80.429904555, 
+        "ZIPCODE": 33185, 
+        "POINT_X": 843834.81233, 
+        "POINT_Y": 509753.71872, 
+        "ADDRESS": "3601 SW 147Th Ave", 
+        "LAT": 25.734922213
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2637074368719, 
+          25.733346501811962
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "PROVIDER": "Coral Gables Senior High School", 
+        "LON": -80.263707437, 
+        "ZIPCODE": 33146, 
+        "POINT_X": 898549.65467, 
+        "POINT_Y": 509451.85155, 
+        "ADDRESS": "450 Bird Road", 
+        "LAT": 25.733346502
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.277085968613, 
+          25.865544207229632
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Hialeah Senior High School", 
+        "LON": -80.277085968, 
+        "ZIPCODE": 33013, 
+        "POINT_X": 893881.51047, 
+        "POINT_Y": 557476.55405, 
+        "ADDRESS": "251 E 47Th St", 
+        "LAT": 25.865544207
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45210626047464, 
+          25.712343485101464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "John A. Ferguson Senior High School", 
+        "LON": -80.452106261, 
+        "ZIPCODE": 33185, 
+        "POINT_X": 836560.21238, 
+        "POINT_Y": 501516.46912, 
+        "ADDRESS": "15900 SW 56Th St", 
+        "LAT": 25.712343485
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3053300681433, 
+          25.8966702356999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Hialeah-Miami Lakes Senior High School", 
+        "LON": -80.305330069, 
+        "ZIPCODE": 33014, 
+        "POINT_X": 884533.87529, 
+        "POINT_Y": 568739.68737, 
+        "ADDRESS": "7977 W 12Th Ave", 
+        "LAT": 25.896670236
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45892433019728, 
+          25.450680546361667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Homestead Senior High School", 
+        "LON": -80.45892433, 
+        "ZIPCODE": 33034, 
+        "POINT_X": 834703.12522, 
+        "POINT_Y": 406407.15639, 
+        "ADDRESS": "2351 Se 12Th Ave", 
+        "LAT": 25.450680546
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13277951463607, 
+          25.799554915747482
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "PROVIDER": "Miami Beach Senior High School", 
+        "LON": -80.132779514, 
+        "ZIPCODE": 33139, 
+        "POINT_X": 941493.88243, 
+        "POINT_Y": 533778.51385, 
+        "ADDRESS": "2231 Prairie Ave", 
+        "LAT": 25.799554916
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25710796100942, 
+          25.942563427158387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa-Locka", 
+        "PROVIDER": "Miami Carol City Senior High School", 
+        "LON": -80.257107961, 
+        "ZIPCODE": 33056, 
+        "POINT_X": 900292.50027, 
+        "POINT_Y": 585507.37529, 
+        "ADDRESS": "3422 NW 187Th St", 
+        "LAT": 25.942563427
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22663816460178, 
+          25.861641588356317
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Central Senior High School", 
+        "LON": -80.226638165, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 910479.15411, 
+        "POINT_Y": 556152.57737, 
+        "ADDRESS": "1781 NW 95Th St", 
+        "LAT": 25.861641588
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2047468746863, 
+          25.83157305000451
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Edison Senior High School", 
+        "LON": -80.204746874, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 917744.31215, 
+        "POINT_Y": 545266.5624, 
+        "ADDRESS": "6161 NW 5Th Court", 
+        "LAT": 25.83157305
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21864317574804, 
+          25.95259155158861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Norland Senior High School", 
+        "LON": -80.218643176, 
+        "ZIPCODE": 33169, 
+        "POINT_X": 912911.34905, 
+        "POINT_Y": 589225.89771, 
+        "ADDRESS": "1050 NW 195Th St", 
+        "LAT": 25.952591552
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2139154842273, 
+          25.838978381671186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Northwestern Senior High School", 
+        "LON": -80.213915485, 
+        "ZIPCODE": 33150, 
+        "POINT_X": 914712.32576, 
+        "POINT_Y": 547940.03277, 
+        "ADDRESS": "1100 NW 71St St", 
+        "LAT": 25.838978381
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23594942234267, 
+          25.770942563911973
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Senior High School", 
+        "LON": -80.235949423, 
+        "ZIPCODE": 33135, 
+        "POINT_X": 907608.57947, 
+        "POINT_Y": 523168.59511, 
+        "ADDRESS": "2450 SW 1St St", 
+        "LAT": 25.770942564
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1752763355496, 
+          25.93122408996343
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "PROVIDER": "North Miami Beach Senior High School", 
+        "LON": -80.175276335, 
+        "ZIPCODE": 33162, 
+        "POINT_X": 927210.68758, 
+        "POINT_Y": 581546.75001, 
+        "ADDRESS": "1247 NE 167Th St", 
+        "LAT": 25.93122409
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1828523346154, 
+          25.90060219453986
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "PROVIDER": "North Miami Senior High School", 
+        "LON": -80.182852334, 
+        "ZIPCODE": 33161, 
+        "POINT_X": 924790.12483, 
+        "POINT_Y": 570400.87499, 
+        "ADDRESS": "800 NE 137Th St", 
+        "LAT": 25.900602195
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4592161877827, 
+          25.502318796504987
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "South Dade Senior High School", 
+        "LON": -80.459216188, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 834530.6249, 
+        "POINT_Y": 425174.15626, 
+        "ADDRESS": "28401 SW 167Th Ave", 
+        "LAT": 25.502318796
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33972198940668, 
+          25.72301191843539
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Southwest Miami Senior High School", 
+        "LON": -80.339721989, 
+        "ZIPCODE": 33165, 
+        "POINT_X": 873544.18763, 
+        "POINT_Y": 505563.25007, 
+        "ADDRESS": "8855 SW 50Th Terr", 
+        "LAT": 25.723011919
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34639639265396, 
+          25.9022383524762
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Lakes", 
+        "PROVIDER": "Barbara Goleman Senior High School", 
+        "LON": -80.346396393, 
+        "ZIPCODE": 33018, 
+        "POINT_X": 871023.18742, 
+        "POINT_Y": 570694.12473, 
+        "ADDRESS": "14100 NW 89Th Ave", 
+        "LAT": 25.902238353
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20480282710378, 
+          25.786542210553385
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Booker T. Washington Senior High School", 
+        "LON": -80.204802827, 
+        "ZIPCODE": 33136, 
+        "POINT_X": 917824.81232, 
+        "POINT_Y": 528899.18765, 
+        "ADDRESS": "1200 NW 6Th Ave", 
+        "LAT": 25.786542211
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38795473118094, 
+          25.768251613353414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Paul W. Bell Middle School", 
+        "LON": -80.387954731, 
+        "ZIPCODE": 33182, 
+        "POINT_X": 857588.25399, 
+        "POINT_Y": 521929.35349, 
+        "ADDRESS": "11800 NW 2Nd St", 
+        "LAT": 25.768251613
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44577674993187, 
+          25.478447846134234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Campbell Drive Middle School", 
+        "LON": -80.44577675, 
+        "ZIPCODE": 33033, 
+        "POINT_X": 838999.48933, 
+        "POINT_Y": 416516.71425, 
+        "ADDRESS": "900 NE 23Rd Ave", 
+        "LAT": 25.478447846
+      }
+    }
+  ]
+}

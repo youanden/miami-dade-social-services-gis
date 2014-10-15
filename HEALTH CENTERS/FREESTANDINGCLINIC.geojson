@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.279711437796, 
+          25.824833359723748
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "PROVIDER": "Health Experts Leadership Providers (HELP)", 
+        "LON": -80.27971, 
+        "ZIPCODE": 33010, 
+        "POINT_X": 893099.250221252, 
+        "POINT_Y": 542674.812658012, 
+        "ADDRESS": "300 E 1st Ave Suite 124", 
+        "LAT": 25.82483
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29382587226468, 
+          25.869298055984675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Citrus Maternal and Child Health Center", 
+        "LON": -80.29383, 
+        "ZIPCODE": 33012, 
+        "POINT_X": 888369.4375024211, 
+        "POINT_Y": 558810.999873757, 
+        "ADDRESS": "555 W 51st Pl", 
+        "LAT": 25.8693
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4929296248229, 
+          25.465262779267885
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "PROVIDER": "Open Door Health Center", 
+        "LON": -80.49293, 
+        "ZIPCODE": 33030, 
+        "POINT_X": 823462.187395919, 
+        "POINT_Y": 411662.78104742605, 
+        "ADDRESS": "1350 SW 4th St", 
+        "LAT": 25.46526
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49286900169476, 
+          25.446459645309904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Florida City", 
+        "PROVIDER": "Good News Care Center", 
+        "LON": -80.49287, 
+        "ZIPCODE": 33034, 
+        "POINT_X": 823508.187632006, 
+        "POINT_Y": 404829.093927428, 
+        "ADDRESS": "101 S Redland Rd", 
+        "LAT": 25.44646
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28105541550737, 
+          25.940415626060446
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "PROVIDER": "Universal Heritage Inst. Medical Clinic", 
+        "LON": -80.28106, 
+        "ZIPCODE": 33055, 
+        "POINT_X": 892427.019938421, 
+        "POINT_Y": 584682.7913059221, 
+        "ADDRESS": "4851 NW 183 St", 
+        "LAT": 25.94042
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20833068238035, 
+          25.808021984309786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "St. John Bosco Clinic", 
+        "LON": -80.20833, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 916616.983369421, 
+        "POINT_Y": 536699.384976342, 
+        "ADDRESS": "730 NW 34th St", 
+        "LAT": 25.80802
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19647871581786, 
+          25.795822098323416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Miami Rescue Mission Clinic", 
+        "LON": -80.19648, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 920543.37512292, 
+        "POINT_Y": 532288.750096843, 
+        "ADDRESS": "2015 NW 1st St", 
+        "LAT": 25.79582
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20881886176923, 
+          25.794727923920114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Community Smiles", 
+        "LON": -80.20882, 
+        "ZIPCODE": 33127, 
+        "POINT_X": 916485.414734922, 
+        "POINT_Y": 531866.46321176, 
+        "ADDRESS": "750 NW 20th Strest", 
+        "LAT": 25.79473
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20275304421678, 
+          25.784214755193783
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Jefferson Reaves Health Center", 
+        "LON": -80.20275, 
+        "ZIPCODE": 33136, 
+        "POINT_X": 918504.4375997521, 
+        "POINT_Y": 528057.3126935881, 
+        "ADDRESS": "1009 NW 5th Ave", 
+        "LAT": 25.78421
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21447883161198, 
+          25.791210913549843
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "University of Miami Pediatric Mobile Clinic", 
+        "LON": -80.21448, 
+        "ZIPCODE": 33136, 
+        "POINT_X": 914630.6933787541, 
+        "POINT_Y": 530576.9963025079, 
+        "ADDRESS": "1601 NW 12 Ave", 
+        "LAT": 25.79121
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1928894027534, 
+          25.811699759571248
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Behavioral Health Resources Center", 
+        "LON": -80.19289, 
+        "ZIPCODE": 33137, 
+        "POINT_X": 921688.9998001719, 
+        "POINT_Y": 538067.00035134, 
+        "ADDRESS": "100 NE 38th St", 
+        "LAT": 25.8117
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1932721452376, 
+          25.850944848210727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Center for Haitian Studies", 
+        "LON": -80.19327, 
+        "ZIPCODE": 33138, 
+        "POINT_X": 921475.5625630021, 
+        "POINT_Y": 552330.625039257, 
+        "ADDRESS": "8260 NE 2nd Ave", 
+        "LAT": 25.85094
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24446169773017, 
+          25.824115800761486
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Women's Residential Center", 
+        "LON": -80.24446, 
+        "ZIPCODE": 33142, 
+        "POINT_X": 904696.250321172, 
+        "POINT_Y": 542479.062721424, 
+        "ADDRESS": "2985 NW 54th St", 
+        "LAT": 25.82412
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28824142833945, 
+          25.7086348949845
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "South Miami", 
+        "PROVIDER": "South Miami Children's Clinic", 
+        "LON": -80.28824, 
+        "ZIPCODE": 33143, 
+        "POINT_X": 890521.375127669, 
+        "POINT_Y": 500425.874846339, 
+        "ADDRESS": "6701 SW 58 Pl", 
+        "LAT": 25.70863
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29329195523385, 
+          25.70937567616433
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Rosie Lee Wesley Health Center", 
+        "LON": -80.29329, 
+        "ZIPCODE": 33143, 
+        "POINT_X": 888856.9371835891, 
+        "POINT_Y": 500686.187645927, 
+        "ADDRESS": "6601 S.W. 62nd Aveune", 
+        "LAT": 25.70938
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21474457782105, 
+          25.860230702806327
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Children\u00bfs Wellness Center", 
+        "LON": -80.21474, 
+        "ZIPCODE": 33150, 
+        "POINT_X": 914393.461569753, 
+        "POINT_Y": 555662.969752505, 
+        "ADDRESS": "1190 NW 95th St", 
+        "LAT": 25.86023
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32008027755192, 
+          25.68002756251783
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Good Samaritan Health Clinic", 
+        "LON": -80.32008, 
+        "ZIPCODE": 33156, 
+        "POINT_X": 880091.249990586, 
+        "POINT_Y": 489973.124754511, 
+        "ADDRESS": "7701 S.W. 98 St", 
+        "LAT": 25.68003
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21449576755508, 
+          25.75166040788072
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "League Against Cancer", 
+        "LON": -80.2145, 
+        "ZIPCODE": 33129, 
+        "POINT_X": 914710.812641088, 
+        "POINT_Y": 516201.718622677, 
+        "ADDRESS": "2180 SW 12th Ave", 
+        "LAT": 25.75166
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20754881336738, 
+          25.791690749438665
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Mother Theresa Sister of\u00a0 Charity", 
+        "LON": -80.20755, 
+        "ZIPCODE": 33136, 
+        "POINT_X": 916909.9535840041, 
+        "POINT_Y": 530765.0638397561, 
+        "ADDRESS": "724 NW 17th St", 
+        "LAT": 25.79169
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1320062308667, 
+          25.854649117512654
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Beverly Press Health Center", 
+        "LON": -80.13201, 
+        "ZIPCODE": 33141, 
+        "POINT_X": 941616.140063919, 
+        "POINT_Y": 553805.4426276761, 
+        "ADDRESS": "1221 71st \u00a0St", 
+        "LAT": 25.85465
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21590899309993, 
+          25.861431932579077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Family Health Center", 
+        "LON": -80.21591, 
+        "ZIPCODE": 33147, 
+        "POINT_X": 914007.928876255, 
+        "POINT_Y": 556097.293030843, 
+        "ADDRESS": "1220 NW 95th St", 
+        "LAT": 25.86143
+      }
+    }
+  ]
+}

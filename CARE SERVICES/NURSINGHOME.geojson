@@ -1,0 +1,1679 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33378961140035, 
+          25.863493151834945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah Gardens", 
+        "FOLIO": "2730030010133", 
+        "CAPACITY": 214, 
+        "FACILID": 11880, 
+        "HURZONE": null, 
+        "PHONE2": "7869721400", 
+        "HYPERLINK": "admin.waterford@signaturehealthcarellc.c", 
+        "LON": -80.33379, 
+        "ZIPCODE": 33016, 
+        "FAX": "3058218027", 
+        "PHONE": "3055569900", 
+        "CONTACT": "Lucienne Reese", 
+        "POINT_X": 875238.963435337, 
+        "POINT_Y": 556632.452721678, 
+        "CLOSED": "N", 
+        "ADDRESS": "8333 West Okeechobee Road", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86349, 
+        "NAME": "SIGNATURE HEALTHCARE CENTER OF WATERFORD"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33378961140035, 
+          25.863493151834945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "2730030010133", 
+        "CAPACITY": 214, 
+        "FACILID": 177, 
+        "HURZONE": null, 
+        "PHONE2": "3058984932", 
+        "HYPERLINK": null, 
+        "LON": -80.33379, 
+        "ZIPCODE": 33016, 
+        "FAX": "3058218027", 
+        "PHONE": "3055569900", 
+        "CONTACT": "Donald Pridemore", 
+        "POINT_X": 875238.963435337, 
+        "POINT_Y": 556632.452721678, 
+        "CLOSED": "N", 
+        "ADDRESS": "8333 West Okeechobee Road", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86349, 
+        "NAME": "Waterford Convalescent Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28555372963332, 
+          25.847085349195797
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0431070062180", 
+        "CAPACITY": 276, 
+        "FACILID": 446, 
+        "HURZONE": "E", 
+        "PHONE2": "7863609268", 
+        "HYPERLINK": "admin@hialeahnrc.com", 
+        "LON": -80.28555, 
+        "ZIPCODE": 33010, 
+        "FAX": "3058841035", 
+        "PHONE": "3058852437", 
+        "CONTACT": "Emma Dial", 
+        "POINT_X": 891133.46445467, 
+        "POINT_Y": 550752.148865506, 
+        "CLOSED": "N", 
+        "ADDRESS": "190 W.  28th Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.84709, 
+        "NAME": "Hialeah Nursing and Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.149551281246, 
+          25.84765646202445
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Bay Village", 
+        "FOLIO": "2332090000180", 
+        "CAPACITY": 176, 
+        "FACILID": 68, 
+        "HURZONE": "B", 
+        "PHONE2": "3053164164", 
+        "HYPERLINK": "mmayor@seniorhealthtampa.com", 
+        "LON": -80.14955, 
+        "ZIPCODE": 33141, 
+        "FAX": "3058645499", 
+        "PHONE": "3058652383", 
+        "CONTACT": "Maria N Mayor", 
+        "POINT_X": 935862.4376605861, 
+        "POINT_Y": 551226.0626158421, 
+        "CLOSED": "N", 
+        "ADDRESS": "1735 North Treasure Drive", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.84766, 
+        "NAME": "Treasure Isle Convalescent Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24953653618142, 
+          25.854135193706508
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031040100110", 
+        "CAPACITY": 107, 
+        "FACILID": 92, 
+        "HURZONE": null, 
+        "PHONE2": "7862515496", 
+        "HYPERLINK": "ypineda@doshealthcare.com", 
+        "LON": -80.24954, 
+        "ZIPCODE": 33147, 
+        "FAX": "3056916707", 
+        "PHONE": "3056915711", 
+        "CONTACT": "Isis Fernandez", 
+        "POINT_X": 902964.562511586, 
+        "POINT_Y": 553380.562243842, 
+        "CLOSED": "N", 
+        "ADDRESS": "8785 NW 32 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.85414, 
+        "NAME": "Hialeah Shores Nursing & Rehab Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21020561394795, 
+          25.86069193327959
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031020000050", 
+        "CAPACITY": 99, 
+        "FACILID": 96, 
+        "HURZONE": "E", 
+        "PHONE2": "9545389944", 
+        "HYPERLINK": "mbrown@doshealthcare.com", 
+        "LON": -80.21021, 
+        "ZIPCODE": 33150, 
+        "FAX": "3057578860", 
+        "PHONE": "3057598711", 
+        "CONTACT": "Maureen Brown", 
+        "POINT_X": 915885.124925002, 
+        "POINT_Y": 555839.562575176, 
+        "CLOSED": "N", 
+        "ADDRESS": "9380 NW 7 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86069, 
+        "NAME": "Miami Shores Nursing Home"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21226056790957, 
+          25.861163589645045
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3031020000100", 
+        "CAPACITY": 120, 
+        "FACILID": 179, 
+        "HURZONE": "E", 
+        "PHONE2": "3056321060", 
+        "HYPERLINK": "Admin.mia@tandemhealthcare.com", 
+        "LON": -80.21226, 
+        "ZIPCODE": 33150, 
+        "FAX": "3058363229", 
+        "PHONE": "3058361550", 
+        "CONTACT": "Marcia Couitt", 
+        "POINT_X": 915208.3126303371, 
+        "POINT_Y": 556006.9375685081, 
+        "CLOSED": "N", 
+        "ADDRESS": "800 NW 95 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.86116, 
+        "NAME": "Franco Nursing & Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19341406886315, 
+          25.87889110712677
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3022310590010", 
+        "CAPACITY": 150, 
+        "FACILID": 109, 
+        "HURZONE": "C", 
+        "PHONE2": "3058989800", 
+        "HYPERLINK": null, 
+        "LON": -80.19341, 
+        "ZIPCODE": 33161, 
+        "FAX": "3058994719", 
+        "PHONE": "3058994700", 
+        "CONTACT": "Heidi Tucker", 
+        "POINT_X": 921366.500117086, 
+        "POINT_Y": 562488.000065677, 
+        "CLOSED": "N", 
+        "ADDRESS": "201 NE 112 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.87889, 
+        "NAME": "Sinai Plaza Nursing & Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32888359269641, 
+          25.883621709341035
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0420340830010", 
+        "CAPACITY": 90, 
+        "FACILID": 183, 
+        "HURZONE": null, 
+        "PHONE2": "3052133375", 
+        "HYPERLINK": "miglesias33@hotmail.com", 
+        "LON": -80.32888, 
+        "ZIPCODE": 33016, 
+        "FAX": "3058258255", 
+        "PHONE": "3058233119", 
+        "CONTACT": "Maria Iglesias", 
+        "POINT_X": 876814.874981672, 
+        "POINT_Y": 563956.6877450941, 
+        "CLOSED": "N", 
+        "ADDRESS": "6750  West 22nd Court", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.88362, 
+        "NAME": "Palmetto Health Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34333403752397, 
+          25.883773751196376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah Gardens", 
+        "FOLIO": "2720330630010", 
+        "CAPACITY": 20, 
+        "FACILID": 1329, 
+        "HURZONE": null, 
+        "PHONE2": "9549806806", 
+        "HYPERLINK": null, 
+        "LON": -80.34333, 
+        "ZIPCODE": 33018, 
+        "FAX": "3054245588", 
+        "PHONE": "3053517181", 
+        "CONTACT": "Nathaniel Johnson", 
+        "POINT_X": 872063.4812692549, 
+        "POINT_Y": 563987.916029096, 
+        "CLOSED": "N", 
+        "ADDRESS": "8850 NW 122ND St", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.88377, 
+        "NAME": "Villa Maria West Skilled Nursing Facility"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1655803786917, 
+          25.891891299751627
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "FOLIO": "0622290070340", 
+        "CAPACITY": 98, 
+        "FACILID": 180, 
+        "HURZONE": "D", 
+        "PHONE2": "7862805092", 
+        "HYPERLINK": "www.plazahealth.org", 
+        "LON": -80.16558, 
+        "ZIPCODE": 33161, 
+        "FAX": "3058919180", 
+        "PHONE": "3058911710", 
+        "CONTACT": "Barry Preter", 
+        "POINT_X": 930488.374917921, 
+        "POINT_Y": 567270.4376792611, 
+        "CLOSED": "N", 
+        "ADDRESS": "12505 NE 16 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.89189, 
+        "NAME": "Arch Plaza Nursing Home"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19133006503233, 
+          25.898749647103397
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "FOLIO": "3022300000240", 
+        "CAPACITY": 146, 
+        "FACILID": 540, 
+        "HURZONE": "D", 
+        "PHONE2": "7865669714", 
+        "HYPERLINK": "www.gulfcoasthealthcare.com", 
+        "LON": -80.19133, 
+        "ZIPCODE": 33161, 
+        "FAX": "3058927411", 
+        "PHONE": "3058954804", 
+        "CONTACT": "Chantelle Fernandez", 
+        "POINT_X": 922007.25014792, 
+        "POINT_Y": 569710.25005684, 
+        "CLOSED": "N", 
+        "ADDRESS": "390 NE 135th Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.89875, 
+        "NAME": "Fountainhead Nursing Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19302281881417, 
+          25.903307041497413
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "FOLIO": "3022190000991", 
+        "CAPACITY": 240, 
+        "FACILID": 112, 
+        "HURZONE": "D", 
+        "PHONE2": "3056104410", 
+        "HYPERLINK": "www.claridgehousemiami.com", 
+        "LON": -80.19302, 
+        "ZIPCODE": 33161, 
+        "FAX": "3058991391", 
+        "PHONE": "3058932288", 
+        "CONTACT": "Menashe Sapirman", 
+        "POINT_X": 921440.562633004, 
+        "POINT_Y": 571363.3126955931, 
+        "CLOSED": "N", 
+        "ADDRESS": "13900 NE 3 Court", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.90331, 
+        "NAME": "Claridge House Skilled Nursing & Rehabilitation Ce"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1374662775273, 
+          25.95483824111584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Aventura", 
+        "FOLIO": "2812350140080", 
+        "CAPACITY": 40, 
+        "FACILID": 11280, 
+        "HURZONE": "D", 
+        "PHONE2": "3059243302", 
+        "HYPERLINK": "lkass@viliving.com", 
+        "LON": -80.13747, 
+        "ZIPCODE": 33180, 
+        "FAX": null, 
+        "PHONE": "3056924805", 
+        "CONTACT": "Louis Kass", 
+        "POINT_X": 939580.93744142, 
+        "POINT_Y": 590210.000067756, 
+        "CLOSED": "N", 
+        "ADDRESS": "19333 West Country Club Drive", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.95484, 
+        "NAME": "Vi at Aventura"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19184245979878, 
+          25.904938825606916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3022190001100", 
+        "CAPACITY": 46, 
+        "FACILID": 184, 
+        "HURZONE": "D", 
+        "PHONE2": "9544943500", 
+        "HYPERLINK": "ast53@aol.com", 
+        "LON": -80.19184, 
+        "ZIPCODE": 33161, 
+        "FAX": "3058932519", 
+        "PHONE": "3058931102", 
+        "CONTACT": "Jules Ast", 
+        "POINT_X": 921824.937520422, 
+        "POINT_Y": 571958.81216076, 
+        "CLOSED": "N", 
+        "ADDRESS": "301 NE 141 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.90494, 
+        "NAME": "Pines Nursing Home"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2051901891797, 
+          25.922929860508155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "FOLIO": "3021130000150", 
+        "CAPACITY": 120, 
+        "FACILID": 103, 
+        "HURZONE": "D", 
+        "PHONE2": "3058789333", 
+        "HYPERLINK": "lgranata@hcnursingcenter.com", 
+        "LON": -80.20519, 
+        "ZIPCODE": 33169, 
+        "FAX": "3053548888", 
+        "PHONE": "3053548800", 
+        "CONTACT": "Lynn Granata", 
+        "POINT_X": 917397.43751717, 
+        "POINT_Y": 578471.250251345, 
+        "CLOSED": "N", 
+        "ADDRESS": "16100 NW 2 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.92293, 
+        "NAME": "Hampton Court Nursing & Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15645188757756, 
+          25.929177319544916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "FOLIO": "0722160060030", 
+        "CAPACITY": 150, 
+        "FACILID": 113, 
+        "HURZONE": "A", 
+        "PHONE2": "3053326886", 
+        "HYPERLINK": "admin.@watercrestcare.com", 
+        "LON": -80.15645, 
+        "ZIPCODE": 33160, 
+        "FAX": "3059457278", 
+        "PHONE": "3059457447", 
+        "CONTACT": "Mr. Armando Fernandez", 
+        "POINT_X": 933402.374995422, 
+        "POINT_Y": 580842.1874385921, 
+        "CLOSED": "N", 
+        "ADDRESS": "16650 West Dixie Highway", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.92918, 
+        "NAME": "Watercrest Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16353042265439, 
+          25.930090626175836
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "FOLIO": "0722090062920", 
+        "CAPACITY": 86, 
+        "FACILID": 110, 
+        "HURZONE": "C", 
+        "PHONE2": "9542325400", 
+        "HYPERLINK": "malexander@hebrewhomes.org", 
+        "LON": -80.16353, 
+        "ZIPCODE": 33162, 
+        "FAX": "3059171818", 
+        "PHONE": "3059171800", 
+        "CONTACT": "Michael Alexander", 
+        "POINT_X": 931073.761214338, 
+        "POINT_Y": 581159.237329423, 
+        "CLOSED": "N", 
+        "ADDRESS": "1800 NE 168 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.93009, 
+        "NAME": "Hebrew Home for the Aged - North Dade"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15576840564674, 
+          25.93310601885746
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0722090010010", 
+        "CAPACITY": 99, 
+        "FACILID": 75, 
+        "HURZONE": "C", 
+        "PHONE2": "9543362231", 
+        "HYPERLINK": "sbailey@greystonehcm.com", 
+        "LON": -80.15577, 
+        "ZIPCODE": 33160, 
+        "FAX": "3059458280", 
+        "PHONE": "3059451401", 
+        "CONTACT": "D. SAMANTHA  BAILEY", 
+        "POINT_X": 933617.812556669, 
+        "POINT_Y": 582271.624540344, 
+        "CLOSED": "N", 
+        "ADDRESS": "2201 NE 170 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.93311, 
+        "NAME": "North Beach Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29498817502954, 
+          25.943431795305617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "3020010010085", 
+        "CAPACITY": 120, 
+        "FACILID": 99, 
+        "HURZONE": null, 
+        "PHONE2": "9542600051", 
+        "HYPERLINK": null, 
+        "LON": -80.29499, 
+        "ZIPCODE": 33015, 
+        "FAX": "3056251988", 
+        "PHONE": "3056259857", 
+        "CONTACT": "Christine Cento Hernandez", 
+        "POINT_X": 887842.374908254, 
+        "POINT_Y": 585754.1874570921, 
+        "CLOSED": "N", 
+        "ADDRESS": "5725 NW 186 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.94343, 
+        "NAME": "Heartland Health Care Center- Miami Lakes"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.44921688905924, 
+          25.459338566990663
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1079200010050", 
+        "CAPACITY": 120, 
+        "FACILID": 62, 
+        "HURZONE": "C", 
+        "PHONE2": "5613174340", 
+        "HYPERLINK": "admin.brookwood@signaturehealthcarellc.c", 
+        "LON": -80.44922, 
+        "ZIPCODE": 33035, 
+        "FAX": "3052469570", 
+        "PHONE": "3052461200", 
+        "CONTACT": "Keslerme Thelemaque", 
+        "POINT_X": 837893.3094522541, 
+        "POINT_Y": 409566.93517351197, 
+        "CLOSED": "N", 
+        "ADDRESS": "1990 South Canal Drive", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.45934, 
+        "NAME": "Brookwood Gardens Convalescent Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4800364400958, 
+          25.48305492718927
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "FOLIO": "1078120071010", 
+        "CAPACITY": 82, 
+        "FACILID": 76, 
+        "HURZONE": "D", 
+        "PHONE2": "3053213346", 
+        "HYPERLINK": "verma@thepalace.org", 
+        "LON": -80.48004, 
+        "ZIPCODE": 33030, 
+        "FAX": "3052487654", 
+        "PHONE": "3052480271", 
+        "CONTACT": "Verma  Johnson", 
+        "POINT_X": 827690.8124688381, 
+        "POINT_Y": 418145.53120525903, 
+        "CLOSED": "N", 
+        "ADDRESS": "1330 NW 1 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.48305, 
+        "NAME": "Homestead Manor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31666934723123, 
+          25.8702842044054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "FOLIO": "0420350850020", 
+        "CAPACITY": 120, 
+        "FACILID": 95, 
+        "HURZONE": null, 
+        "PHONE2": "7866231007", 
+        "HYPERLINK": "mdelgado@epworthrc.com", 
+        "LON": -80.31667, 
+        "ZIPCODE": 33012, 
+        "FAX": "3058211407", 
+        "PHONE": "3055563500", 
+        "CONTACT": "Marta Delgado", 
+        "POINT_X": 880856.000101503, 
+        "POINT_Y": 559129.6872285081, 
+        "CLOSED": "N", 
+        "ADDRESS": "5300 West 16 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.87028, 
+        "NAME": "Susanna Wesley Health Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20854384703335, 
+          25.793628222613847
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131350180220", 
+        "CAPACITY": 120, 
+        "FACILID": 840, 
+        "HURZONE": "B", 
+        "PHONE2": "7862553602", 
+        "HYPERLINK": "tescobar@doshealthcare.com", 
+        "LON": -80.20854, 
+        "ZIPCODE": 33136, 
+        "FAX": "3053473388", 
+        "PHONE": "3053473380", 
+        "CONTACT": "Terry Escobar", 
+        "POINT_X": 916578.307921838, 
+        "POINT_Y": 531467.3019365891, 
+        "CLOSED": "N", 
+        "ADDRESS": "1861 NW 8 Ave", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.79363, 
+        "NAME": "Jackson Plaza Nursing & Rehabilitation Ctr."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21987905598466, 
+          25.797406074006663
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131260480080", 
+        "CAPACITY": 294, 
+        "FACILID": 98, 
+        "HURZONE": "E", 
+        "PHONE2": "3058499191", 
+        "HYPERLINK": "malbury@techcarecorp.com", 
+        "LON": -80.21988, 
+        "ZIPCODE": 33142, 
+        "FAX": "3053250506", 
+        "PHONE": "3053251050", 
+        "CONTACT": "Maria Albury", 
+        "POINT_X": 912840.419400252, 
+        "POINT_Y": 532818.164720424, 
+        "CLOSED": "N", 
+        "ADDRESS": "1404 NW 22 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.79741, 
+        "NAME": "Unity Health and Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23196232992379, 
+          25.799926047154955
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0131270700010", 
+        "CAPACITY": 180, 
+        "FACILID": 186, 
+        "HURZONE": "E", 
+        "PHONE2": "7864663000", 
+        "HYPERLINK": "maria.mayor@jhsmiami.org", 
+        "LON": -80.23196, 
+        "ZIPCODE": 33142, 
+        "FAX": "3056386856", 
+        "PHONE": "7864663000", 
+        "CONTACT": "Maria Mayor", 
+        "POINT_X": 908859.312205006, 
+        "POINT_Y": 533710.711819842, 
+        "CLOSED": "N", 
+        "ADDRESS": "2500 NW 22 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.79993, 
+        "NAME": "Jackson Memorial Long Term Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32615926944196, 
+          25.586432760656127
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3660030010222", 
+        "CAPACITY": 53, 
+        "FACILID": 72, 
+        "HURZONE": "A", 
+        "PHONE2": "3056087039", 
+        "HYPERLINK": "drudio@jhsmiami.org", 
+        "LON": -80.32616, 
+        "ZIPCODE": 33157, 
+        "FAX": "7864663889", 
+        "PHONE": "7864663500", 
+        "CONTACT": "Delia  Rudio", 
+        "POINT_X": 878262.2191998359, 
+        "POINT_Y": 455945.557639174, 
+        "CLOSED": "N", 
+        "ADDRESS": "19590 Old Cutler Road", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.58643, 
+        "NAME": "Jackson Memorial Perdue Medical Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33153164517626, 
+          25.586785634083427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3660030010240", 
+        "CAPACITY": 60, 
+        "FACILID": 70, 
+        "HURZONE": "A", 
+        "PHONE2": "7865140060", 
+        "HYPERLINK": "ssternefeld@eastridgerc.com", 
+        "LON": -80.33153, 
+        "ZIPCODE": 33157, 
+        "FAX": "3052563548", 
+        "PHONE": "3052382623", 
+        "CONTACT": "Sandy  Sternefeld", 
+        "POINT_X": 876490.805747919, 
+        "POINT_Y": 456064.85136384505, 
+        "CLOSED": "N", 
+        "ADDRESS": "19301 SW 87 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.58679, 
+        "NAME": "East Ridge Retirement Village"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38414753225629, 
+          25.58932426059234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3069010050100", 
+        "CAPACITY": 60, 
+        "FACILID": 84, 
+        "HURZONE": "C", 
+        "PHONE2": "3052524000", 
+        "HYPERLINK": null, 
+        "LON": -80.38415, 
+        "ZIPCODE": 33177, 
+        "FAX": "3059696752", 
+        "PHONE": "3052524000", 
+        "CONTACT": "Rosemarie Bailey", 
+        "POINT_X": 859144.124890171, 
+        "POINT_Y": 456903.562612928, 
+        "CLOSED": "N", 
+        "ADDRESS": "11855 Quail Roost Drive", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.58932, 
+        "NAME": "St. Anne's Nursing Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35284976511338, 
+          25.630290916832596
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3050200360010", 
+        "CAPACITY": 120, 
+        "FACILID": 69, 
+        "HURZONE": "D", 
+        "PHONE2": null, 
+        "HYPERLINK": null, 
+        "LON": -80.35285, 
+        "ZIPCODE": 33157, 
+        "FAX": "3052551778", 
+        "PHONE": "3052553220", 
+        "CONTACT": "Ingrid Perdomo", 
+        "POINT_X": 869387.062409505, 
+        "POINT_Y": 471842.03109551204, 
+        "CLOSED": "N", 
+        "ADDRESS": "9869 SW 152 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.63029, 
+        "NAME": "Coral Reef Nursing and Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35379383661747, 
+          25.686490031468065
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3050050020151", 
+        "CAPACITY": 203, 
+        "FACILID": 115, 
+        "HURZONE": "D", 
+        "PHONE2": "7862561269", 
+        "HYPERLINK": "kspillman@ihs-inc.com", 
+        "LON": -80.35379, 
+        "ZIPCODE": 33176, 
+        "FAX": "3052745880", 
+        "PHONE": "3052716311", 
+        "CONTACT": "Armando Fernandez", 
+        "POINT_X": 868976.249910921, 
+        "POINT_Y": 492266.25041759, 
+        "CLOSED": "N", 
+        "ADDRESS": "9820 North Kendall Drive", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.68649, 
+        "NAME": "Harmony Health Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34706039095293, 
+          25.607557952313964
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3350330450020", 
+        "CAPACITY": 180, 
+        "FACILID": 14980, 
+        "HURZONE": "C", 
+        "PHONE2": "7863044828", 
+        "HYPERLINK": "gfh1336@yahoo.com", 
+        "LON": -80.34706, 
+        "ZIPCODE": 33157, 
+        "FAX": "3059697557", 
+        "PHONE": "3052551045", 
+        "CONTACT": "George Fernandez", 
+        "POINT_X": 871335.287187588, 
+        "POINT_Y": 463589.06564609, 
+        "CLOSED": "N", 
+        "ADDRESS": "17475 S. Dixie Highway", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.60756, 
+        "NAME": "South Dade Nursing and Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41803969646853, 
+          25.679051662688043
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3059030000220", 
+        "CAPACITY": 174, 
+        "FACILID": 77, 
+        "HURZONE": "D", 
+        "PHONE2": "9542610357", 
+        "HYPERLINK": "3161admin@hcr-manorcare.com", 
+        "LON": -80.41804, 
+        "ZIPCODE": 33186, 
+        "FAX": "3053884060", 
+        "PHONE": "3053858290", 
+        "CONTACT": "Shelly Ann Lau", 
+        "POINT_X": 847830.125208504, 
+        "POINT_Y": 489464.46894767904, 
+        "CLOSED": "N", 
+        "ADDRESS": "9400 SW 137 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.67905, 
+        "NAME": "Heartland Health Care Center of Kendall"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41803969646853, 
+          25.679051662688043
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3059030000220", 
+        "CAPACITY": 174, 
+        "FACILID": 15540, 
+        "HURZONE": "D", 
+        "PHONE2": "9542610357", 
+        "HYPERLINK": "3161admin@hcr-manorcare.com", 
+        "LON": -80.41804, 
+        "ZIPCODE": 33186, 
+        "FAX": "8885581734", 
+        "PHONE": "3053858290", 
+        "CONTACT": "Shelly Ann Lau", 
+        "POINT_X": 847830.125208504, 
+        "POINT_Y": 489464.46894767904, 
+        "CLOSED": "N", 
+        "ADDRESS": "9400 SW 137th Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.67905, 
+        "NAME": "Heartland Health Care Center - Kendall"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37442014379424, 
+          25.69093168485258
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040310430030", 
+        "CAPACITY": 180, 
+        "FACILID": 102, 
+        "HURZONE": "D", 
+        "PHONE2": null, 
+        "HYPERLINK": "www.thepalace.org", 
+        "LON": -80.37442, 
+        "ZIPCODE": 33173, 
+        "FAX": "3055984389", 
+        "PHONE": "3052712225", 
+        "CONTACT": "Lily Patterson", 
+        "POINT_X": 862175.750060503, 
+        "POINT_Y": 493847.906375006, 
+        "CLOSED": "N", 
+        "ADDRESS": "11215 SW 84 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.69093, 
+        "NAME": "The Palace Nursing Home"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21590479297987, 
+          25.741431437129528
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141140270011", 
+        "CAPACITY": 120, 
+        "FACILID": 64, 
+        "HURZONE": "B", 
+        "PHONE2": "7862550257", 
+        "HYPERLINK": null, 
+        "LON": -80.2159, 
+        "ZIPCODE": 33133, 
+        "FAX": "3058542827", 
+        "PHONE": "3058541110", 
+        "CONTACT": "Edwing  Ortiz", 
+        "POINT_X": 914269.124876171, 
+        "POINT_Y": 512481.09384609, 
+        "CLOSED": "N", 
+        "ADDRESS": "3671 South Miami Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74143, 
+        "NAME": "Nursing Center at Mercy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2818650807935, 
+          25.705405016709964
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "FOLIO": "0341300091940", 
+        "CAPACITY": 423, 
+        "FACILID": 13440, 
+        "HURZONE": "C", 
+        "PHONE2": "3059260960", 
+        "HYPERLINK": "ksimmons@rivierahealthresort.com", 
+        "LON": -80.28187, 
+        "ZIPCODE": 33146, 
+        "FAX": "3056688511", 
+        "PHONE": "7865176999", 
+        "CONTACT": "Kim Simmons", 
+        "POINT_X": 892627.3125168381, 
+        "POINT_Y": 499263.312538922, 
+        "CLOSED": "N", 
+        "ADDRESS": "6901 Yumuri Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.70541, 
+        "NAME": "New Rivera Nursing & Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31645862878206, 
+          25.746920208843818
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040140270020", 
+        "CAPACITY": 120, 
+        "FACILID": 178, 
+        "HURZONE": "C", 
+        "PHONE2": "7862864684", 
+        "HYPERLINK": "Marco.Carrasco@pcitexas.net", 
+        "LON": -80.31646, 
+        "ZIPCODE": 33155, 
+        "FAX": "3052655993", 
+        "PHONE": "3052659391", 
+        "CONTACT": "Marco Carrasco", 
+        "POINT_X": 881158.187489253, 
+        "POINT_Y": 514291.90616934, 
+        "CLOSED": "N", 
+        "ADDRESS": "2525 SW 75 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.74692, 
+        "NAME": "West Gables Health Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31865587525076, 
+          25.762286176101448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040110220020", 
+        "CAPACITY": 95, 
+        "FACILID": 434, 
+        "HURZONE": "D", 
+        "PHONE2": "7863143712", 
+        "HYPERLINK": "mcalonge@palsub.com", 
+        "LON": -80.31866, 
+        "ZIPCODE": 33144, 
+        "FAX": "3052615232", 
+        "PHONE": "3052612525", 
+        "CONTACT": "Monica Calonge", 
+        "POINT_X": 880406.070555169, 
+        "POINT_Y": 519873.068563424, 
+        "CLOSED": "N", 
+        "ADDRESS": "7600 SW 8 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76229, 
+        "NAME": "Palmetto Subacute Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30974072626015, 
+          25.76267582453977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3040110130040", 
+        "CAPACITY": 87, 
+        "FACILID": 114, 
+        "HURZONE": "D", 
+        "PHONE2": null, 
+        "HYPERLINK": "cgccfl@aol.com", 
+        "LON": -80.30974, 
+        "ZIPCODE": 33144, 
+        "FAX": "3052695115", 
+        "PHONE": "3052611363", 
+        "CONTACT": "Jon Steinmeyer", 
+        "POINT_X": 883339.511210587, 
+        "POINT_Y": 520029.956044927, 
+        "CLOSED": "N", 
+        "ADDRESS": "7060 SW 8 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76268, 
+        "NAME": "Coral Gables Convalescent Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13443145805, 
+          25.769478649495454
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0242030031260", 
+        "CAPACITY": 230, 
+        "FACILID": 65, 
+        "HURZONE": "B", 
+        "PHONE2": "3054583835", 
+        "HYPERLINK": "rschuster@hebrewhome_org", 
+        "LON": -80.13443, 
+        "ZIPCODE": 33139, 
+        "FAX": "3055385363", 
+        "PHONE": "3056721771", 
+        "CONTACT": "Rachel Schuster", 
+        "POINT_X": 941022.1875116711, 
+        "POINT_Y": 522843.094119422, 
+        "CLOSED": "N", 
+        "ADDRESS": "42 Collins Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76948, 
+        "NAME": "Southpoint Nursing Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21422686356745, 
+          25.7699552520723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141020053980", 
+        "CAPACITY": 147, 
+        "FACILID": 73, 
+        "HURZONE": "B", 
+        "PHONE2": "7865868147", 
+        "HYPERLINK": "alopez@hebrewhomes.org", 
+        "LON": -80.21423, 
+        "ZIPCODE": 33130, 
+        "FAX": "3055450398", 
+        "PHONE": "3055456695", 
+        "CONTACT": "Alicia Tapiador", 
+        "POINT_X": 914759.6875433361, 
+        "POINT_Y": 522851.781438008, 
+        "CLOSED": "N", 
+        "ADDRESS": "335 SW 12 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.76996, 
+        "NAME": "Ponce Plaza Nursing & Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.248594250262, 
+          25.772816520952905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141040240640", 
+        "CAPACITY": 60, 
+        "FACILID": 91, 
+        "HURZONE": "E", 
+        "PHONE2": "3057752478", 
+        "HYPERLINK": "www.floridean.com", 
+        "LON": -80.24859, 
+        "ZIPCODE": 33125, 
+        "FAX": "3055412193", 
+        "PHONE": "3056492911", 
+        "CONTACT": "Susanmarie Prado", 
+        "POINT_X": 903443.250202503, 
+        "POINT_Y": 523825.781458512, 
+        "CLOSED": "N", 
+        "ADDRESS": "47 NW 32nd Place", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.77282, 
+        "NAME": "The Floridean Nursing Home & Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1337149673087, 
+          25.772771509045242
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0242030030880", 
+        "CAPACITY": 104, 
+        "FACILID": 74, 
+        "HURZONE": "B", 
+        "PHONE2": "3059341577", 
+        "HYPERLINK": "jdunwoody@hebrewhomes.org", 
+        "LON": -80.13371, 
+        "ZIPCODE": 33139, 
+        "FAX": "3056726423", 
+        "PHONE": "3056726464", 
+        "CONTACT": "Jesse  Dunwoody", 
+        "POINT_X": 941250.125047922, 
+        "POINT_Y": 524041.49985909497, 
+        "CLOSED": "N", 
+        "ADDRESS": "320 Collins Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.77277, 
+        "NAME": "Miami Beach Hebrew Home for the Aged"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14708324306115, 
+          25.972146560440827
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Aventura", 
+        "FOLIO": "2812340010270", 
+        "CAPACITY": 120, 
+        "FACILID": 79, 
+        "HURZONE": "D", 
+        "PHONE2": "3059354827", 
+        "HYPERLINK": "ctetrault@cypresshealthgroup.com", 
+        "LON": -80.14708, 
+        "ZIPCODE": 33180, 
+        "FAX": "3059357574", 
+        "PHONE": "3059354827", 
+        "CONTACT": "Christopher Tetrault", 
+        "POINT_X": 936379.812610086, 
+        "POINT_Y": 596480.499993928, 
+        "CLOSED": "N", 
+        "ADDRESS": "21251 East Dixie Highway", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.97215, 
+        "NAME": "Palm Garden of North Miami Beach"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21099419213458, 
+          25.777027925030403
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141020410001", 
+        "CAPACITY": 253, 
+        "FACILID": 843, 
+        "HURZONE": "B", 
+        "PHONE2": "3052975492", 
+        "HYPERLINK": "vnrc955@gmail.com", 
+        "LON": -80.21099, 
+        "ZIPCODE": 33128, 
+        "FAX": "3055485018", 
+        "PHONE": "3055484020", 
+        "CONTACT": "Alan Solar", 
+        "POINT_X": 915808.188071005, 
+        "POINT_Y": 525428.813029341, 
+        "CLOSED": "N", 
+        "ADDRESS": "955 NW 3rd Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.77703, 
+        "NAME": "Victoria Nursing & Rehabilitation Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20902907622933, 
+          25.777862072874317
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "0141380030040", 
+        "CAPACITY": 120, 
+        "FACILID": 67, 
+        "HURZONE": "B", 
+        "PHONE2": "3052051536", 
+        "HYPERLINK": "taraiarcc899@aol.com", 
+        "LON": -80.20903, 
+        "ZIPCODE": 33128, 
+        "FAX": "3053261647", 
+        "PHONE": "3053261236", 
+        "CONTACT": "Teweldeberhan Araia", 
+        "POINT_X": 916453.062765505, 
+        "POINT_Y": 525735.875079259, 
+        "CLOSED": "N", 
+        "ADDRESS": "899 NW 4 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.77786, 
+        "NAME": "Riverside Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13368426978985, 
+          25.779142892807993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "FOLIO": "0242030090100", 
+        "CAPACITY": 196, 
+        "FACILID": 82, 
+        "HURZONE": "B", 
+        "PHONE2": "3055863573", 
+        "HYPERLINK": "j_asuarez@yahoo.com", 
+        "LON": -80.13368, 
+        "ZIPCODE": 33139, 
+        "FAX": "3055312429", 
+        "PHONE": "3055313321", 
+        "CONTACT": "Jose Suarez", 
+        "POINT_X": 941245.00005817, 
+        "POINT_Y": 526357.375148594, 
+        "CLOSED": "N", 
+        "ADDRESS": "550  9 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.77914, 
+        "NAME": "Oceanside Extended Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17337764989838, 
+          25.900438699681064
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "FOLIO": "0622200000230", 
+        "CAPACITY": 245, 
+        "FACILID": 181, 
+        "HURZONE": "E", 
+        "PHONE2": "7864224040", 
+        "HYPERLINK": "www.gchc.com", 
+        "LON": -80.17338, 
+        "ZIPCODE": 33161, 
+        "FAX": "3058910396", 
+        "PHONE": "3058916850", 
+        "CONTACT": "JeNell Shephard", 
+        "POINT_X": 927905.275425337, 
+        "POINT_Y": 570360.966931261, 
+        "CLOSED": "N", 
+        "ADDRESS": "1255 NE 135 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.90044, 
+        "NAME": "Berkshire Manor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19244977929613, 
+          25.90055111681343
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "FOLIO": "0622190001550", 
+        "CAPACITY": 100, 
+        "FACILID": 97, 
+        "HURZONE": "D", 
+        "PHONE2": "3055099127", 
+        "HYPERLINK": "www.pinecrestconvalescent.com", 
+        "LON": -80.19245, 
+        "ZIPCODE": 33161, 
+        "FAX": "3058992817", 
+        "PHONE": "3058931170", 
+        "CONTACT": "David Gold", 
+        "POINT_X": 921635.1108003369, 
+        "POINT_Y": 570362.768108755, 
+        "CLOSED": "N", 
+        "ADDRESS": "13650 NE 3 Court", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.90055, 
+        "NAME": "Pinecrest Convalescent Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19787716340892, 
+          25.9496852927501
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3021010480010", 
+        "CAPACITY": 120, 
+        "FACILID": 187, 
+        "HURZONE": null, 
+        "PHONE2": "3052061803", 
+        "HYPERLINK": "rkatz@mgccsnf.com", 
+        "LON": -80.19788, 
+        "ZIPCODE": 33179, 
+        "FAX": "3056549123", 
+        "PHONE": "3056519690", 
+        "CONTACT": "RICK KATZ", 
+        "POINT_X": 919741.562422086, 
+        "POINT_Y": 588210.812465094, 
+        "CLOSED": "N", 
+        "ADDRESS": "190 NE 191 Street", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.94969, 
+        "NAME": "Miami Gardens Care Centre"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15006254367387, 
+          25.9503404069649
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "FOLIO": "3022040510010", 
+        "CAPACITY": 180, 
+        "FACILID": 182, 
+        "HURZONE": "C", 
+        "PHONE2": "5617561177", 
+        "HYPERLINK": "swiesel@regentsparkaventura.com", 
+        "LON": -80.15006, 
+        "ZIPCODE": 33180, 
+        "FAX": "3059359278", 
+        "PHONE": "3059326360", 
+        "CONTACT": "Seth Wiesel", 
+        "POINT_X": 935452.437496338, 
+        "POINT_Y": 588548.062446758, 
+        "CLOSED": "N", 
+        "ADDRESS": "18905 NE 25 Avenue", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.95034, 
+        "NAME": "Regents Park at Aventura"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19679190777106, 
+          25.953861644866503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "FOLIO": "3022060340040", 
+        "CAPACITY": 180, 
+        "FACILID": 539, 
+        "HURZONE": "D", 
+        "PHONE2": "9546503700", 
+        "HYPERLINK": "sschiff@seniorsmanagement.com", 
+        "LON": -80.19679, 
+        "ZIPCODE": 33179, 
+        "FAX": "3056531621", 
+        "PHONE": "3056538427", 
+        "CONTACT": "Sid Schiff", 
+        "POINT_X": 920088.875047669, 
+        "POINT_Y": 589731.000041507, 
+        "CLOSED": "N", 
+        "ADDRESS": "220 Sierra Drive", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.95386, 
+        "NAME": "Florida Club Care Center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28294444485529, 
+          25.818648947520657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Springs", 
+        "FOLIO": "0531190102480", 
+        "CAPACITY": 320, 
+        "FACILID": 335, 
+        "HURZONE": "D", 
+        "PHONE2": "3052131309", 
+        "HYPERLINK": "kjos305@aol.com", 
+        "LON": -80.28294, 
+        "ZIPCODE": 33166, 
+        "FAX": "3058831983", 
+        "PHONE": "3058871565", 
+        "CONTACT": "Neal R. Kjos", 
+        "POINT_X": 892048.000027172, 
+        "POINT_Y": 540421.187572092, 
+        "CLOSED": "N", 
+        "ADDRESS": "201 Curtiss Parkway", 
+        "CAP_DESC": "Bed", 
+        "LAT": 25.81865, 
+        "NAME": "Fair Havens Center, L.L.C."
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21033510888046, 
+          25.776148407517137
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Dr. Rafael Penalver", 
+        "LON": -80.21034, 
+        "ZIPCODE": 33128, 
+        "POINT_X": 916026.999969337, 
+        "POINT_Y": 525110.4376818391, 
+        "ADDRESS": "971 NW 2nd St", 
+        "LAT": 25.77615
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20275304421678, 
+          25.784214755193783
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "PROVIDER": "Jefferson Reeves, Sr. Health Center", 
+        "LON": -80.20275, 
+        "ZIPCODE": 33136, 
+        "POINT_X": 918504.4375997521, 
+        "POINT_Y": 528057.3126935881, 
+        "ADDRESS": "1009 NW 5th Ave", 
+        "LAT": 25.78421
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24100846512977, 
+          25.925084730877046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Opa Locka", 
+        "PROVIDER": "North Dade Health Center", 
+        "LON": -80.24101, 
+        "ZIPCODE": 33054, 
+        "POINT_X": 905620.041452587, 
+        "POINT_Y": 579184.694362506, 
+        "ADDRESS": "16555 NW 25th Ave", 
+        "LAT": 25.92508
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29329195523385, 
+          25.70937567616433
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "South Miami", 
+        "PROVIDER": "Rosie Lee Wesley", 
+        "LON": -80.29329, 
+        "ZIPCODE": 33143, 
+        "POINT_X": 888856.9371835891, 
+        "POINT_Y": 500686.187645927, 
+        "ADDRESS": "6601 S.W. 62nd Avenue", 
+        "LAT": 25.70938
+      }
+    }
+  ]
+}
